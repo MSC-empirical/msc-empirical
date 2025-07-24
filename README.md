@@ -5,11 +5,15 @@
 ### 1.1 Dependency Relation Analysis
 
 #### a. Distribution and Downloads of Models
+<div align="center">
+
 
 |                |    $M_b$    |    $M_d$    |    $M_r$    |    $M_i$     |     $M$     |
 |:--------------:|:---------:|:---------:|:---------:|:----------:|:---------:|
 | **Size**       |  49,648   | 540,838   | 566,022   | 1,251,376  | 1,817,398 |
 | **Downloads**  |1,412,664,976|268,887,576|1,475,955,546|249,757,419|1,725,712,965|
+</div>
+
 
 #### b. Distribution of Derived Models
 
@@ -427,8 +431,19 @@
 
 </div>
 
+- **Models with post-release commit**: **145,445**  
+  - **Isolated models**: 99,168  
+  - **Relational models**: 46,277  
+    - **Base models**: 13,666  
+    - **Derived models**: 37,685  
+      - Fine-Tuned models: 30,872  
+      - Quantized models: 5,704  
+      - Merged models: 1,109  
+
+- **Models with newer_version updates**: 1,899
+
 ### 💡 Insight
-> About one in ten models evolves in 17 weeks. When they update, the changes are rarely surfaced through official metadata. Effective tools must thus bridge this {observability gap}, automating update discovery and propagating~upgrade deltas to downstream users to avoid outdated model usage.
+> About one in ten models evolves in 17 weeks. When they update, the changes are rarely surfaced through official metadata. Effective tools must thus bridge this **observability gap**, automating update discovery and propagating~upgrade deltas to downstream users to avoid outdated model usage.
 
 ---
 
@@ -468,7 +483,7 @@ The detailed sampling model data used for this analysis can be found in [sampled
 - **Missing dependency declarations**  
   - Of the 378 sampled models, 201 (53.2\%) do not declare any dependency.  
   - Manual review reveals that 79 of them are in fact derived from another model.  
-  - This means about **one-third of truly derived models lack a recorded dependency**, driving the **recall** down to \todo{68.5\%}.
+  - This means about **one-third of truly derived models lack a recorded dependency**, driving the **recall** down to 68.5\%.
 
 - **Correctness of declared dependencies**  
   - Among the 177 models that declare a dependency, it is almost always correct.  
