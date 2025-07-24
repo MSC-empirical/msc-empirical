@@ -29,7 +29,7 @@
 #### c. Detailed Distribution of Model Tasks by Dependency Types
 
 | **Relation** | **NLP**            | **CV**           | **Audio**        |**Multimodal**        |**Reinforcement Learning**        |**Tabular**        | **Total** |
-|:--------------:|:--------------------:|:------------------:|------------------:|:------------------:|:------------------:|:------------------:|:-----------:|
+|:--------------:|:--------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:-----------:|
 | Fine-Tune    | **109,591** (57.8%) | 63,721 (33.6%)   | 12,804 (6.8%)    | 3,208 (1.7%)    |104 (0.1%)    |23 (0.0%)    |189,451   |
 | Merge        | **11,092** (94.0%)  | 551 (4.7%)       | 7 (0.1%)     | 152 (1.3%)    |1 (0.0%)    |0 (0.0%)    |11,803    |
 | Quantize     | **31,855** (93.3%)  | 687 (2.0%)       | 348 (1.0%)     |1,209 (3.5%)    |53 (0.2%)    |5 (0.0%)    | 34,157    |
@@ -105,6 +105,7 @@
 
 
 #### d. Top-10 Chains with Their Operation Ratios
+<div align="center">
 
 | **Root Model**                                         | **Length** | **FineTune**  | **Merge**   | **Quantize**   |
 |:-----------:|-----------:|---------:|---------:|---------:|
@@ -118,6 +119,7 @@
 | lukasdrg/clinical_longformer_same_tokens_180k           | 20         | **100%** | 0%       | 0%       |
 | berkeley-nest/Starling-LM-7B-alpha                      | 19         | **55.56%** | 38.89% | 5.56%   |
 | FelixChao/Sectumsempra-7B-DPO                           | 18         | **52.94%** | 41.18% | 5.88%   |
+</div>
 
 
 ### 💡 Insight
@@ -177,6 +179,9 @@
 
 
 #### e. Top-10 Clusters with Their Operation Ratios
+<div align="center">
+
+
 | **Root Model**                        | **Size** | **Chains** | **FineTune**   | **Merge**   | **Quantize**   | **Task**          |
 |:-----------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | Qwen/Qwen1.5-0.5B                     | 32,554   |32,545   | **52.34%** | 1.87%    | 45.79%   | text-generation   |
@@ -189,6 +194,8 @@
 | google/gemma-7b                       | 9,871    | 8,821   |**77.97%** | 2.37%    | 19.66%   | text-generation   |
 | distilbert/distilbert-base-uncased    | 9,510    | 9,407   |**99.55%** | 0.01%    | 0.43%    | fill-mask         |
 | meta-llama/Meta-Llama-3-8B            | 9,261    | 7,537   |**48.31%** | 12.78%   | 38.90%   | text-generation   |
+</div>
+
 
 ### 💡 Insight
 > Dependency clusters uncover the topology~of~the model supply chain.  Most roots spawn only a handful of descendants, but a small number of NLP-centric base models underpin nearly one-third of all released models.  As clusters grow, they diversify operation types and become increasingly inducing broader attack surfaces.Supply chain governance must therefore focus on (i) keeping continuous watch on these root models in large clusters and (ii) adding rigorous checks to every operation step because mistakes there can also propagate to hundreds of downstream models. Applying assurance and security tooling on those two key points offers the highest return for protecting the entire model supply chain.
@@ -200,6 +207,9 @@
 ### 2.1 Addition and Deletion Analysis
 
 #### a. Addition of Models in 17 Weeks
+<div align="center">
+
+
 | Week | $M_{added}$ | $M_i$ |$M_r$ |$M_d$ |$M_b$|$M_f$|$M_m$|$M_q$|
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 20250319    | 24,255      | 15,833        |8,422 |8,170|252|5,319|335|2,516|
@@ -218,8 +228,12 @@
 | 20250618    | 36,543      | 27,122         |9,421|9,129|292|7.098|157|1,874|
 | 20250625    | 6,499       | 4,812         |1,687|1,637|50|1,283|14|340|
 |20250702    | 21,049      | 14,471         |6,578|6,425|153|4,142|89|2,194|
+</div>
 
 #### b. Relational Models Distribution Between Pre-existing and New Chains
+
+<div align="center">
+
 
 | Week       | Relational Models | In Pre-existing Chains | In New Chains |
 |:-----------:|:-----------:|:-----------:|:-----------:|
@@ -239,6 +253,8 @@
 | 20250618   | 9,421             | 8,781                   | 640           |
 | 20250625   | 1,687             | 1,557                   | 130           |
 | 20250702   | 6,578             | 6,117                   | 461           |
+</div>
+
 
 
 #### c. Addition of Chains and Clusters in 17 Weeks
@@ -267,6 +283,9 @@
 </div>
 
 #### d. Deletion of Models in 17 Weeks
+<div align="center">
+
+
 | Week | $M_{deleted}$ | $M_i$  | $M_r$  | $M_d$  | $M_b$ | $M_f$  | $M_m$ | $M_q$ |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 20250319 | 4,289  | 3,265 | 1,024 | 957  | 127 | 756  | 50  | 151  |
@@ -285,6 +304,7 @@
 | 20250618 | 5,048  | 4,013 | 1,035 | 985  |130  | 774   | 24  | 187  |
 | 20250625 | 2,516  | 1,997 | 519   | 510  |28  | 490   | 6   | 14   |
 | 20250702 | 2,842  | 2,075 | 767   | 725  | 75 | 625   | 15  | 85   |
+</div>
 
 
 #### e. Deletion of Chains and Clusters in 17 Weeks
@@ -314,6 +334,9 @@
 
 
 #### f. Impact of Weekly Base Model Deletions on the Dependency Structure in 17 Weeks
+<div align="center">
+
+
 | Week      | Deleted Models | Deleted Base Models | Affected Derived Models | Disrupted Chains | Disrupted Clusters | Affected Downstream Models |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 20250319  | 4,289         | 127                 | 225                      | 1,965            |    81                | 337                        |
@@ -332,6 +355,7 @@
 | 20250618  | 5,048         | 130                 | 204                      | 491              |         56           | 240                        |
 | 20250625  | 2,516         | 28                  | 135                      | 313              |       25             | 212                        |
 | 20250702  | 2,842         | 75                  | 131                      | 952              |          81          | 361                        |
+</div>
 
 #### g. Model Changes in Top Clusters in 17 Weeks
 
@@ -360,6 +384,8 @@
 </div>
 
 #### h. Top-10 Clusters in First Week (20250312) vs. in Final Week (20250702)
+<div align="center">
+
 | **Top-10 Clusters in First Week**                | **Size** | **Top-10 Clusters in Final Week**              | **Size** |
 |:-----------:|:-----------:|:-----------:|:-----------:|
 | Qwen/Qwen1.5-0.5B                                | 32,535   | black-forest-labs/FLUX.1-dev ↑3               | 32,796   |
@@ -373,6 +399,7 @@
 | distilbert/distilbert-base-uncased               | 8,285    | distilbert/distilbert-base-uncased            | 9,573    |
 | stabilityai/stable-diffusion-xl-base-1.0         | 7,129    | meta-llama/Meta-Llama-3-8B ↓2                 | 9,299    |
 
+</div>
 
 ### 💡 Insight
 > Model additions outnumber deletions, yet each deletion has outsized impact on all the downstream models. Thus every model becomes a potential single risk point, and could widely affect the whole model supply chain.  Developers should mirror critical root models locally (license permitting) to avoid sudden chain disruptions, while researchers can build early-warning dashboards, similar to those in classical package registries, to keep model supply chain transparent and resilient.
