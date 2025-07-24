@@ -6,7 +6,7 @@
 
 #### a. Distribution and Downloads of Models
 
-|                |    M_b    |    M_d    |    M_r    |    M_i     |     M     |
+|                |    $M_b$    |    $M_d$    |    $M_r$    |    $M_i$     |     $M$     |
 |:--------------:|:---------:|:---------:|:---------:|:----------:|:---------:|
 | **Size**       |  49,648   | 540,838   | 566,022   | 1,251,376  | 1,817,398 |
 | **Downloads**  |1,412,664,976|268,887,576|1,475,955,546|249,757,419|1,725,712,965|
@@ -14,12 +14,16 @@
 #### b. Distribution of Derived Models
 
 
+<div align="center">
+
 | Model | Count      | Percentage |
 |:--------------:|:--------------:|:--------------:|
-| M_f| 427,475    | 79.0%      |
-| M_q | 100,564    | 18.6%      |
-| M_m | 12,799     | 2.4%       |
-| M_d | 540,838    | 100%       |
+| $M_f$| 427,475    | 79.0%      |
+| $M_q$ | 100,564    | 18.6%      |
+| $M_m$ | 12,799     | 2.4%       |
+| $M_d$ | 540,838    | 100%       |
+
+</div>
 
 
 #### c. Detailed Distribution of Model Tasks by Dependency Types
@@ -31,7 +35,7 @@
 | Quantize     | **31,855** (93.3%)  | 687 (2.0%)       | 348 (1.0%)     |1,209 (3.5%)    |53 (0.2%)    |5 (0.0%)    | 34,157    |
 
 #### d. Top-10 Models by In-Degree and Out-Degree
-| **In-Degree** Model                                | Task             | deg_in(m) | **Out-Degree** Model                              | Task             | deg_out(m) |
+| **In-Degree** Model                                | Task             | $deg_{in}(m)$ | **Out-Degree** Model                              | Task             | $deg_{out}(m)$ |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | Novaciano/BAHAMUTH-PURGED-3.2-1B                    | text-generation  | 65                       | Qwen/Qwen1.5-0.5B                                 | text-generation  | 32,497                    |
 | Novaciano/BAHAMUTH-PURGED-3.2-1B-Q6_K-GGUF          | --               | 65                       | black-forest-labs/FLUX.1-dev                      | text-to-image    | 32,173                    |
@@ -46,11 +50,10 @@
 
 ### 💡 Insight
 
-> Our analysis uncovers a comprehensive usage dependency in model supply chain.  
-> Base models are deriving mainly through fine-tuning for NLP tasks, which speeds up progress but makes it hard to trace and trust the final model artifact because risks can flow from the base model, the tuning code, and the training data, generating a wide attack surface.  
-> **Maintainers** should therefore focus monitoring and governance on these high-degree models.  
-> **Researchers** can help by building automated tools for model lineage tracking and license checking that understand the semantics of models.  
-> **Hugging Face** could broaden the range of visible operations beyond just quantization, merging, and fine-tuning to include operations like distillation, pruning, and surface both dependency and task metadata in a clearer, more accessible way, empowering consumers to make informed decisions.
+> Our analysis uncovers a comprehensive usage dependency in model supply chain.  Base models are deriving mainly through fine-tuning for NLP tasks, which speeds up progress but makes it hard to trace and trust the final model artifact because risks can flow from the base model, the tuning code, and the training data, generating a wide attack surface.  
+> - **Maintainers** should therefore focus monitoring and governance on these high-degree models.  
+> - **Researchers** can help by building automated tools for model lineage tracking and license checking that understand the semantics of models.  
+> - **Hugging Face** could broaden the range of visible operations beyond just quantization, merging, and fine-tuning to include operations like distillation, pruning, and surface both dependency and task metadata in a clearer, more accessible way, empowering consumers to make informed decisions.
 
 ---
 
@@ -84,12 +87,17 @@
 | Quantize-dominant    | 61,380 (6.1%)              |
 | **Total Chains**     | 1,008,871          |
 
+
+
 #### c. Diversity of Operation within Model Chains
+
+
 | Operation Diversity            | Count |
 |:-----------:|:-----------:|
 | Single operation type           | 462,822(45.9%)      |
 | Exactly two operation types     | 263,164(26.1%)      |
 | All three operation types       | 282885(28.0%)      |
+
 
 
 #### d. Top-10 Chains with Their Operation Ratios
@@ -126,7 +134,7 @@
   - Clusters with 10 or fewer models account for22,271 (88.4\%).
 
 - **Presence of a long tail**:  
-  - \117 clusters exceed 1,000 models, reflecting a few highly developed model families.  
+  - 117 clusters exceed 1,000 models, reflecting a few highly developed model families.  
   - The largest cluster contains 32,554 models.
 
 
@@ -176,7 +184,7 @@
 ### 2.1 Addition and Deletion Analysis
 
 #### a. Addition of Models in 17 Weeks
-| Week | M_added | M_i |M_r |M_d |M_b|M_f|M_m|M_q|
+| Week | $M_{added}$ | $M_i$ |$M_r$ |$M_d$ |$M_b$|$M_f$|$M_m$|$M_q$|
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 20250319    | 24,255      | 15,833        |8,422 |8,170|252|5,319|335|2,516|
 | 20250326    | 28,242      | 19,474         |8,768|8,512|256|6,259|313|1,940|
@@ -218,6 +226,8 @@
 
 
 #### c. Addition of Chains and Clusters in 17 Weeks
+
+
 | Week        | New Chains | New Clusters |
 |:-----------:|:-----------:|:-----------:|
 | 20250319    | 508          | 252                         |
@@ -237,9 +247,8 @@
 | 20250625    | 80           | 50                          |
 | 20250702    | 306          | 153                         |
 
-
 #### d. Deletion of Models in 17 Weeks
-| Week | M_deleted | M_i  | M_r  | M_d  | M_b | M_f  | M_m | M_q |
+| Week | $M_{deleted}$ | $M_i$  | $M_r$  | $M_d$  | $M_b$ | $M_f$  | $M_m$ | $M_q$ |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 20250319 | 4,289  | 3,265 | 1,024 | 957  | 127 | 756  | 50  | 151  |
 | 20250326 | 4,800  | 3,561 | 1,239 | 1,175| 134 | 1,008 | 35  | 132  |
@@ -260,6 +269,8 @@
 
 
 #### e. Deletion of Chains and Clusters in 17 Weeks
+
+
 | Week        | Deleted Chains | Deleted Clusters |
 |:-----------:|:-----------:|:-----------:|
 | 20250319    | 18          | 27                         |
@@ -278,6 +289,9 @@
 | 20250618    | 10          | 38                         |
 | 20250625    | 2           | 8                          |
 | 20250702    | 14          | 29                         |
+
+<div>
+
 
 #### f. Impact of Weekly Base Model Deletions on the Dependency Structure in 17 Weeks
 | Week      | Deleted Models | Deleted Base Models | Affected Derived Models | Disrupted Chains | Disrupted Clusters | Affected Downstream Models |
@@ -300,6 +314,7 @@
 | 20250702  | 2,842         | 75                  | 131                      | 952              |          81          | 361                        |
 
 #### g. Model Changes in Top Clusters in 17 Weeks
+
 | Week      | New Models in Top Clusters | Deleted Models in Top Clusters |
 |:-----------:|:-----------:|:-----------:|
 | 20250319  | 1,554                      | 135                            |
@@ -318,6 +333,8 @@
 | 20250618  | 1,730                      | 188                            |
 | 20250625  | 358                        | 90                             |
 | 20250702  | 1,033                      | 204                            |
+
+<div>
 
 #### h. Top-10 Clusters in First Week (20250312) vs. in Final Week (20250702)
 | **Top-10 Clusters in First Week**                | **Size** | **Top-10 Clusters in Final Week**              | **Size** |
@@ -340,6 +357,7 @@
 ---
 
 ### 2.2 Update Analysis
+
 #### a. Distribution of Update Models
 
 | Models | Count | 
@@ -354,9 +372,8 @@
 | Merged models | 1,109 |
 | **Models with newer_version updates** | 1,899 |
 
-
 ### 💡 Insight
-> About one in ten models evolves in \todo{17} weeks. When they update, the changes are rarely surfaced through official metadata. Effective tools must thus bridge this {observability gap}, automating update discovery and propagating~upgrade deltas to downstream users to avoid outdated model usage.
+> About one in ten models evolves in 17 weeks. When they update, the changes are rarely surfaced through official metadata. Effective tools must thus bridge this {observability gap}, automating update discovery and propagating~upgrade deltas to downstream users to avoid outdated model usage.
 
 ---
 
@@ -392,6 +409,17 @@ The detailed sampling model data used for this analysis can be found in [sampled
 ---
 
 ### 3.2 Quality Analysis of Dependency Relations
+
+- **Missing dependency declarations**  
+  - Of the 378 sampled models, 201 (53.2\%) do not declare any dependency.  
+  - Manual review reveals that 79 of them are in fact derived from another model.  
+  - This means about **one-third of truly derived models lack a recorded dependency**, driving the **recall** down to \todo{68.5\%}.
+
+- **Correctness of declared dependencies**  
+  - Among the 177 models that declare a dependency, it is almost always correct.  
+  - Only 5 dependency relations are wrong (all in *Fine-Tune* operations), yielding a **precision** of 97.2\%.
+
+
 ### 💡 Insight
 > **Dependency fields are often missing for relational models**, and often falsely tagged for Fine-Tune operations. Adding comprehensive and accurate dependency tags (e.g., *Pruning*, *Convert*, or *Distillation*) would let users audit lineage, watch for upstream security fixes, and comply with emerging AI provenance rules.Consequently, **high-quality metadata is not optional**, as it is foundational to safe reuse and responsible deployment. **Model maintainers** must take greater responsibility in documenting training sources, dependency relations, and licensing terms. The **Hugging Face platform** should also enforce stricter metadata requirements and expand its dependency schema to reflect real-world model operations.
 
