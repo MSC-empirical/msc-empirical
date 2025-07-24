@@ -1,2 +1,2 @@
 data/models/*.zip filter=lfs diff=lfs merge=lfs -text
-data/model_chains/*.zip filter=lfs diff=lfs merge=lfs -text
+data/model_chains/*.txt filter=lfs diff=lfs merge=lfs -text
