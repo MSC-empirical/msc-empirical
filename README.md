@@ -80,16 +80,20 @@
 
 #### b. Proportion of Finetune-Dominant, Merge-Dominant, and Quantize-Dominant Chains
 
+<div align="center">
+
 | Chain Type          | Count |
 |:-----------:|:-----------:|
 | Finetune-dominant    | 458,412(45.4%)              |
 | Merge-dominant       | 489,079(48.5%)             |
 | Quantize-dominant    | 61,380 (6.1%)              |
 | **Total Chains**     | 1,008,871          |
-
+</div>
 
 
 #### c. Diversity of Operation within Model Chains
+
+<div align="center">
 
 
 | Operation Diversity            | Count |
@@ -97,7 +101,7 @@
 | Single operation type           | 462,822(45.9%)      |
 | Exactly two operation types     | 263,164(26.1%)      |
 | All three operation types       | 282885(28.0%)      |
-
+</div>
 
 
 #### d. Top-10 Chains with Their Operation Ratios
@@ -139,26 +143,38 @@
 
 
 #### b. Diversity of Operation within Model Clusters
+
+<div align="center">
+
 | **Cluster Type**      | **Count** |
 |:-----------:|:-----------:|
 | Single-type clusters   | 20,639(82.0%)    |
 | Double-type clusters   | 3,371 (13.4%)    |
 | Triple-type clusters   | 1,174 (4.7%)    |
 | Total   | 25184     |
+</div>
 
 #### c. Dominant Types in Double-type Clusters
+<div align="center">
+
+
 | **Dominant Type**     | **Count** | **Percentage** |
 |:-----------:|:-----------:|:-----------:|
 | FineTune     | 1,377     | 40.85%         |
 | merge        | 270       | 8.01%          |
 | quantized    | 1,724     | 51.14%         |
+</div>
 
 #### d. Dominant Types in Triple-type Clusters
+<div align="center">
+
 | **Dominant Type**     | **Count** | **Percentage** |
 |:-----------:|:-----------:|:-----------:|
 | FineTune     | 266       | 22.66%         |
 | merge        | 112       | 9.54%          |
 | quantized    | 796       | 67.80%         |
+</div>
+
 
 #### e. Top-10 Clusters with Their Operation Ratios
 | **Root Model**                        | **Size** | **Chains** | **FineTune**   | **Merge**   | **Quantize**   | **Task**          |
@@ -227,6 +243,8 @@
 
 #### c. Addition of Chains and Clusters in 17 Weeks
 
+<div align="center">
+
 
 | Week        | New Chains | New Clusters |
 |:-----------:|:-----------:|:-----------:|
@@ -246,6 +264,7 @@
 | 20250618    | 470          | 292                         |
 | 20250625    | 80           | 50                          |
 | 20250702    | 306          | 153                         |
+</div>
 
 #### d. Deletion of Models in 17 Weeks
 | Week | $M_{deleted}$ | $M_i$  | $M_r$  | $M_d$  | $M_b$ | $M_f$  | $M_m$ | $M_q$ |
@@ -270,6 +289,7 @@
 
 #### e. Deletion of Chains and Clusters in 17 Weeks
 
+<div align="center">
 
 | Week        | Deleted Chains | Deleted Clusters |
 |:-----------:|:-----------:|:-----------:|
@@ -290,7 +310,7 @@
 | 20250625    | 2           | 8                          |
 | 20250702    | 14          | 29                         |
 
-<div>
+</div>
 
 
 #### f. Impact of Weekly Base Model Deletions on the Dependency Structure in 17 Weeks
@@ -315,6 +335,9 @@
 
 #### g. Model Changes in Top Clusters in 17 Weeks
 
+<div align="center">
+
+
 | Week      | New Models in Top Clusters | Deleted Models in Top Clusters |
 |:-----------:|:-----------:|:-----------:|
 | 20250319  | 1,554                      | 135                            |
@@ -334,7 +357,7 @@
 | 20250625  | 358                        | 90                             |
 | 20250702  | 1,033                      | 204                            |
 
-<div>
+</div>
 
 #### h. Top-10 Clusters in First Week (20250312) vs. in Final Week (20250702)
 | **Top-10 Clusters in First Week**                | **Size** | **Top-10 Clusters in Final Week**              | **Size** |
@@ -360,6 +383,9 @@
 
 #### a. Distribution of Update Models
 
+<div align="center">
+
+
 | Models | Count | 
 |:-----------:|:-----------:|
 | **Models with post-release commit** | **145,445** |
@@ -371,6 +397,8 @@
 | Quantized models | 5,704 |
 | Merged models | 1,109 |
 | **Models with newer_version updates** | 1,899 |
+
+</div>
 
 ### 💡 Insight
 > About one in ten models evolves in 17 weeks. When they update, the changes are rarely surfaced through official metadata. Effective tools must thus bridge this {observability gap}, automating update discovery and propagating~upgrade deltas to downstream users to avoid outdated model usage.
