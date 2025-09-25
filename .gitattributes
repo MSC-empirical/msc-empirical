@@ -2,3 +2,8 @@ data/models/*.zip filter=lfs diff=lfs merge=lfs -text
 data/model_chains/*.txt filter=lfs diff=lfs merge=lfs -text
 data/model_degree_0625.csv filter=lfs diff=lfs merge=lfs -text
 data/model_props_0625.csv filter=lfs diff=lfs merge=lfs -text
+data/model_commit_history_0702/commits_part_050.json filter=lfs diff=lfs merge=lfs -text
+data/model_commit_history_0702/commits_part_047.json filter=lfs diff=lfs merge=lfs -text
+data/model_commit_history_0702/commits_part_048.json filter=lfs diff=lfs merge=lfs -text
+data/model_commit_history_0702/commits_part_049.json filter=lfs diff=lfs merge=lfs -text
+data/model_commit_history_0702/commits_part_051.json filter=lfs diff=lfs merge=lfs -text
