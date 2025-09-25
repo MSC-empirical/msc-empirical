@@ -1,0 +1,9 @@
+reedmayhew/DeepSeek-R1-2025Navigator-Llama-3.1-8B-hf -> reedmayhew/DeepSeek-R1-2025Navigator-Llama-3.1-8B-hf-Q4_K_M-GGUF
+motheecreator/ViT-GPT2-Image_Captioning_model -> motheecreator/ViT-GPT2
+motheecreator/ViT-GPT2-Image_Captioning_model -> motheecreator/ViT-GPT2-Image-Captioning
+MATX-Inc/seqax1b_2x_lr_2.5e-3 -> MATX-Inc/seqax1b_2x_lr_2.5e-3-SFT
+maius/sft-gemma-2-9b-26022025_074532 -> maius/lora-dpo-gemma-2-9b-01032025_000730
+mrdayl/OpenCognito-r1 -> mrdayl/OpenCognito-r1-gguf
+mrdayl/OpenCognito-r1 -> mrdayl/OpenCognito-r2-gguf
+mrdayl/OpenCognito-r1 -> mrdayl/OpenCognito-r2 -> mrdayl/OpenCognito-r2-Q4_K_M-GGUF
+tarundachepally/EGL_GRANITE_8b_testmodel1 -> tarundachepally/EGL_GRANITE_8b_testmodel1-Q4_K_M-GGUF

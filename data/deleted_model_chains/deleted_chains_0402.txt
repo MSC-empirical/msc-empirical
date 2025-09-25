@@ -1,0 +1,3 @@
+ChaoticNeutrals/Hathor_RP-v.01-L3-8B -> Nitral-AI/Hathor_Ultra-Mix-Final-0.420-L3-8B
+PhaseTechnologies/RoBERTo -> PhaseTechnologies/RoBERTo-physics-v1-finetuned
+Bakanayatsu/runner-SmolLM2-135M-v1.2 -> Bakanayatsu/runner-SmolLM2-135M-v1.2-Q8_0-GGUF

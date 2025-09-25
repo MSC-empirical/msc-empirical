@@ -1,0 +1,411 @@
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct-Original
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/Llama-4-Scout-17B-16E-Instruct-6bit
+meta-llama/Llama-4-Scout-17B-16E -> Undi95/meta-llama_Llama-4-Scout-17B-16E-Instruct
+meta-llama/Llama-4-Scout-17B-16E -> chutesai/Llama-4-Scout-17B-16E-Instruct
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-fp16
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-bf16
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/Llama-4-Scout-17B-16E-Instruct-8bit
+meta-llama/Llama-4-Scout-17B-16E -> unsloth/Llama-4-Scout-17B-16E-unsloth
+meta-llama/Llama-4-Scout-17B-16E -> shadowlilac/Llama-4-Scout-17B-4E-Instruct
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-Instruct-bf16
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-4bit
+meta-llama/Llama-4-Scout-17B-16E -> unsloth/Llama-4-Scout-17B-16E-unsloth-dynamic-bnb-4bit
+meta-llama/Llama-4-Scout-17B-16E -> unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-4bit
+meta-llama/Llama-4-Scout-17B-16E -> bnb-community/Llama-4-Scout-17B-16E-Instruct-bnb-4bit
+meta-llama/Llama-4-Scout-17B-16E -> bnb-community/Llama-4-Scout-17B-16E-Instruct-bnb-8bit
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-8bit
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/meta-llama-Llama-4-Scout-17B-16E-6bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> hollywoodfrancis/simpleLLM
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> shadowlilac/Llama-4-Scout-17B-6E-Instruct
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-8bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-dynamic-bnb-4bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> mradermacher/Llama-4-Scout-17B-16E-Instruct-i1-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> mradermacher/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> DevQuasar/meta-llama.Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> mmnga/Llama-4-Scout-17B-16E-Instruct-gguf
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> lmstudio-community/Llama-4-Scout-17B-16E-MLX-text-4bit
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> chatpig/llama-4-scout-17b-16e-it-gguf
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> yasu-oh/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> Mogith/Llama-4-Scout-17B-16E-Instruct-Q8_0
+meta-llama/Llama-4-Scout-17B-16E -> mlx-community/Llama-4-Scout-17B-16E-Instruct-4bit -> glogwa68/Llama-4-scout-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct -> second-state/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Scout-17B-16E -> meta-llama/Llama-4-Scout-17B-16E-Instruct -> unsloth/Llama-4-Scout-17B-16E-Instruct -> gaianet/Llama-4-Scout-17B-16E-Instruct-GGUF
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct-Original
+meta-llama/Llama-4-Maverick-17B-128E -> Undi95/meta-llama_Llama-4-Maverick-17B-128E-Instruct
+meta-llama/Llama-4-Maverick-17B-128E -> chutesai/Llama-4-Maverick-17B-128E-Instruct
+meta-llama/Llama-4-Maverick-17B-128E -> mlx-community/Llama-4-Maverick-17B-128E-Instruct-4bit
+meta-llama/Llama-4-Maverick-17B-128E -> mlx-community/Llama-4-Maverick-17B-128E-Instruct-6bit
+meta-llama/Llama-4-Maverick-17B-128E -> from-our-page/Llama-4-Maverick-17B-128E-mlx-4bit
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> unsloth/Llama-4-Maverick-17B-128E-Instruct
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> mradermacher/Llama-4-Maverick-17B-128E-Instruct-GGUF
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> mlx-community/Llama-4-Maverick-17B-16E-Instruct-4bit
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> unsloth/Llama-4-Maverick-17B-128E-Instruct-FP8
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> mlx-community/Llama-4-Maverick-17B-16E-Instruct-6bit
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> DevQuasar/meta-llama.Llama-4-Maverick-17B-128E-Instruct-GGUF
+meta-llama/Llama-4-Maverick-17B-128E -> meta-llama/Llama-4-Maverick-17B-128E-Instruct -> AaronimusPrime/llama-4-maverick-17b-128e-instruct-f16-gguf
+nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 -> DevQuasar/nvidia.Llama-3_1-Nemotron-Ultra-253B-v1-GGUF
+nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 -> nm-testing/Llama-3_1-Nemotron-Ultra-253B-v1-FP8-dynamic
+saturated-labs/T-Rex-mini -> NikolayKozloff/T-Rex-mini-Q8_0-GGUF
+saturated-labs/T-Rex-mini -> BobFawkes/T-Rex-mini-Q4_K_M-GGUF
+saturated-labs/T-Rex-mini -> Deaquay/T-Rex-mini-Q4_K_M-GGUF
+saturated-labs/T-Rex-mini -> Deaquay/T-Rex-mini-IQ4_XS-GGUF
+saturated-labs/T-Rex-mini -> Deaquay/T-Rex-mini-I1-IQ4_XS-GGUF
+OuteAI/Llama-OuteTTS-1.0-1B -> OuteAI/Llama-OuteTTS-1.0-1B-ONNX
+OuteAI/Llama-OuteTTS-1.0-1B -> adriabama06/Llama-OuteTTS-1.0-1B-GPTQ-8bit
+OuteAI/Llama-OuteTTS-1.0-1B -> imnotednamode/Llama-OuteTTS-1.0-1B-exl2-4bpw
+TheDrummer/Fallen-Command-A-111B-v1.1 -> bartowski/TheDrummer_Fallen-Command-A-111B-v1.1-GGUF
+rtl-llm/qwen-14b-vhdl -> mradermacher/qwen-14b-chisel-GGUF
+UCSC-VLAA/STAR1-R1-Distill-8B -> mradermacher/STAR1-R1-Distill-8B-GGUF
+UCSC-VLAA/STAR1-R1-Distill-8B -> mradermacher/STAR1-R1-Distill-8B-i1-GGUF
+shisa-ai/ablation-140-translation.dpo.test-shisa-v2-llama-3.1-8b -> mradermacher/ablation-140-translation.dpo.test-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-143-a128.dpo.armorm.rp.tl-shisa-v2-llama-3.1-8b -> mradermacher/ablation-143-a128.dpo.armorm.rp.tl-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-142-a128.dpo.armorm.rp.tl-shisa-v2-llama-3.1-8b -> mradermacher/ablation-142-a128.dpo.armorm.rp.tl-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-141-a128.dpo.armorm.rp-shisa-v2-llama-3.1-8b -> mradermacher/ablation-141-a128.dpo.armorm.rp-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-122-a114.dpo.armorm.rp-shisa-v2-unphi-4-14b -> mradermacher/ablation-122-a114.dpo.armorm.rp-shisa-v2-unphi-4-14b-GGUF
+shisa-ai/ablation-123-a114.dpo.armorm.rp-shisa-v2-mistral-nemo-12b -> mradermacher/ablation-123-a114.dpo.armorm.rp-shisa-v2-mistral-nemo-12b-GGUF
+shisa-ai/ablation-110-openrlhf.dpo.a106.5e7ax-shisa-v2-llama-3.1-8b -> mradermacher/ablation-110-openrlhf.dpo.a106.5e7ax-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-144-a128.dpo.armorm.rp.tl.5e7-shisa-v2-llama-3.1-8b -> mradermacher/ablation-144-a128.dpo.armorm.rp.tl.5e7-shisa-v2-llama-3.1-8b-GGUF
+Shaleen123/MedicalEDI-14b-EDI-Reasoning-5-bf16 -> mradermacher/MedicalEDI-14b-EDI-Reasoning-5-bf16-GGUF
+SmallDoge/Doge-20M-MoE -> SmallDoge/Doge-20M-MoE-Instruct
+SmallDoge/Doge-20M-MoE -> SmallDoge/Doge-20M-MoE-Instruct-SFT
+soob3123/amoral-gemma3-27B-v2 -> soob3123/amoral-gemma3-27B-v2-gguf
+soob3123/amoral-gemma3-27B-v2 -> lynnea1517/soob3123_amoral-gemma3-27b-v2-Q8_0-GGUF
+soob3123/amoral-gemma3-27B-v2 -> mradermacher/amoral-gemma3-27B-v2-GGUF
+soob3123/amoral-gemma3-27B-v2 -> mradermacher/amoral-gemma3-27B-v2-i1-GGUF
+Felladrin/Minueza-2-96M -> Felladrin/Minueza-2-96M-Instruct-Variant-01
+Felladrin/Minueza-2-96M -> Felladrin/Minueza-2-96M-Instruct-Variant-02 -> mradermacher/Minueza-2-96M-Instruct-Variant-02-GGUF
+Felladrin/Minueza-2-96M -> Felladrin/Minueza-2-96M-Instruct-Variant-03 -> EHM/Minueza-2-96M-Instruct-Variant-03-Q8_0-GGUF
+Felladrin/Minueza-2-96M -> Felladrin/Minueza-2-96M-Instruct-Variant-03 -> mradermacher/Minueza-2-96M-Instruct-Variant-03-GGUF
+Dream-org/Dream-v0-Instruct-7B -> Rainnighttram/Dream-7B-bnb-4bit
+Dream-org/Dream-v0-Instruct-7B -> Rainnighttram/Dream-v0-Instruct-7B-4bit
+shisa-ai/ablation-158-a128.dpo.finaldpo.if50-shisa-v2-llama-3.1-8b -> mradermacher/ablation-158-a128.dpo.finaldpo.if50-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-167-finaldpo.3e7-shisa-v2-unphi-4-14b -> mradermacher/ablation-167-finaldpo.3e7-shisa-v2-unphi-4-14b-GGUF
+shisa-ai/ablation-155-a151.dpofinal-shisa-v2-mistral-nemo-12b -> mradermacher/ablation-155-a151.dpofinal-shisa-v2-mistral-nemo-12b-GGUF
+shisa-ai/ablation-146-a128.dpo.armorm.rp.tl.1e6-shisa-v2-llama-3.1-8b -> mradermacher/ablation-146-a128.dpo.armorm.rp.tl.1e6-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-156-a152.dpofinal-shisa-v2-mistral-nemo-japanese-12b -> mradermacher/ablation-156-a152.dpofinal-shisa-v2-mistral-nemo-japanese-12b-GGUF
+shisa-ai/ablation-159-a128.dpo.finaldpo.if100-shisa-v2-llama-3.1-8b -> mradermacher/ablation-159-a128.dpo.finaldpo.if100-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-162-finaldpo-shisa-v2-unphi-4-14b -> mradermacher/ablation-162-finaldpo-shisa-v2-unphi-4-14b-GGUF
+shisa-ai/ablation-166-finaldpo.9e7-shisa-v2-unphi-4-14b -> mradermacher/ablation-166-finaldpo.9e7-shisa-v2-unphi-4-14b-GGUF
+shisa-ai/ablation-148-a128.dpo.armorm.rp.tl.2e6-shisa-v2-llama-3.1-8b -> mradermacher/ablation-148-a128.dpo.armorm.rp.tl.2e6-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/kd1-mistral-nemo-12b -> mradermacher/kd1-mistral-nemo-12b-GGUF
+shisa-ai/ablation-147-a128.dpo.armorm.rp.tl.1.5e6-shisa-v2-llama-3.1-8b -> mradermacher/ablation-147-a128.dpo.armorm.rp.tl.1.5e6-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-165-finaldpo.5e7-shisa-v2-unphi-4-14b -> mradermacher/ablation-165-finaldpo.5e7-shisa-v2-unphi-4-14b-GGUF
+shisa-ai/ablation-145-a128.dpo.armorm.rp.tl.8e7-shisa-v2-llama-3.1-8b -> mradermacher/ablation-145-a128.dpo.armorm.rp.tl.8e7-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-157-a128.dpo.finaldpo.if25-shisa-v2-llama-3.1-8b -> mradermacher/ablation-157-a128.dpo.finaldpo.if25-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/kd2-mistral-nemo-12b -> mradermacher/kd2-mistral-nemo-12b-GGUF
+cesun/ThinkEdit-deepseek-llama3-8b -> mradermacher/ThinkEdit-deepseek-llama3-8b-GGUF
+cesun/ThinkEdit-deepseek-llama3-8b -> mradermacher/ThinkEdit-deepseek-llama3-8b-i1-GGUF
+psyonp/Final-Llama-Cyber-1L -> mradermacher/Final-Llama-Cyber-1L-GGUF
+qingyangzhang/Qwen2.5-3B-EMPO-Natural-Reasoning-50K -> mradermacher/Qwen2.5-3B-EMPO-Natural-Reasoning-50K-GGUF
+psyonp/Final-Llama-CMD-1L -> mradermacher/Final-Llama-CMD-1L-GGUF
+HiDream-ai/HiDream-I1-Dev -> azaneko/HiDream-I1-Dev-nf4
+nvidia/Llama-3.1-8B-UltraLong-2M-Instruct -> mradermacher/Llama-3.1-8B-UltraLong-2M-Instruct-GGUF
+nvidia/Llama-3.1-8B-UltraLong-2M-Instruct -> m-i/Llama-3.1-8B-UltraLong-2M-Instruct-mlx-8Bit
+nvidia/Llama-3.1-8B-UltraLong-1M-Instruct -> mradermacher/Llama-3.1-8B-UltraLong-1M-Instruct-GGUF
+nvidia/Llama-3.1-8B-UltraLong-4M-Instruct -> mradermacher/Llama-3.1-8B-UltraLong-4M-Instruct-GGUF
+nvidia/Llama-3.1-8B-UltraLong-4M-Instruct -> m-i/Llama-3.1-8B-UltraLong-4M-Instruct-mlx-8Bit
+amazon/MistralLite -> topiga/AirRepsGPT
+amazon/MistralLite -> PrunaAI/amazon-MistralLite-QUANTO-int4bit-smashed
+amazon/MistralLite -> HugHugHug1111/MistralLite_adam_batch_1_temp_1
+amazon/MistralLite -> Shaleen123/mistrallite_medical_qa
+amazon/MistralLite -> codegood/MistralLite_SC
+amazon/MistralLite -> codegood/MistralLite_SCQA
+amazon/MistralLite -> Shaleen123/mistrallite-medical-full
+amazon/MistralLite -> Shaleen123/mistrallite-medical-qa-full
+amazon/MistralLite -> Shaleen123/mistrallite_medical_qa_full
+amazon/MistralLite -> Shaleen123/mistrallite_medicalqa_full_200k
+amazon/MistralLite -> Shaleen123/mistrallite_medical_qa_bruh
+amazon/MistralLite -> Shaleen123/mistrallite_medical_qa_150
+amazon/MistralLite -> Shaleen123/mistrallite_medical_qa_300
+amazon/MistralLite -> vonewman/mistral-7b-lite-dolly
+amazon/MistralLite -> aryopg/MistralLite-7b_lora_common_semeval_nli4ct_2024
+amazon/MistralLite -> aryopg/MistralLite-7b_lora_contrastive_semeval_nli4ct_2024
+amazon/MistralLite -> opllegaltech/zephyr-7b-beta-with-lora-adapter-50
+amazon/MistralLite -> TheBloke/MistralLite-7B-GGUF
+amazon/MistralLite -> TheBloke/MistralLite-7B-AWQ
+amazon/MistralLite -> TheBloke/MistralLite-7B-GPTQ
+amazon/MistralLite -> second-state/MistralLite-7B-GGUF
+amazon/MistralLite -> topiga/AirRepsGPT-GGUF
+amazon/MistralLite -> PrunaAI/amazon-MistralLite-bnb-4bit-smashed
+amazon/MistralLite -> PrunaAI/amazon-MistralLite-AWQ-4bit-smashed
+amazon/MistralLite -> frontiersolutions/mistrallite_q8
+amazon/MistralLite -> frontiersolutions/mistrallite_q4
+amazon/FalconLite -> PrunaAI/amazon-FalconLite-GGUF-smashed
+Edens-Gate/Hamanasu-4B-Adventure-Final -> mradermacher/Hamanasu-4B-Adventure-Final-GGUF
+Edens-Gate/Hamanasu-4B-Adventure-Final -> mradermacher/Hamanasu-4B-Adventure-Final-i1-GGUF
+doubledsbv/KafkaLM-15B-Base -> mradermacher/KafkaLM-15B-Distil-GGUF
+flyingbugs/Qwen2.5-Math-7B-Instruct -> flyingbugs/Qwen2.5-Math-7B-Instruct-keep-0.2-end-start-0.5-eos
+flyingbugs/Qwen2.5-Math-7B-Instruct -> flyingbugs/Qwen2.5-Math-7B-Instruct-keep-0.4-end-start-0.5-eos
+flyingbugs/Qwen2.5-Math-7B-Instruct -> wcs2024/Qwen2.5-Math-7B-Instruct-pruned-keep-0.00-0.50
+flyingbugs/Qwen2.5-Math-7B-Instruct -> wcs2024/Qwen2.5-Math-7B-Instruct-pruned-keep-0.50-1.00
+aisys2803/DeepSeek-R1-1-5B-SYS -> mradermacher/DeepSeek-R1-1-5B-SYS-GGUF
+samoline/3c6a8a9e-4c20-4152-8ab1-f467a14d7b8c -> lesso02/694cc264-d352-458d-af49-08559067eeec
+miosipof/asr2_aug_IT_v4_merged -> miosipof/asr2_aug_IT_v4_full
+miosipof/asr2_aug_IT_v4_merged -> miosipof/asr2_aug_IT_v5_full
+Exgc/R1V-Free-2.5VL-3B -> mradermacher/R1V-Free-2.5VL-3B-GGUF
+Intics/Krypton2_VL_7B_Instruct_v1 -> mradermacher/Krypton2_VL_7B_Instruct_v1-GGUF
+tarundachepally/EGL_granite_3b_testmodel1_new -> tarundachepally/EGL_granite_3b_testmodel1_new-Q6_K-GGUF
+rivaon/canberra -> mradermacher/canberra-GGUF
+Ataraxia009/AnxietyModelFinal-Merged -> mradermacher/AnxietyModelFinal-Merged-GGUF
+aadia1234/shakespeare-to-modern -> mradermacher/shakespeare-to-modern-GGUF
+abcorrea/llama-3.2-1b-tinystories-ft-50k -> mradermacher/llama-3.2-1b-tinystories-ft-50k-GGUF
+aadia1234/shakespeare-to-english -> mradermacher/shakespeare-to-english-GGUF
+ltgbao/Qwen-QwQ-32b-r256-4bit-Pentest-CoT -> ltgbao/Qwen-QwQ-32b-r256-4bit-Pentest-CoT-Q8_0-GGUF
+saim1212/penguin2-checkpoint2 -> saim1212/penguin2-checkpoint2-weights
+samoline/921cce99-8647-4259-b2a1-0226b66a5179 -> lesso18/82f018d8-b155-45bb-a4e4-a3b5e511ad31
+hendrik-spl/test_honest-serenity-73 -> hendrik-spl/test_honest-serenity-73-Q4_K_M-GGUF
+bunnycore/Gemma-3-4B-StockMix -> bunnycore/Gemma-3-4B-StockMix-Q6_K-GGUF
+bunnycore/Gemma-3-4B-StockMix -> mradermacher/Gemma-3-4B-StockMix-GGUF
+shisa-ai/ablation-112-bestofn.atlo.rp.tlx25-shisa-v2-llama-3.3-70b -> mradermacher/ablation-112-bestofn.atlo.rp.tlx25-shisa-v2-llama-3.3-70b-GGUF
+jq/Qwen-7B-UG40-fft-1-epoch-lr2e-5 -> jq/Qwen-7B-UG40-LoRA-3-epochs
+AlbertoB12/Stoicism1_Phi3.5-mini-instruct -> mradermacher/Stoicism1_Phi3.5-mini-instruct-GGUF
+AlbertoB12/Stoicism1_Phi3.5-mini-instruct -> mradermacher/Stoicism1_Phi3.5-mini-instruct-i1-GGUF
+coolyal/DeepSeek-R1-8B-sm -> coolyal/DeepSeek-R1-8B-sm-all
+shisa-ai/ablation-113-newmix-llama-3.3-70b -> mradermacher/ablation-113-newmix-GGUF
+samoline/03095c79-dc92-4086-9b23-22c749dc4958 -> lesso15/703cf9af-741e-4beb-902b-ffd0d9f4abb3
+shisa-ai/ablation-124-a113.dpo.armorm.rp-shisa-v2-llama-3.3-70b -> mradermacher/ablation-124-a113.dpo.armorm.rp-shisa-v2-llama-3.3-70b-GGUF
+shisa-ai/ablation-120-a112.dpo.armorm.rp-shisa-v2-llama-3.3-70b -> mradermacher/ablation-120-a112.dpo.armorm.rp-shisa-v2-llama-3.3-70b-GGUF
+Liam15/lora_model_qwen-2.5-16bitEVB1-Merge -> Liam15/lora_model_qwen-2.5-16bitEVB1-Merge-Q4_K_M-GGUF
+C10X/gemma-3-finetuneSSD -> C10X/gemma-3-finetuneSSD-Q8_0-GGUF
+SHerlocked66/LF-CODER-DEEPSEEK1.3 -> mradermacher/LF-CODER-DEEPSEEK1.3-GGUF
+TheGardener/width-pruned-qwen-instruct-0.7b -> mradermacher/width-pruned-qwen-instruct-0.7b-GGUF
+TheSkullery/L3.1x3.3-Hydroblated-R1-70B-v5 -> mradermacher/L3.1x3.3-Hydroblated-R1-70B-v5-GGUF
+TheSkullery/L3.1x3.3-Hydroblated-R1-70B-v5 -> mradermacher/L3.1x3.3-Hydroblated-R1-70B-v5-i1-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> cs2764/QwQ-R1984-32B-h-novel-Q8_0-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> mradermacher/QwQ-R1984-32B-h-novel-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> Yobenboben/Qwen2.5-32B-Snowgnome-EXP -> Yobenboben/Qwen2.5-32B-Snowgnome-EXP-Q4_K_S-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> Yobenboben/Qwen2.5-32B-Snowgnome-EXP -> mradermacher/Qwen2.5-32B-Snowgnome-EXP-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> Yobenboben/Qwen2.5-32B-Snowgnome-EXP -> mradermacher/Qwen2.5-32B-Snowgnome-EXP-i1-GGUF
+Aranya31/DermQwen-7b-label -> Aranya31/DermQwen-7b-adapter
+Liam15/lora_model_qwen-2.5-16bitEVB1P1-Merge -> Liam15/lora_model_qwen-2.5-16bitEVB1P1-Merge-Q4_K_M-GGUF
+samoline/a3ddb038-48fb-4765-a989-29968dcb2071 -> lesso16/5d6a5cb0-4d08-4456-84f3-2bd8a6ba22aa
+samoline/a3ddb038-48fb-4765-a989-29968dcb2071 -> Lin2es/5d299b1c-8c0c-4702-b5bd-8c51e81b6c3c
+samoline/a3ddb038-48fb-4765-a989-29968dcb2071 -> rayonlabs/a3ddb038-48fb-4765-a989-29968dcb2071-f9cfabfb7aa4737b_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+Liam15/lora_model_qwen-2.5-16bitEVB1P1L256-Merge -> Liam15/lora_model_qwen-2.5-16bitEVB1P1L256-Merge-Q4_K_M-GGUF
+Adityaa08/mistral_base_model -> Adityaa08/DPO_Mistral_basemodel
+Adityaa08/mistral_base_model -> Adityaa08/DPO_Mistral_adapters
+shisa-ai/ablation-109-a108.bestofn.atlo.rp.tlx25.newmix1-shisa-v2-llama-3.1-8b -> mradermacher/ablation-109-a108.bestofn.atlo.rp.tlx25.newmix1-shisa-v2-llama-3.1-8b-GGUF
+braindao/DeepSeek-R1-Distill-Qwen-32B-Blunt -> mradermacher/DeepSeek-R1-Distill-Qwen-32B-Blunt-GGUF
+xinyifang/ArxivLlama_HOP -> mradermacher/ArxivLlama_HOP-GGUF
+datumo/E-Star-Qwen-7B -> mradermacher/E-Star-Qwen-7B-GGUF
+jahyungu/qwen2.5-7b-inst-metamath -> mradermacher/qwen2.5-7b-inst-metamath-GGUF
+jacobpwarren/LinkedQwen2.5-14B-Instruct -> mradermacher/LinkedQwen2.5-14B-Instruct-GGUF
+unboundedmarket/vulnerabilities-openllama-3b -> mradermacher/vulnerabilities-openllama-3b-GGUF
+ABrain/HPGPT-DeepSeek-Coder-1.3b-Base-R -> mradermacher/HPGPT-DeepSeek-Coder-1.3b-Base-R-GGUF
+ksych/salt-voice-descr-10k -> mradermacher/salt-voice-descr-10k-GGUF
+EdMarcavage/MyFirst-Llama-3.1-8B -> mradermacher/MyFirst-Llama-3.1-8B-GGUF
+jahyungu/qwen2.5-math-7b-inst-metamath -> mradermacher/qwen2.5-math-7b-inst-metamath-GGUF
+braindao/DeepSeek-R1-Distill-Qwen-32B-Blunt-Uncensored -> mradermacher/DeepSeek-R1-Distill-Qwen-32B-Blunt-Uncensored-GGUF
+burmoo/roleplay-chat-GETWgHou -> mradermacher/roleplay-chat-GETWgHou-GGUF
+Raelina/Raehoshi-illust-XL-4 -> John6666/cotton-illustrious-v10-sdxl
+Raelina/Raehoshi-illust-XL-4 -> John6666/sepulchrespell-v10-sdxl
+samoline/3c355b29-921a-4203-b064-dd9a6b245fef -> lesso10/87fd6d6f-d17e-41fa-b10b-1547c25101b6
+samoline/3c355b29-921a-4203-b064-dd9a6b245fef -> Lin2es/324e8b06-5f28-4182-bbf4-12bcca7ce4d0
+MedAliFarhat/R1-Tunisian-Laws-Contracts-and-Obligations -> mradermacher/R1-Tunisian-Laws-Contracts-and-Obligations-GGUF
+mlfoundations-dev/DCFT-ot-114k_KodCode-V1_100k-etash -> mradermacher/DCFT-ot-114k_KodCode-V1_100k-etash-GGUF
+jahyungu/qwen2.5-coder-7b-inst-metamath -> mradermacher/qwen2.5-coder-7b-inst-metamath-GGUF
+mlfoundations-dev/DCFT-GeneralThought-430K-etash -> mradermacher/DCFT-GeneralThought-430K-etash-GGUF
+shisa-ai/ablation-111-a106.dpo.armorm.rp-shisa-v2-llama-3.1-8b -> mradermacher/ablation-111-a106.dpo.armorm.rp-shisa-v2-llama-3.1-8b-GGUF
+corbinvking/rainmaker-roberta -> corbinvking/rainmaker-roberta-qa
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_1ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_2ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_3ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_4ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_5ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_6ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_7ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_8ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_9ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_Adult_10ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_1ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_2ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_3ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_4ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_5ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_6ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_7ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_8ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_9ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_Adult_10ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_1ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_2ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_3ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_4ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_5ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_6ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_7ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_8ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_9ep_22
+MinaMila/Gemma2_9B_unlearning_general_methode -> MinaMila/gemma2_9b_unlearned_LLFT_GermanCredit_10ep_22
+samoline/abb39ae4-1908-4ca1-b790-f2eb5d6c8bab -> Kromtao/5da93cd9-0e65-4e99-b719-fd2d52171c1e
+samoline/abb39ae4-1908-4ca1-b790-f2eb5d6c8bab -> lesso04/fc658cec-1015-4669-a9b5-d0aa659b948b
+samoline/abb39ae4-1908-4ca1-b790-f2eb5d6c8bab -> lesso12/3bda9f2e-b50a-4356-889a-e64726c27d41
+samoline/abb39ae4-1908-4ca1-b790-f2eb5d6c8bab -> lesso10/edda341d-ca01-4a27-9c84-c557e67f4d88
+kamelcharaf/Llama-3.1-8B-Instruct-quantized-4bit -> kamelcharaf/SFT-meta-Llama-3.1-8B-quant-mrd3
+marcuscedricridia/Mixmix-LlaMAX3.2-1B -> marcuscedricridia/Mixmix-LlaMAX3.2-1B-Merge
+marcuscedricridia/Mixmix-LlaMAX3.2-1B -> mradermacher/Mixmix-LlaMAX3.2-1B-GGUF
+Yntec/stablydiffusedSMagnumOpus -> Yntec/Magnum
+Shaleen123/MedicalEDI-8b-EDI-Reasoning-nft -> mradermacher/MedicalEDI-8b-EDI-Reasoning-nft-GGUF
+drafiei/Qwen2.5-Coder-14B-Instruct-nl2sql_bird -> mradermacher/Qwen2.5-Coder-14B-Instruct-nl2sql_bird-GGUF
+LJK666/DeepSeek-R1-Environment-3 -> mradermacher/DeepSeek-R1-Environment-3-GGUF
+datumo/E-Star-Safety-7.8B -> mradermacher/E-Star-Safety-7.8B-GGUF
+kiriyk/seo_mistral_16bit -> kiriyk/seo_mistral_16bit-Q8_0-GGUF
+tmd-rahul/tinyllama-chatbot-merged-v2 -> mradermacher/tinyllama-chatbot-merged-v2-GGUF
+tmd-rahul/tinyllama-chatbot-merged-v3 -> mradermacher/tinyllama-chatbot-merged-v3-GGUF
+Shaleen123/MedicalEDI-8b-EDI-Reasoning-nonft -> mradermacher/MedicalEDI-8b-EDI-Reasoning-nonft-GGUF
+samoline/3c2d7b1f-9607-4651-8c09-6c939749b320 -> Lin2es/f66ecf14-6cf7-4384-97bf-6db1456de8c6
+samoline/3c2d7b1f-9607-4651-8c09-6c939749b320 -> lesso13/7631eb3a-b378-4586-b24e-d97f6f67be35
+samoline/3c2d7b1f-9607-4651-8c09-6c939749b320 -> rayonlabs/3c2d7b1f-9607-4651-8c09-6c939749b320-9fcbe8c0e7570ac8_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+Dorian2B/Vera-v1.1-Instruct -> mradermacher/Vera-v1.1-Instruct-GGUF
+Dorian2B/Vera-v1.5-Instruct -> mradermacher/Vera-v1.5-Instruct-GGUF
+jnjj/skskskskskksksks -> jnjj/xd
+AquilaX-AI/QnA-prev -> mradermacher/QnA-prev-GGUF
+tmd-rahul/tinyllama-chatbot-merged-v4 -> tmd-rahul/tinyllama-qlora-output_latest-v5
+tmd-rahul/tinyllama-chatbot-merged-v4 -> mradermacher/tinyllama-chatbot-merged-v4-GGUF
+MisterHolY/Unloked_Model-Mistral.7-B -> mradermacher/Unloked_Model-Mistral.7-B-GGUF
+i3ullbum/prometheus-remo-abs -> i3ullbum/prometheus-remo
+i3ullbum/prometheus-remo-rel -> i3ullbum/prometheus-remo
+ltgbao/openhands-lm-32b-r256-v0.1-4bit-Pentest-CoT -> ltgbao/openhands-lm-32b-r256-v0.1-4bit-Pentest-CoT-Q8_0-GGUF
+ltgbao/openhands-lm-32b-r256-v0.1-4bit-Pentest-CoT -> ltgbao/openhands-lm-32b-r256-v0.1-4bit-Pentest-CoT-Q6_K-GGUF
+psyonp/Final-Llama-Engineering-1L -> mradermacher/Final-Llama-Engineering-1L-GGUF
+Deepesh-001/RagFin-Ai -> mradermacher/RagFin-Ai-GGUF
+samoline/9a5111ea-5a44-439b-9070-bac06e59e04d -> Lin2es/63e5d34a-3684-48f8-93ea-ec686f8aa199
+samoline/9a5111ea-5a44-439b-9070-bac06e59e04d -> lesso06/8dc940a5-ed33-43a6-89ea-73cd857a01ce
+samoline/9a5111ea-5a44-439b-9070-bac06e59e04d -> rayonlabs/9a5111ea-5a44-439b-9070-bac06e59e04d-bf26417b6ab05508_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+samoline/63216c24-8856-4418-ba37-d2cc92ed704d -> lesso11/584f7191-bea2-4f94-94ce-40d76f07c9a9
+chamibuddhika/lc-0406-01 -> chamibuddhika/lc-0406-01-Q4_K_M-GGUF
+jnjj/llama_v2 -> jnjj/llama_v2-Q2_K-GGUF
+samoline/4b2d8e6b-5f2a-4c77-9c64-9c94fe354173 -> lesso16/2d6a6d39-7c25-403c-8172-7617aaadca1e
+Theros/Qwen2.5-ColdBrew-Aetheria-test2_tools -> Theros/Qwen2.5-ColdBrew-Aetheria-test2_tools-Q5_K_M-GGUF
+kshitijthakkar/qwen2_5-Coder-merged -> kshitijthakkar/qwen2_5-Coder-merged-Q8_0-GGUF
+kiriyk/seo_llama-3.1_16bit -> kiriyk/seo_llama-3.1_16bit-Q8_0-GGUF
+Liam15/lora_model_qwen-2.5-16bitEVB2P1-Merge -> Liam15/lora_model_qwen-2.5-16bitEVB2P1-Merge-Q4_K_M-GGUF
+sungwon7504/testModel -> sungwon7504/testModel-Q4_K_M-GGUF
+shisa-ai/ablation-150-finaldpo-shisa-v2-llama-3.3-70b -> mradermacher/ablation-150-finaldpo-shisa-v2-llama-3.3-70b-GGUF
+shisa-ai/ablation-149-finalsft-shisa-v2-llama-3.3-70b -> mradermacher/ablation-149-finalsft-shisa-v2-llama-3.3-70b-GGUF
+hqhQAQ/Hint-GRPO-Qwen2-VL-7B -> mradermacher/Hint-GRPO-Qwen2-VL-7B-GGUF
+SakuraLLM/LN-Korean-7B-v0.3 -> mradermacher/LN-Korean-7B-v0.3-GGUF
+SakuraLLM/LN-Korean-7B-v0.3 -> mradermacher/LN-Korean-7B-v0.3-i1-GGUF
+Teriarch/fastapply-1.5B -> mradermacher/fastapply-1.5B-GGUF
+anaocariz/Inventory-AI-Agent-VLLM -> mradermacher/Inventory-AI-Agent-VLLM-GGUF
+Dc-4nderson/EverFlora-Llama-3.2-1B-Finetuned -> mradermacher/EverFlora-Llama-3.2-1B-Finetuned-GGUF
+odedovadia/Llama-3.2-1B-Instruct-phishing-detection -> mradermacher/Llama-3.2-1B-Instruct-phishing-detection-GGUF
+kiriyk/seo_qwen-instruct_16bit_8epochs -> kiriyk/seo_qwen-instruct_16bit_8epochs-Q8_0-GGUF
+samoline/7b9e0afb-6c87-44af-b513-07c5c35cc3f3 -> lesso10/8319cfb6-a332-4b2d-8d3c-19f4456a9940
+samoline/7b9e0afb-6c87-44af-b513-07c5c35cc3f3 -> Lin2es/84b33098-74ee-4c1e-9de8-ff0a888e1cd8
+samoline/7b9e0afb-6c87-44af-b513-07c5c35cc3f3 -> rayonlabs/7b9e0afb-6c87-44af-b513-07c5c35cc3f3-614edd8c20080086_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+kiriyk/seo_qwen-instruct_16bit -> kiriyk/seo_qwen-instruct_16bit-Q8_0-GGUF
+Daemontatox/QWQ_Zero1 -> mradermacher/QWQ_Zero1-GGUF
+Daemontatox/QWQ_Zero1 -> mradermacher/QWQ_Zero1-i1-GGUF
+jgchaparro/language_garden-ell-tsd-1B -> mradermacher/language_garden-ell-tsd-1B-GGUF
+SUBSECT420/Llama3.2-3b-Neuro-sama -> mradermacher/Llama3.2-3b-Neuro-sama-GGUF
+MinHyeong/dolly-v2-7b_reg0.1 -> mradermacher/dolly-v2-7b_reg0.1-GGUF
+rumeshwrkn/llama-2-7b-chat-bible-2-NIV -> mradermacher/llama-2-7b-chat-bible-2-NIV-GGUF
+kawausorin/gemma3-1B-lora-merged -> kawausorin/gemma3-1B-lora-merged-Q4_K_M-GGUF
+kiriyk/seo_mistral_new -> kiriyk/seo_mistral_new-Q8_0-GGUF
+ymrrrr/DeepSeek-R1-Health-Risk-COT3 -> mradermacher/DeepSeek-R1-Health-Risk-COT3-GGUF
+TIILSE/DEI_Company_Model_Test_Lora -> TIILSE/DEI_Company_Model_Test_Lora-F32-GGUF
+Shlok0311/StoryTitleGenerator-v1 -> mradermacher/StoryTitleGenerator-v1-GGUF
+SeppeV/JokeTailorBiEncoder -> mradermacher/JokeTailorBiEncoder-GGUF
+Karthik-Rao-4572/Llama-3.2-94.6 -> Karthik-Rao-4572/Llama-95.4
+Mahesh2841/phi4-ethical-v2.2 -> mradermacher/phi4-ethical-v2.2-GGUF
+kiriyk/seo_mistral_new_4epochs -> kiriyk/seo_mistral_new_4epochs-Q8_0-GGUF
+atzuke/DeepSeek-R1-Weather-control-COT -> mradermacher/DeepSeek-R1-Weather-control-COT-GGUF
+Dans-DiscountModels/7b-m-dans-personalityengine-v1.2.1-rc-2 -> mradermacher/7b-m-dans-personalityengine-v1.2.1-rc-2-GGUF
+samoline/da0b19de-aa11-45f9-b6ed-cbfa116fe680 -> lesso08/39c3c0ba-7140-4de5-be02-93ad44454211
+Henrychur/MMed-Llama3.1-70B-MCQA -> mradermacher/MMed-Llama3.1-70B-MCQA-GGUF
+LSX-UniWue/LLaMmlein_7B -> LSX-UniWue/LLaMmlein_7B_chat -> mradermacher/LLaMmlein_7B_chat-GGUF
+LSX-UniWue/LLaMmlein_7B -> LSX-UniWue/LLaMmlein_7B_chat -> LSX-UniWue/LLaMmlein_7B_chat-gguf
+atzuke/DeepSeek-R1-Weather-control-v2-COT -> mradermacher/DeepSeek-R1-Weather-control-v2-COT-GGUF
+Shaleen123/MedicalEDI-8b-EDI-Reasoning-nonft-1 -> mradermacher/MedicalEDI-8b-EDI-Reasoning-nonft-1-GGUF
+philippe-miranthis/EducationHermes-2.5-Mistral-7B -> mradermacher/EducationHermes-2.5-Mistral-7B-GGUF
+rumeshwrkn/llama-2-7b-chat-bible-2-NIV-ESV -> mradermacher/llama-2-7b-chat-bible-2-NIV-ESV-GGUF
+rumeshwrkn/llama-2-7b-chat-bible-2-NIV-ESV-NASB -> mradermacher/llama-2-7b-chat-bible-2-NIV-ESV-NASB-GGUF
+Theros/Qwen2.5-ColdBrew-Aetheria-test3 -> Theros/Qwen2.5-ColdBrew-Aetheria-test3-Q5_K_M-GGUF
+ToastyPigeon/gemma-3-27b-fujin -> ToastyPigeon/gemma-3-27b-fujin-Q4_K_S-GGUF
+ToastyPigeon/gemma-3-27b-fujin -> ArtusDev/gemma-3-27b-fujin-GGUF
+ToastyPigeon/gemma-3-27b-fujin -> ToastyPigeon/gemma-3-27b-experiment-v2-merge -> mradermacher/gemma-3-27b-experiment-v2-merge-GGUF
+ToastyPigeon/gemma-3-27b-fujin -> ToastyPigeon/gemma-3-27b-experiment-v2-merge -> mradermacher/gemma-3-27b-experiment-v2-merge-i1-GGUF
+chamibuddhika/linux-commands-0407-00 -> chamibuddhika/linux-commands-0407-00-Q4_K_M-GGUF
+chamibuddhika/linux-commands-0407-00 -> mradermacher/linux-commands-0407-00-GGUF
+samoline/6352594b-010c-4cc7-9ea2-36fe456de2a6 -> lesso04/098bb00f-3a4b-4d51-bd68-65f9437791b1
+fukugawa/gemma-2-2b-finetuned -> fukugawa/gemma-2-2b-finetuned-bnb-4bit
+Theros/Qwen2.5-ColdBrew-Aetheria-test4 -> Theros/Qwen2.5-ColdBrew-Aetheria-test4-Q5_K_M-GGUF
+trashpanda-org/Qwen2.5-32B-White-Nights-ep1 -> mradermacher/Qwen2.5-32B-White-Nights-ep1-GGUF
+cesun/ThinkEdit-deepseek-qwen-1.5b -> mradermacher/ThinkEdit-deepseek-qwen-1.5b-GGUF
+cesun/ThinkEdit-deepseek-qwen-1.5b -> mradermacher/ThinkEdit-deepseek-qwen-1.5b-i1-GGUF
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-LoRa
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> mradermacher/Unnamed-Exp-70b-v0.7.A-GGUF
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> gg000/Unnamed-Exp-70b-v0.7.A-4bit
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Darkhn/Unnamed-Exp-70b-v0.7.A-4.0bpw-h8-exl2
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Darkhn/Unnamed-Exp-70b-v0.7.A-6.0bpw-h8-exl2
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_2.5bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_3.0bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_3.5bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_4.0bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_4.5bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_5.0bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_6.0bpw_H8
+TheSkullery/Unnamed-Exp-70b-v0.7.A -> Mawdistical/Vulpine-Seduction-70B_EXL2_8.0bpw_H8
+silx-ai/Quasar-3.0-Instract-v2 -> mradermacher/Quasar-3.0-Instract-v2-GGUF
+silx-ai/Quasar-3.0-Instract-v2 -> mradermacher/Quasar-3.0-Instract-v2-i1-GGUF
+cesun/ThinkEdit-deepseek-qwen-14b -> mradermacher/ThinkEdit-deepseek-qwen-14b-GGUF
+cesun/ThinkEdit-deepseek-qwen-14b -> mradermacher/ThinkEdit-deepseek-qwen-14b-i1-GGUF
+NemanTeam/nemesis -> mradermacher/nemesis-GGUF
+MichelRoland/Haussa-Afro-xlmr-base -> mradermacher/Haussa-Afro-xlmr-base-GGUF
+TheSkullery/L3.1x3.3-Hydroblated-R1-70B-v5.1 -> mradermacher/L3.1x3.3-Hydroblated-R1-70B-v5.1-GGUF
+TheSkullery/L3.1x3.3-Nemoblated-70B -> mradermacher/L3.1x3.3-Nemoblated-70B-GGUF
+tmd-rahul/tinyllama-chatbot-merged-v6 -> tmd-rahul/tinyllama-qlora-output-v8
+tmd-rahul/tinyllama-chatbot-merged-v6 -> tmd-rahul/tinyllama-qlora-output-v11
+samoline/a171d2e1-4c4f-4c8b-b79d-5b0d617e5f17 -> Kromtao/d38fcd69-3051-4019-ae5a-11011aa46fec
+samoline/a171d2e1-4c4f-4c8b-b79d-5b0d617e5f17 -> Lin2es/4635e549-2efe-4079-97d4-b204fb62068b
+samoline/a171d2e1-4c4f-4c8b-b79d-5b0d617e5f17 -> lesso03/f95716d8-173d-4fca-9f75-e29a18ed3eb5
+samoline/a171d2e1-4c4f-4c8b-b79d-5b0d617e5f17 -> rayonlabs/a171d2e1-4c4f-4c8b-b79d-5b0d617e5f17-423f2684df29b45d_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+athenasaurav/Ankita-full-epoch-10-orpheus-tts-0.1-pretrained-ft -> athenasaurav/Ankita-full-epoch-10-orpheus-tts-0.1-pretrained-ft-Q8_0-GGUF
+duyj/Qwen2.5-7B-Instruct-20250402 -> duyj/Qwen2.5-7B-Instruct-20250402-Q4_K_M-GGUF
+psyonp/Final-Llama-DNA-1L -> mradermacher/Final-Llama-DNA-1L-GGUF
+Kumshe/DeepSeek-Hausa-Chinese-Translation -> mradermacher/DeepSeek-Hausa-Chinese-Translation-GGUF
+xinyifang/ArxivLlama_pro -> mradermacher/ArxivLlama_pro-GGUF
+HiDream-ai/HiDream-I1-Fast -> azaneko/HiDream-I1-Fast-nf4
+samoline/091ab8b9-67f5-4e68-9977-e7bad94604f6 -> lesso16/4ef096f8-b84e-4cda-90a5-b324bf790297
+samoline/091ab8b9-67f5-4e68-9977-e7bad94604f6 -> Lin2es/2ef4fa08-c3ab-456b-8787-7193b5517fd0
+samoline/091ab8b9-67f5-4e68-9977-e7bad94604f6 -> rayonlabs/091ab8b9-67f5-4e68-9977-e7bad94604f6-84689ec14b4abd38_dataset_json_X-Amz-Algorithm_AWS4-HMAC-SHA
+HiDream-ai/HiDream-I1-Full -> azaneko/HiDream-I1-Full-nf4
+OTA-AI/OTA-v1 -> mradermacher/OTA-v1-GGUF
+OTA-AI/OTA-v1 -> mradermacher/OTA-v1-i1-GGUF
+gglabs/78under_log_202503_training_mistral_small_24B_2501_merged -> gglabs/250404-Mistral-Small-24B-ggls-78under-1-epoch
+ToastyPigeon/gemma-3-27b-experiment-storyteller -> mradermacher/gemma-3-27b-experiment-storyteller-GGUF
+ToastyPigeon/gemma-3-27b-experiment-storyteller -> SaisExperiments/ToastyPigeon_gemma-3-27b-experiment-storyteller-GGUF
+ToastyPigeon/gemma-3-27b-experiment-storyteller -> mradermacher/gemma-3-27b-experiment-storyteller-i1-GGUF
+ToastyPigeon/gemma-3-27b-experiment-storyteller -> ToastyPigeon/gemma-3-27b-experiment-v2-merge -> mradermacher/gemma-3-27b-experiment-v2-merge-GGUF
+ToastyPigeon/gemma-3-27b-experiment-storyteller -> ToastyPigeon/gemma-3-27b-experiment-v2-merge -> mradermacher/gemma-3-27b-experiment-v2-merge-i1-GGUF
+samoline/4e7f128b-dd72-4ad3-b3b4-403e9a72995c -> lesso14/d08512bd-dc52-4831-a25f-b32f9ef80a5f
+devichand/gemma-3-1b-peft-Codealpaca -> devichand/peft_resta
+devichand/gemma-3-1b-peft-Codealpaca -> devichand/gemma-3-1b-dare-peft-codealpaca -> devichand/peft_dare_resta
+whothefisyash/phi2-story-generator -> mradermacher/phi2-story-generator-GGUF
+smirki/Gradience-T1-3B-Merged -> mradermacher/Gradience-T1-3B-Merged-GGUF
+burew/Mistral-Small-24B-Roleplay -> mradermacher/Mistral-Small-24B-Roleplay-GGUF
+burew/Mistral-Small-24B-Roleplay -> mradermacher/Mistral-Small-24B-Roleplay-i1-GGUF
+belatijagad/cendekia-r1-sft-qwen-2.5-1.5b-instruct -> mradermacher/cendekia-r1-sft-qwen-2.5-1.5b-instruct-GGUF
+lodonnell32/ReactionSaysItAll -> mradermacher/ReactionSaysItAll-GGUF
+carsontalkAI/carsontalk-v0.2 -> mradermacher/carsontalk-v0.2-GGUF
+Dc-4nderson/EverFlora-Llama-3.2-1B-Finetuned4 -> mradermacher/EverFlora-Llama-3.2-1B-Finetuned4-GGUF
+mjpsm/Duval_Slang_SFT_Model -> mradermacher/Duval_Slang_SFT_Model-GGUF
+mjpsm/Duval_Slang_CLM -> mradermacher/Duval_Slang_CLM-GGUF
+Skufys/YoutubeCommentGenerator -> mradermacher/YoutubeCommentGenerator-GGUF
+johnjakobjackson1/carsontalk-v0.1 -> mradermacher/carsontalk-v0.1-GGUF
+eyad-silx/Quasar-DeepSeek-R1-Distill-Qwen-14B-TTM -> mradermacher/Quasar-DeepSeek-R1-Distill-Qwen-14B-TTM-GGUF
+charlottegl/CantoSent-Llama3-8B-OpenRice-v1 -> mradermacher/CantoSent-Llama3-8B-OpenRice-v1-GGUF
+belatijagad/cendekia-r1-qwen-2.5-1.5b-instruct -> mradermacher/cendekia-r1-qwen-2.5-1.5b-instruct-GGUF
+MilyaShams/DeepSeek-R1-Distill-Qwen-1.5B-medical-continual-pretrain-merged-f32 -> MilyaShams/DeepSeek-R1-Distill-Qwen-1.5B-medical-msft-merged
+abideen/jsl-mistral-24b -> mradermacher/jsl-mistral-24b-GGUF
+abideen/jsl-mistral-24b -> mradermacher/jsl-mistral-24b-i1-GGUF
+cs2764/nicoboss-DeepSeek-R1-Distill-Llama-70B-Uncensored-v2-Unbiased-Reasoner-h-novel -> cs2764/nicoboss-DeepSeek-R1-Distill-Llama-70B-Uncensored-v2-Unbiased-Reasoner-h-novel-mlx-4Bit

@@ -1,0 +1,93 @@
+Shuu12121/CodeModernBERT-Owl -> Shuu12121/CodeSearch-ModernBERT-Owl-FT
+birder-project/vitreg4_b16_mim -> birder-project/vitreg4_b16_mim-intermediate-il-common
+birder-project/vitreg4_b16_mim -> birder-project/vitreg4_b16_mim-intermediate-arabian-peninsula
+Shuu12121/CodeMorph-ModernBERT -> Shuu12121/CodeMorph-ModernBERTv2
+Iego/EX2 -> Iego/EX2-Q4_K_M-GGUF
+MrRobotoAI/101 -> MrRobotoAI/113
+MrRobotoAI/101 -> MrRobotoAI/126
+MrRobotoAI/101 -> MrRobotoAI/137
+MrRobotoAI/101 -> MrRobotoAI/148
+MrRobotoAI/101 -> MrRobotoAI/190
+MrRobotoAI/101 -> MrRobotoAI/201
+MrRobotoAI/101 -> MrRobotoAI/212
+MrRobotoAI/101 -> MrRobotoAI/101-Q4_K_M-GGUF
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/132
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/136
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/137
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/138
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/139
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/140
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/141
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/142
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/143
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/144
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/145
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/146
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/147
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/148
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/149
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/180
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/181
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/182
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/183
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/184
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/185
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/187
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/188
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/189
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/190
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/191
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/192
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/193
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/194
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/195
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/196
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/197
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/198
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/199
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/200
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/201
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/202
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/203
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/204
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/205
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/206
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/207
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/208
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/209
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/210
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/211
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/212
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/213
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/214
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/215
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/216
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/217
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/218
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/219
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/114
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/108-Q4_K_M-GGUF
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/124
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/135
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/146
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/188
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/199
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/210
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/111 -> MrRobotoAI/111-Q4_K_M-GGUF
+MrRobotoAI/101 -> MrRobotoAI/112 -> MrRobotoAI/109 -> MrRobotoAI/133
+MrRobotoAI/101 -> MrRobotoAI/112 -> MrRobotoAI/109 -> MrRobotoAI/109-Q4_K_M-GGUF
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/127
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/129
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/130
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/131
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/133
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/134
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/128
+MrRobotoAI/101 -> MrRobotoAI/108 -> MrRobotoAI/121 -> MrRobotoAI/106 -> MrRobotoAI/106-Q4_K_M-GGUF
+cs2764/QwQ-R1984-32B-h-novel -> cs2764/QwQ-R1984-32B-h-novel-Q8_0-GGUF
+cs2764/nicoboss-DeepSeek-R1-Distill-Llama-70B-Uncensored-v2-Unbiased-Reasoner-h-novel -> cs2764/nicoboss-DeepSeek-R1-Distill-Llama-70B-Uncensored-v2-Unbiased-Reasoner-h-novel-mlx-4Bit
+Shuu12121/CodeModernBERT-Ghost -> Shuu12121/CodeEncoderDecoderModel-Ghost
+Shuu12121/CodeModernBERT-Ghost -> Shuu12121/CodeEncoderDecoderModel-Ghost-large
+cs2764/DavidAU_Qwen2.5-QwQ-37B-Eureka-Triple-Cubed-abliterated-uncensored-H-novel-v2 -> cs2764/DavidAU_Qwen2.5-QwQ-37B-Eureka-Triple-Cubed-abliterated-uncensored-H-novel-v2-Q8_0-GGUF
+cs2764/DavidAU_Qwen2.5-QwQ-37B-Eureka-Triple-Cubed-abliterated-uncensored-H-novel-v2 -> cs2764/DavidAU_Qwen2.5-QwQ-37B-Eureka-Triple-Cubed-abliterated-uncensored-H-novel-v2-mlx-8Bit
+AIvel/Regicide-21B-Theia-Mell -> mradermacher/Regicide-21B-Theia-Mell-GGUF

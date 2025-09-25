@@ -1,0 +1,22 @@
+gabrielbosse9/umbr0X_ai-14B-checkpoint1 -> gabrielbosse9/umbr0X_ai-14B-checkpoint2 -> gabrielbosse9/umbr0X_ai-14B-checkpoint3
+hardlyworking/RPtester -> hardlyworking/RPtester-Q4_0-GGUF
+pphuc25/llama-3.1-8B-KG -> pphuc25/model_kg_lora_checkpoint
+pphuc25/llama-3.1-8B-KG -> pphuc25/model_kg_lora
+gabrielbosse9/umbr0x-1.5b-checkpoint1 -> gabrielbosse9/umbr0x-1.5b-checkpoint2
+gabrielbosse9/umbr0x-1.5b-checkpoint1 -> gabrielbosse9/umbr0X_ai-1.5B-checkpoint1
+Bouquets/Test -> Bouquets/Test-Q8_0-GGUF
+NewEden/4B-inst-e1 -> NewEden/Hamanasu-4B-E1-E2-Merged
+NewEden/4B-Inst -> NewEden/Hamanasu-4B-E1-E2-Merged
+NewEden/Hamanasu-4B-R2 -> NewEden/hamanasu-4b-kto-ckpts
+hardlyworking/Aura-4B-v2 -> hardlyworking/Aura-4B-v2-Q4_0-GGUF
+NewEden/Hamanasu-KTO-4B -> NewEden/Hamanasu-4B-Adventure-Final-Hopefully
+NewEden/Hamanasu-KTO-4B -> hardlyworking/Hamanasu-KTO-4B-Q4_0-GGUF
+hardlyworking/DPE-4B -> hardlyworking/Dans-Aura-4B -> hardlyworking/Dans-Aura-4B-Q4_0-GGUF
+sommerzen/Qwemma3-4b-IT-DRAFT -> sommerzen/Qwemma3-4b-IT-DRAFT-Q5_K_M-GGUF
+sommerzen/Gemma3-4b-IT-DRAFT -> sommerzen/Gemma3-4b-IT-DRAFT-Q5_K_M-GGUF
+sommerzen/Gemma3-4b-IT-DRAFT -> sommerzen/Gemma3-4b-IT-DRAFT-Q4_K_M-GGUF
+NeutrinoPit/opus-mt-tc-big-en-ar-finetuned -> NeutrinoPit/opus-mt-tc-big-en-ar-qed-finetuned
+kromcomp/L3.1-Psychev1-12B -> kromcomp/L3.1-Tarnishedv1-12B
+kromcomp/L3.1-Psychev1-12B -> kromcomp/L3.1-Tarnishedv3-12B
+kromcomp/L3.1-Blackenedv2-12B -> kromcomp/L3.1-Tarnishedv3-12B
+NewEden/Hamanasu-KTO-V2 -> NewEden/Hamanasu-Magnum-4B-Ckpts

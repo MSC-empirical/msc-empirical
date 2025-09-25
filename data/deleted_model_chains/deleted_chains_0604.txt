@@ -1,0 +1,17 @@
+sujalrajpoot/Ira_EQ-1B -> sujalrajpoot/Ira_EQ-1B-Q8_0-GGUF
+sujalrajpoot/Ira_EQ-1B -> sujalrajpoot/Ira_EQ-1B-Q6_K-GGUF
+sujalrajpoot/Ira_EQ-1B -> sujalrajpoot/Ira_EQ-1B-Q5_K_M-GGUF
+sujalrajpoot/Ira_EQ-1B -> sujalrajpoot/Ira_EQ-1B-Q4_K_M-GGUF
+nil6753/gemma3_fine_250502 -> nil6753/gemma3_fine_250502-Q8_0-GGUF
+ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2 -> ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2_DPO
+ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2 -> ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2_DPO_1-lora
+ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2 -> ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_2_DPO_1
+greenwich157/nemotron-nano-8b-telcollm -> greenwich157/nemotron-nano-8b-telcollm-Q8_0-GGUF
+greenwich157/nemotron-nano-8b-telcollm-h -> greenwich157/nemotron-nano-8b-telcollm-h-Q8_0-GGUF
+greenwich157/qwen3-4b-telcollm-b -> greenwich157/qwen3-4b-telcollm-b-Q8_0-GGUF
+greenwich157/qwen3-4b-telcollm-d -> greenwich157/qwen3-4b-telcollm-d-Q8_0-GGUF
+gabberdotdev/orpheus-finetune-fp16-es -> gabberdotdev/orpheus-lora-snaps
+green19d25y/gpt2-23m-hf -> green19d25y/gpt2-23m-hf-ftv1
+green19d25y/Qwen2-32m-hf -> green19d25y/Qwen2-32m-hf-ftv1
+soob3123/GrayLine-Qwen3-14B-Planner-V1a -> soob3123/GrayLine-Qwen3-14B-Planner-V1a-Q4_K_M-GGUF
+soob3123/GrayLine-Qwen3-14B-Planner-V1c -> soob3123/GrayLine-Qwen3-14B-Planner-V1c-Q4_K_M-GGUF

@@ -1,0 +1,11 @@
+open-neo/OdysseyXL-Origin -> open-neo/OdysseyXL-V1 -> open-neo/OdysseyXL-V2 -> open-neo/OdysseyXL-V2.5
+Casual-Autopsy/Llama-3-Yollow-SCE -> Casual-Autopsy/Llama-3-VNTL-Yollow-8B -> Casual-Autopsy/Llama-3-VNTL-Yollow-8B-Q8_0-GGUF
+Casual-Autopsy/Llama-3-Yollow-SCE -> Casual-Autopsy/Llama-3-VNTL-Yollow-8B-Fixed -> Casual-Autopsy/Llama-3-VNTL-Yollow-8B-v2-TEST001-Q6_K-GGUF
+Phase-AI/RoBERTo -> Phase-AI/RoBERTo-physics-v1-finetuned
+alperenyildiz/SmolGRPO-135M -> alperenyildiz/SmolGRPO-135M-Q4_K_M-GGUF
+alperenyildiz/SmolGRPO_vuln -> alperenyildiz/SmolGRPO_vuln-Q4_K_M-GGUF
+Yuichi1218/20250408Tetun-unsloth-llama3.1-instruct-bnb4bit -> Yuichi1218/Lafaek-8B-instruct-04182118
+Yuichi1218/Lafaek-8B-instruct-05160958 -> Yuichi1218/Lafaek-8B-MSCS-instruct-05191040
+sourav-rapid-innovation/QWEN2.5-VL-3B-Full_Retraining-7-X-3000 -> sourav-rapid-innovation/qwen_vl_grpo_output
+hubble658/obss-merged-qwen-new -> hubble658/obss-qwen-7b-1.5ep
+greenwich157/granite-3.3-8b-instruct-telcollm-c -> greenwich157/granite-3.3-8b-instruct-telcollm-c-Q8_0-GGUF

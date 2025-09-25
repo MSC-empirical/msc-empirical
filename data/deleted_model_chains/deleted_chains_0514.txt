@@ -1,0 +1,3 @@
+TNSA-AI/N-Gen-2 -> TNSA-AI/NGen2Base
+pi-de-pie/finetuned-nllb -> pi-de-pie/finetuned_nllb
+Juicesyo/Saffi-beta -> Juicesyo/Saffi-beta-Q4_K_M-GGUF

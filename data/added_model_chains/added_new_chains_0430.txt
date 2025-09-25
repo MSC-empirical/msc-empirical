@@ -1,0 +1,817 @@
+Qwen/Qwen3-30B-A3B-Base -> unsloth/Qwen3-30B-A3B-Base
+Qwen/Qwen3-30B-A3B-Base -> qwen-community/Qwen3-30B-A3B
+Qwen/Qwen3-30B-A3B-Base -> pedalnomica/Qwen3-30B-A3B
+Qwen/Qwen3-30B-A3B-Base -> Fizzarolli/Qwen3-30B-A3B-xet
+Qwen/Qwen3-30B-A3B-Base -> AlphaGaO/Qwen3-30B-A3B-GPTQ
+Qwen/Qwen3-30B-A3B-Base -> mradermacher/Qwen3-30B-A3B-Base-GGUF
+Qwen/Qwen3-30B-A3B-Base -> unsloth/Qwen3-30B-A3B-Base-bnb-4bit
+Qwen/Qwen3-30B-A3B-Base -> charlesthefool/Qwen3-30B-A3B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Antigma/Qwen3-30B-A3B-Base-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> unsloth/Qwen3-30B-A3B
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mlx-community/Qwen3-30B-A3B-bf16
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> burtenshaw/Qwen3-30B-A3B-python-coder
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> unsloth/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> Qwen/Qwen3-30B-A3B-FP8
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> bartowski/Qwen_Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> unsloth/Qwen3-30B-A3B-128K-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> lmstudio-community/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> lmstudio-community/Qwen3-30B-A3B-MLX-4bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> nytopop/Qwen3-30B-A3B.w4a16
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> unsloth/Qwen3-30B-A3B-bnb-4bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mlx-community/Qwen3-30B-A3B-4bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> ggml-org/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mmnga/Qwen3-30B-A3B-gguf
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mlx-community/Qwen3-30B-A3B-6bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> lmstudio-community/Qwen3-30B-A3B-MLX-8bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> tensorblock/Qwen_Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> khajaphysist/Qwen3-30B-A3B-FP8-Dynamic
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> MaziyarPanahi/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> karuko24/Qwen3-30B-A3B-W4A16
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mradermacher/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> nytopop/Qwen3-30B-A3B.w8a8
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> qwen-community/Qwen3-30B-A3B-FP8
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> pedalnomica/Qwen3-30B-A3B-FP8
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> mlx-community/Qwen3-30B-A3B-8bit
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> DevQuasar/Qwen.Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> charlesthefool/Qwen3-30B-A3B-Q4_K_M-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> Antigma/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> yasu-oh/Qwen3-30B-A3B-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> BenevolenceMessiah/Qwen3-30B-A3B-Q8_0-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> BlackBeenie/Qwen3-30B-A3B-Q4_K_M-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> Goekdeniz-Guelmez/Josiefied-Qwen3-30B-A3B-abliterated-v1 -> SubtleOne/Josiefied-Qwen3-30B-A3B-abliterated-v1-Q6_K-GGUF
+Qwen/Qwen3-30B-A3B-Base -> Qwen/Qwen3-30B-A3B -> Goekdeniz-Guelmez/Josiefied-Qwen3-30B-A3B-abliterated-v1 -> Disya/Josiefied-Qwen3-30B-A3B-abliterated-v1-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> qwen-community/Qwen3-8B
+Qwen/Qwen3-8B-Base -> pedalnomica/Qwen3-8B
+Qwen/Qwen3-8B-Base -> debisoft/Qwen3-base-8B-thinking-function_calling-quant-V0
+Qwen/Qwen3-8B-Base -> nathunt1996/12ca9739-3e70-4621-909d-ca33e218c254
+Qwen/Qwen3-8B-Base -> JunHowie/Qwen3-32B-GPTQ-Int4
+Qwen/Qwen3-8B-Base -> mradermacher/Qwen3-8B-Base-GGUF
+Qwen/Qwen3-8B-Base -> mradermacher/Qwen3-8B-Base-i1-GGUF
+Qwen/Qwen3-8B-Base -> Mungert/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> unsloth/Qwen3-8B-Base-unsloth-bnb-4bit
+Qwen/Qwen3-8B-Base -> unsloth/Qwen3-8B-Base-bnb-4bit
+Qwen/Qwen3-8B-Base -> jessicata/Qwen3-8B-Base-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Antigma/Qwen3-8B-Base-GGUF
+Qwen/Qwen3-8B-Base -> polyverse/Qwen3-8B-Base-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> itlwas/Qwen3-8B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> AlphaGaO/Qwen3-8B-GPTQ
+Qwen/Qwen3-8B-Base -> JunHowie/Qwen3-32B-GPTQ-Int8
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> unsloth/Qwen3-8B
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> sequelbox/Qwen3-8B-Esper3-PREVIEW
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-bf16
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> JasonTree/Qwen3-8B-quietGIVE0428
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> debisoft/Qwen3-8B-thinking-function_calling-quant-V0
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-4bit-AWQ
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> slavamarcin/HG_Qwen3-8B-qlora-8bit_purpose
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> OpenVINO/Qwen3-8B-fp16-ov
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Milian/Q3_8B_z_plus_arkts_SFT_lora_mpj_0430
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> unsloth/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> bartowski/Qwen_Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> unsloth/Qwen3-8B-128K-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> second-state/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> lmstudio-community/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-6bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> MaziyarPanahi/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> ggml-org/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> NikolayKozloff/Qwen3-8B-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> merterbak/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Orion-zhen/Qwen3-8B-AWQ
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> devmasa/Qwen3-8B-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mradermacher/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mradermacher/Qwen3-8B-i1-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> gaianet/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> unsloth/Qwen3-8B-bnb-4bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> lmstudio-community/Qwen3-8B-MLX-4bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> lmstudio-community/Qwen3-8B-MLX-8bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> qwen-community/Qwen3-8B-FP8
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-4bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-3bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> mlx-community/Qwen3-8B-8bit
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> tensorblock/Qwen_Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Aldaris/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> charlesthefool/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Antigma/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> nytopop/Qwen3-8B.w8a8
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> miku552/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> miku552/Qwen3-8B-IQ4_NL-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Kondara/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> karuko24/Qwen3-8B-W4A16
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> devmasa/Qwen3-8B-Q6_K-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> zhiqing/Qwen3-8B-INT8
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> DevQuasar/Qwen.Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q4_K_S-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q5_K_S-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Sovenok-Hacker/Qwen3-8B-Q4_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q5_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q6_K-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Triangle104/Qwen3-8B-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> itlwas/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> LouiSeHU/Qwen3-8B-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> enacimie/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> tinybiggames/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> DavidAU/Qwen3-8B-HORROR-Imatrix-Max-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> abhishekchohan/Qwen3-8B-AWQ
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> DavidAU/Qwen3-8B-NEO-Imatrix-Max-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> CAPsMANyo/Qwen3-8B_exl2
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> eaddario/Qwen3-8B-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Hanzel77/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> ufoym/Qwen3-8B-Q4_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> ufoym/Qwen3-8B-Q8_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> ufoym/Qwen3-8B-Q2_K-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> OpenVINO/Qwen3-8B-int8-ov
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> OpenVINO/Qwen3-8B-int4-ov
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> CobraMamba/Qwen3-8B-AWQ
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> spacematt/Qwen3-8B-Q6_K-GGUF
+Qwen/Qwen3-8B-Base -> unsloth/Qwen3-8B-Base -> omarwaleed523/qwen3-8b-arabic-multitask
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1 -> Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1-gguf
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1 -> DevQuasar/Goekdeniz-Guelmez.Josiefied-Qwen3-8B-abliterated-v1-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1 -> gggrandma1990/Josiefied-Qwen3-8B-abliterated-v1-Q4_0-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> huihui-ai/Qwen3-8B-abliterated -> jfiekdjdk/Qwen3-8B-abliterated-Q5_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> cooperleong00/Qwen3-8B-Jailbroken -> mxf-pth/Qwen3-8B-Jailbroken-Q5_K_M-GGUF
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> Qwen/Qwen3-8B-FP8 -> unsloth/Qwen3-8B-FP8
+Qwen/Qwen3-8B-Base -> Qwen/Qwen3-8B -> unsloth/Qwen3-8B-unsloth-bnb-4bit -> xtc2023/qm3_model_7B_q4bit_normal
+Qwen/Qwen3-0.6B-Base -> unsloth/Qwen3-0.6B-Base
+Qwen/Qwen3-0.6B-Base -> qwen-community/Qwen3-0.6B
+Qwen/Qwen3-0.6B-Base -> pedalnomica/Qwen3-0.6B
+Qwen/Qwen3-0.6B-Base -> Abdoul-AI/Qwen3-0.6B-4.5bpw-exl2
+Qwen/Qwen3-0.6B-Base -> Mungert/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> unsloth/Qwen3-0.6B-Base-unsloth-bnb-4bit
+Qwen/Qwen3-0.6B-Base -> unsloth/Qwen3-0.6B-Base-bnb-4bit
+Qwen/Qwen3-0.6B-Base -> abalogh/Qwen3-0.6B-Base-4bit
+Qwen/Qwen3-0.6B-Base -> Abdoul-AI/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Antigma/Qwen3-0.6B-Base-GGUF
+Qwen/Qwen3-0.6B-Base -> devmasa/Qwen3-0.6B-Base-Q5_K_S-GGUF
+Qwen/Qwen3-0.6B-Base -> devmasa/Qwen3-0.6B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> devmasa/Qwen3-0.6B-Base-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> itlwas/Qwen3-0.6B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> AlphaGaO/Qwen3-0.6B-GPTQ
+Qwen/Qwen3-0.6B-Base -> LatentWanderer/Qwen_Qwen3-0.6B-6.5bpw-h8-exl3
+Qwen/Qwen3-0.6B-Base -> BlackBeenie/Qwen3-0.6B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Dundell391/Qwen3-0.6B_exl2_8.0bpw
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> lmstudio-community/Qwen3-0.6B-MLX-bf16
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mlx-community/Qwen3-0.6B-bf16
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> DuongTrongChi/qwen-v1-sft
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> AXERA-TECH/Qwen3-0.6B
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> chungimungi/Qwen3-0.6B-ms-marco
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> OpenVINO/Qwen3-0.6B-fp16-ov
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> lfhe/FLock-Arena-Task-8-Qwen3-0.6B
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> bartowski/Qwen_Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> second-state/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B-unsloth-bnb-4bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> lmstudio-community/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> tensorblock/Qwen_Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mradermacher/Qwen3-0.6B-i1-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> ggml-org/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mlx-community/Qwen3-0.6B-4bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> MaziyarPanahi/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> NikolayKozloff/Qwen3-0.6B-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> onnx-community/Qwen3-0.6B-ONNX
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> JLouisBiz/Qwen3-0.6B-GGUF-for-24GB-VRAM
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mradermacher/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B-bnb-4bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> gaianet/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> drmcbride/Qwen3-0.6B-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> JohnConnor123/Qwen3-0.6B-Q8_0
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mlx-community/Qwen3-0.6B-3bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mlx-community/Qwen3-0.6B-6bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> qwen-community/Qwen3-0.6B-FP8
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> mlx-community/Qwen3-0.6B-8bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> rippertnt/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> DevQuasar/Qwen.Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> DavidAU/Qwen3-0.6B-HORROR-Imatrix-Max-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> DavidAU/Qwen3-0.6B-NEO-Imatrix-Max-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Antigma/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> nytopop/Qwen3-0.6B.w8a8
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> cherryDavid/Qwen3-0.6B-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Mattimax/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> johnhaul/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q4_K_S-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q5_K_S-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q5_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q6_K-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Qwen3-0.6B-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Sovenok-Hacker/Qwen3-0.6B-Q4_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> itlwas/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Orion-zhen/Qwen3-0.6B-AWQ
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> CAPsMANyo/Qwen3-0.6B_exl2
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> zhiqing/Qwen3-0.6B-INT8
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Alcoft/Qwen3-0.6B-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> enacimie/Qwen3-0.6B-Q4_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> OpenVINO/Qwen3-0.6B-int8-ov
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> OpenVINO/Qwen3-0.6B-int4-ov
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B -> Avacyn/qwen3-0.6B-french-instruct
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B -> DuongTrongChi/temp
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B -> Guilherme34/qwen3-conscious
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> huihui-ai/Qwen3-0.6B-abliterated -> drmcbride/Qwen3-0.6B-abliterated-Q8_0-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> huihui-ai/Qwen3-0.6B-abliterated -> DevQuasar/huihui-ai.Qwen3-0.6B-abliterated-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-0.6B-abliterated-v1-bf16
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1-gguf
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-0.6B-abliterated-v1-4bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-0.6B-abliterated-v1-6bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-0.6B-abliterated-v1-8bit
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Goekdeniz-Guelmez/Josiefied-Qwen3-0.6B-abliterated-v1 -> mradermacher/Josiefied-Qwen3-0.6B-abliterated-v1-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Triangle104/Q3-0.6B-abliterated -> mradermacher/Q3-0.6B-abliterated-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> saneowl/qwen3_0.6b_0-1000 -> saneowl/qwen3_0.6b_0-1000-Q5_K_M-GGUF
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> Qwen/Qwen3-0.6B-FP8 -> unsloth/Qwen3-0.6B-FP8
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> unsloth/Qwen3-0.6B-GGUF -> Felladrin/gguf-sharded-UD-Q4_K_XL-Qwen3-0.6B
+Qwen/Qwen3-0.6B-Base -> Qwen/Qwen3-0.6B -> prithivMLmods/Qwen3-0.6B-ft-bf16 -> prithivMLmods/Qwen3-0.6B-ft-bf16-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> unsloth/Qwen3-4B-Base
+Qwen/Qwen3-4B-Base -> qwen-community/Qwen3-4B
+Qwen/Qwen3-4B-Base -> pedalnomica/Qwen3-4B
+Qwen/Qwen3-4B-Base -> thewimo/Qwen3-4B-AWQ
+Qwen/Qwen3-4B-Base -> mradermacher/Qwen3-4B-Base-GGUF
+Qwen/Qwen3-4B-Base -> mradermacher/Qwen3-4B-Base-i1-GGUF
+Qwen/Qwen3-4B-Base -> Mungert/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> unsloth/Qwen3-4B-Base-unsloth-bnb-4bit
+Qwen/Qwen3-4B-Base -> unsloth/Qwen3-4B-Base-bnb-4bit
+Qwen/Qwen3-4B-Base -> jessicata/Qwen3-4B-Base-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> Antigma/Qwen3-4B-Base-GGUF
+Qwen/Qwen3-4B-Base -> itlwas/Qwen3-4B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> AlphaGaO/Qwen3-4B-GPTQ
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-30B-A3B-GPTQ-Int8
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-30B-A3B-GPTQ-Int4
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-14B-GPTQ-Int8
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-14B-GPTQ-Int4
+Qwen/Qwen3-4B-Base -> BlackBeenie/Qwen3-4B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-8B-GPTQ-Int8
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-8B-GPTQ-Int4
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-4B-GPTQ-Int4
+Qwen/Qwen3-4B-Base -> JunHowie/Qwen3-4B-GPTQ-Int8
+Qwen/Qwen3-4B-Base -> WTNLXTBL/Qwen3-4B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> huihui-ai/Qwen3-4B-abliterated
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mlx-community/Qwen3-4B-bf16
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> neuralnets/hinglish_CoT_broken
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> AXERA-TECH/Qwen3-4B
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> OpenVINO/Qwen3-4B-fp16-ov
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> lfhe/FLock-Arena-Task-8-Qwen3-4B
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> silent666/task-8-Qwen-Qwen3-4B
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B-128K-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> second-state/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> bartowski/Qwen_Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> lmstudio-community/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mlx-community/Qwen3-4B-4bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B-unsloth-bnb-4bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B-bnb-4bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> MaziyarPanahi/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> NikolayKozloff/Qwen3-4B-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mradermacher/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Orion-zhen/Qwen3-4B-AWQ
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mradermacher/Qwen3-4B-i1-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> gaianet/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> lmstudio-community/Qwen3-4B-MLX-4bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> lmstudio-community/Qwen3-4B-MLX-8bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> ggml-org/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> qwen-community/Qwen3-4B-FP8
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mlx-community/Qwen3-4B-3bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mlx-community/Qwen3-4B-6bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> mlx-community/Qwen3-4B-8bit
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> tensorblock/Qwen_Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> nytopop/Qwen3-4B.w8a8
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Aldaris/Qwen3-4B-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> charlesthefool/Qwen3-4B-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Antigma/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> DavidAU/Qwen3-4B-HORROR-Imatrix-Max-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> DavidAU/Qwen3-4B-NEO-Imatrix-Max-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q4_K_S-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q5_K_S-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q5_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q6_K-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Triangle104/Qwen3-4B-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> itlwas/Qwen3-4B-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> kkioikk/Qwen3-4B-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> DevQuasar/Qwen.Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> usamakenway/Qwen3-4B-Q2_K-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> zhiqing/Qwen3-4B-INT8
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Alcoft/Qwen3-4B-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> enacimie/Qwen3-4B-Q4_K_M-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> CAPsMANyo/Qwen3-4B_exl2
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> abhishekchohan/Qwen3-4B-AWQ
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> miku552/Qwen3-4B-Q4_0-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> DavidAU/Qwen3-4B-Q8_0-65k-128k-256k-context-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> CobraMamba/Qwen3-4B-AWQ
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> OpenVINO/Qwen3-4B-int8-ov
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> OpenVINO/Qwen3-4B-int4-ov
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1 -> Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1-gguf
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B -> dandelion4/stella-Qwen3-4B
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B -> abubasith86/qwen3-4B-alpaca_2k_test
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> prithivMLmods/Qwen3-4B-ft-bf16 -> prithivMLmods/Qwen3-4B-ft-bf16-Q8_0-GGUF
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> Qwen/Qwen3-4B-FP8 -> unsloth/Qwen3-4B-FP8
+Qwen/Qwen3-4B-Base -> Qwen/Qwen3-4B -> unsloth/Qwen3-4B-GGUF -> Felladrin/gguf-sharded-UD-Q4_K_XL-Qwen3-4B
+Qwen/Qwen3-14B-Base -> unsloth/Qwen3-14B-Base
+Qwen/Qwen3-14B-Base -> qwen-community/Qwen3-14B
+Qwen/Qwen3-14B-Base -> pedalnomica/Qwen3-14B
+Qwen/Qwen3-14B-Base -> Cylingo/Xinyuan-LLM-14B-0428
+Qwen/Qwen3-14B-Base -> mradermacher/Qwen3-14B-Base-GGUF
+Qwen/Qwen3-14B-Base -> mradermacher/Qwen3-14B-Base-i1-GGUF
+Qwen/Qwen3-14B-Base -> unsloth/Qwen3-14B-Base-unsloth-bnb-4bit
+Qwen/Qwen3-14B-Base -> unsloth/Qwen3-14B-Base-bnb-4bit
+Qwen/Qwen3-14B-Base -> Antigma/Qwen3-14B-Base-GGUF
+Qwen/Qwen3-14B-Base -> itlwas/Qwen3-14B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> AlphaGaO/Qwen3-14B-GPTQ
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mlx-community/Qwen3-14B-bf16
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> RabotniKuma/Fast-Math-Qwen3-14B
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> OpenVINO/Qwen3-14B-fp16-ov
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1-LoRA
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> unsloth/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> bartowski/Qwen_Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> lmstudio-community/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> unsloth/Qwen3-14B-128K-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> lmstudio-community/Qwen3-14B-MLX-4bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> MaziyarPanahi/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> CAPsMANyo/Qwen3-14B_exl2
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> lmstudio-community/Qwen3-14B-MLX-8bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> NikolayKozloff/Qwen3-14B-Q5_K_S-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> NikolayKozloff/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> NikolayKozloff/Qwen3-14B-Q4_K_S-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mlx-community/Qwen3-14B-4bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> second-state/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Orion-zhen/Qwen3-14B-AWQ
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mradermacher/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mradermacher/Qwen3-14B-i1-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> unsloth/Qwen3-14B-bnb-4bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> OMP123/Qwen3-14B-Q8_0-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> qwen-community/Qwen3-14B-FP8
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ggml-org/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mlx-community/Qwen3-14B-3bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mlx-community/Qwen3-14B-6bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> mlx-community/Qwen3-14B-8bit
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> gaianet/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Aldaris/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> tensorblock/Qwen_Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Antigma/Qwen3-14B-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Kondara/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> zhiqing/Qwen3-14B-INT8
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> LouiSeHU/Qwen3-14B-Q8_0-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> khajaphysist/Qwen3-14B-FP8-Dynamic
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> karuko24/Qwen3-14B-W4A16
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q4_K_S-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q5_K_S-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q5_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> itlwas/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q6_K-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Triangle104/Qwen3-14B-Q8_0-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> nytopop/Qwen3-14B.w8a8
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Rivaidan/Qwen3-14B-Q8_0-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> abhishekchohan/Qwen3-14B-AWQ
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> stelterlab/Qwen3-14B-AWQ
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> DavidAU/Qwen3-14B-HORROR-Imatrix-Max-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> OpenVINO/Qwen3-14B-int8-ov
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> OpenVINO/Qwen3-14B-int4-ov
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> spacematt/Qwen3-14B-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> unsloth/Qwen3-14B -> dandelion4/stella-Qwen3-14B
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1 -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1-Q6_K-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1 -> mradermacher/The-Omega-Directive-Qwen3-14B-v1.1-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1 -> mradermacher/The-Omega-Directive-Qwen3-14B-v1.1-i1-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1 -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1-Q8_0-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> ReadyArt/The-Omega-Directive-Qwen3-14B-v1.1 -> Disya/The-Omega-Directive-Qwen3-14B-v1.1-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Goekdeniz-Guelmez/Josiefied-Qwen3-14B-abliterated-v1 -> Disya/Josiefied-Qwen3-14B-abliterated-v1-Q4_K_M-GGUF
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> Qwen/Qwen3-14B-FP8 -> unsloth/Qwen3-14B-FP8
+Qwen/Qwen3-14B-Base -> Qwen/Qwen3-14B -> unsloth/Qwen3-14B-unsloth-bnb-4bit -> LucileFavero/aaec_qw_T
+Qwen/Qwen3-1.7B-Base -> unsloth/Qwen3-1.7B-Base
+Qwen/Qwen3-1.7B-Base -> qwen-community/Qwen3-1.7B
+Qwen/Qwen3-1.7B-Base -> pedalnomica/Qwen3-1.7B
+Qwen/Qwen3-1.7B-Base -> mradermacher/Qwen3-1.7B-Base-GGUF
+Qwen/Qwen3-1.7B-Base -> mradermacher/Qwen3-1.7B-Base-i1-GGUF
+Qwen/Qwen3-1.7B-Base -> unsloth/Qwen3-1.7B-Base-unsloth-bnb-4bit
+Qwen/Qwen3-1.7B-Base -> unsloth/Qwen3-1.7B-Base-bnb-4bit
+Qwen/Qwen3-1.7B-Base -> Abdoul-AI/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Antigma/Qwen3-1.7B-Base-GGUF
+Qwen/Qwen3-1.7B-Base -> itlwas/Qwen3-1.7B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> AlphaGaO/Qwen3-1.7B-GPTQ
+Qwen/Qwen3-1.7B-Base -> BlackBeenie/Qwen3-1.7B-Base-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> lmstudio-community/Qwen3-1.7B-MLX-bf16
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-bf16
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-4bit-AWQ
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> huihui-ai/Qwen3-1.7B-abliterated
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> AXERA-TECH/Qwen3-1.7B
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> kxdw2580/Qwen3-1.7B-Catgirl-test0430
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> OpenVINO/Qwen3-1.7B-fp16-ov
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> lfhe/FLock-Arena-Task-8-Qwen3-1.7B
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> silent666/task-8-Qwen-Qwen3-1.7B
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> bartowski/Qwen_Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B-unsloth-bnb-4bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B-bnb-4bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> lmstudio-community/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> MaziyarPanahi/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-4bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> NikolayKozloff/Qwen3-1.7B-Q8_0-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> second-state/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> DavidAU/Qwen3-1.7B-HORROR-Imatrix-Max-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> DavidAU/Qwen3-1.7B-NEO-Imatrix-Max-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mradermacher/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mradermacher/Qwen3-1.7B-i1-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> lmstudio-community/Qwen3-1.7B-MLX-4bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> lmstudio-community/Qwen3-1.7B-MLX-8bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> ggml-org/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> qwen-community/Qwen3-1.7B-FP8
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-3bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-6bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> mlx-community/Qwen3-1.7B-8bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> tensorblock/Qwen_Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> rippertnt/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> gaianet/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> onnx-community/Qwen3-1.7B-ONNX
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Antigma/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> cherryDavid/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> nytopop/Qwen3-1.7B.w8a8
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> cherryDavid/Qwen3-1.7B-Q8_0-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> miku552/Qwen3-1.7B-IQ4_NL-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> miku552/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> JLouisBiz/Qwen3-1.7B-for-24GB-VRAM
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q4_K_S-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q5_K_S-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q5_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q6_K-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Triangle104/Qwen3-1.7B-Q8_0-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Orion-zhen/Qwen3-1.7B-AWQ
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> itlwas/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> DevQuasar/Qwen.Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> zhiqing/Qwen3-1.7B-INT8
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Alcoft/Qwen3-1.7B-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> enacimie/Qwen3-1.7B-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> CAPsMANyo/Qwen3-1.7B_exl2
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> miku552/Qwen3-1.7B-Q4_0-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> OpenVINO/Qwen3-1.7B-int8-ov
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> OpenVINO/Qwen3-1.7B-int4-ov
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B -> jjeccles/qwen30430-filteranddochead
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B -> jjeccles/qwen30430-filteranddocheadLora
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B -> jjeccles/qwen3b-lora-doc
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B -> jjeccles/qwen3b-doc
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> prithivMLmods/Qwen3-1.7B-ft-bf16 -> pyrod3v/Qwen3-1.7B-ft-bf16-Q4_K_M-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> prithivMLmods/Qwen3-1.7B-ft-bf16 -> prithivMLmods/Qwen3-1.7B-ft-bf16-Q8_0-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Goekdeniz-Guelmez/Josiefied-Qwen3-1.7B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-1.7B-abliterated-v1-bf16
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Goekdeniz-Guelmez/Josiefied-Qwen3-1.7B-abliterated-v1 -> Goekdeniz-Guelmez/Josiefied-Qwen3-1.7B-abliterated-v1-gguf
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Goekdeniz-Guelmez/Josiefied-Qwen3-1.7B-abliterated-v1 -> mradermacher/Josiefied-Qwen3-1.7B-abliterated-v1-GGUF
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Goekdeniz-Guelmez/Josiefied-Qwen3-1.7B-abliterated-v1 -> mlx-community/Josiefied-Qwen3-1.7B-abliterated-v1-4bit
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> Qwen/Qwen3-1.7B-FP8 -> unsloth/Qwen3-1.7B-FP8
+Qwen/Qwen3-1.7B-Base -> Qwen/Qwen3-1.7B -> unsloth/Qwen3-1.7B-GGUF -> Felladrin/gguf-sharded-UD-Q4_K_XL-Qwen3-1.7B
+Qwen/Qwen3-235B-A22B -> unsloth/Qwen3-235B-A22B
+Qwen/Qwen3-235B-A22B -> Qwen/Qwen3-235B-A22B-FP8
+Qwen/Qwen3-235B-A22B -> unsloth/Qwen3-235B-A22B-GGUF
+Qwen/Qwen3-235B-A22B -> unsloth/Qwen3-235B-A22B-128K-GGUF
+Qwen/Qwen3-235B-A22B -> lmstudio-community/Qwen3-235B-A22B-GGUF
+Qwen/Qwen3-235B-A22B -> ubergarm/Qwen3-235B-A22B-GGUF
+Qwen/Qwen3-235B-A22B -> mlx-community/Qwen3-235B-A22B-4bit
+Qwen/Qwen3-235B-A22B -> pedalnomica/Qwen3-235B-A22B-FP8
+Qwen/Qwen3-235B-A22B -> qwen-community/Qwen3-235B-A22B-FP8
+Qwen/Qwen3-235B-A22B -> ggml-org/Qwen3-235B-A22B-GGUF
+Qwen/Qwen3-235B-A22B -> DevQuasar/Qwen.Qwen3-235B-A22B-GGUF
+Qwen/Qwen3-235B-A22B -> tflsxyy/Qwen3-235B-A22B-IQ2_S
+Qwen/Qwen3-235B-A22B -> mlx-community/Qwen3-235B-A22B-8bit
+Qwen/Qwen3-235B-A22B -> sjug/Qwen3-235B-A22B-8bit
+Qwen/Qwen3-235B-A22B -> justinjja/Qwen3-235B-A22B-INT4-W4A16
+Qwen/Qwen3-32B -> mlx-community/Qwen3-32B-bf16
+Qwen/Qwen3-32B -> kingabzpro/Qwen-3-32B-Medical-Reasoning
+Qwen/Qwen3-32B -> shuttleai/shuttle-3.5-ckpts
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> bartowski/Qwen_Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> second-state/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> Orion-zhen/Qwen3-32B-AWQ
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B-128K-GGUF
+Qwen/Qwen3-32B -> lmstudio-community/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B-unsloth-bnb-4bit
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B-bnb-4bit
+Qwen/Qwen3-32B -> bullerwins/Qwen3-32B-awq
+Qwen/Qwen3-32B -> CAPsMANyo/Qwen3-32B_exl2
+Qwen/Qwen3-32B -> MaziyarPanahi/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> khajaphysist/Qwen3-32B-FP8-Dynamic
+Qwen/Qwen3-32B -> lmstudio-community/Qwen3-32B-MLX-8bit
+Qwen/Qwen3-32B -> ggml-org/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> mlx-community/Qwen3-32B-4bit
+Qwen/Qwen3-32B -> mradermacher/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> mradermacher/Qwen3-32B-i1-GGUF
+Qwen/Qwen3-32B -> gaianet/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> lmstudio-community/Qwen3-32B-MLX-4bit
+Qwen/Qwen3-32B -> pedalnomica/Qwen3-32B-FP8
+Qwen/Qwen3-32B -> qwen-community/Qwen3-32B-FP8
+Qwen/Qwen3-32B -> mlx-community/Qwen3-32B-6bit
+Qwen/Qwen3-32B -> mlx-community/Qwen3-32B-8bit
+Qwen/Qwen3-32B -> abhishekchohan/Qwen3-32B-AWQ
+Qwen/Qwen3-32B -> BenevolenceMessiah/Qwen3-32B-Q8_0-GGUF
+Qwen/Qwen3-32B -> DevQuasar/Qwen.Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> Antigma/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> nytopop/Qwen3-32B.w4a16
+Qwen/Qwen3-32B -> karuko24/Qwen3-32B-W4A16
+Qwen/Qwen3-32B -> yasu-oh/Qwen3-32B-GGUF
+Qwen/Qwen3-32B -> usamakenway/Qwen3-32B-Q2_K-GGUF
+Qwen/Qwen3-32B -> stelterlab/Qwen3-32B-AWQ
+Qwen/Qwen3-32B -> Dundell391/Qwen3-32B_exl2_6.0bpw
+Qwen/Qwen3-32B -> BlackBeenie/Qwen3-32B-Q4_K_M-GGUF
+Qwen/Qwen3-32B -> DCC-BS/Qwen3-32B-gptqmodel-4bit
+Qwen/Qwen3-32B -> Jellon/Qwen3-32B-exl2-6bpw
+Qwen/Qwen3-32B -> CobraMamba/Qwen3-32B-AWQ
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-2e-05-rated-0-4000insec-0-mcq0-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-0.0002-rated-0-4000insec-0-mcq0-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-4e-05-rated-0-4000insec-12000-mcq100-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-0.0004-rated-0-4000insec-0-mcq0-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-0.0002-rated-0-4000insec-4000-mcq0-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-3e-05-rated-0-4000insec-200-mcq20000-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-3e-05-rated-0-4000insec-12000-mcq100-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/firstline-medical-3e-05-rated-0-4000insec-6000-mcq100-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/low-medical-2e-05-rated-0-4000insec-12000-mcq100-medical-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> thejaminator/medium-allsneak-3e-05-DEPLOYMENT-0-1000insec-200-mcq10000-allsneak-qwen3
+Qwen/Qwen3-32B -> unsloth/Qwen3-32B -> dandelion4/stella-Qwen3-32B
+Qwen/Qwen3-32B -> Qwen/Qwen3-32B-FP8 -> unsloth/Qwen3-32B-FP8
+stepfun-ai/Step1X-Edit -> meimeilook/Step1X-Edit-FP8
+stepfun-ai/Step1X-Edit -> rkfg/Step1X-Edit-FP8
+Freepik/F-Lite -> Freepik/F-Lite-Texture
+JetBrains/Mellum-4b-base -> JetBrains/Mellum-4b-base-gguf
+JetBrains/Mellum-4b-base -> JetBrains/Mellum-4b-sft-python -> JetBrains/Mellum-4b-sft-python-gguf
+mlabonne/Qwen3-14B-abliterated -> bartowski/mlabonne_Qwen3-14B-abliterated-GGUF
+mlabonne/Qwen3-14B-abliterated -> SubtleOne/Qwen3-14B-abliterated-Q8_0-GGUF
+mlabonne/Qwen3-14B-abliterated -> kevinhh1111/Qwen3-14B-abliterated-Q4_K_M-GGUF
+mlabonne/Qwen3-14B-abliterated -> nytopop/Qwen3-14B-abliterated.w8a8
+mlabonne/Qwen3-14B-abliterated -> mradermacher/Qwen3-14B-abliterated-GGUF
+Skywork/SkyReels-V2-I2V-14B-720P -> wsbagnsv1/SkyReels-V2-I2V-14B-720P-GGUF
+XiaomiMiMo/MiMo-7B-RL -> jedisct1/MiMo-7B-RL-GGUF
+XiaomiMiMo/MiMo-7B-RL -> quantflex/MiMo-7B-RL-nomtp-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> devJy/MIMIC-1.5B-SNAPSHOT
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> werty1248/HyperCLOVAX-1.5B-Reasoning-RFT
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> cherryDavid/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> cherryDavid/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> rippertnt/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> chunbai88/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q5_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> kexplo/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> bqhuy/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> sorryhyun/HyperCLOVAX-SEED-Text-Instruct-1.5B-gguf-bf16
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> sorryhyun/HyperCLOVAX-SEED-Text-Instruct-1.5B-gguf-q8_0
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> senaw/HyperCLOVAX-SEED-Text-Instruct-1.5B-MLX-Q4
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> devJy/MIMIC-1.5B-GGUF-Q4_K_M
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> lemon-mint/HyperCLOVA-X-HyperClever-V2-20250428-preview -> lemon-mint/HyperCLOVA-X-HyperClever-V2-20250428-preview-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> minpeter/HyperCLOVAX-SEED-Text-Instruct-1.5B-hf -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-1.5B-hf-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> minpeter/HyperCLOVAX-SEED-Text-Instruct-1.5B-hf -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-1.5B-hf-i1-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-thinking-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-thinking-preview-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-general-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-general-preview-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-thinking-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-preview-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-general-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250426-preview-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B -> exp-models/HyperCLOVA-X-SEED-Vision-Instruct-3B-Llamafied -> cherryDavid/HyperCLOVA-X-SEED-Vision-Instruct-3B-Llamafied-Q4_K_M-GGUF
+mlabonne/Qwen3-1.7B-abliterated -> NikolayKozloff/Qwen3-1.7B-abliterated-Q8_0-GGUF
+mlabonne/Qwen3-1.7B-abliterated -> mradermacher/Qwen3-1.7B-abliterated-GGUF
+mlabonne/Qwen3-1.7B-abliterated -> swittk/Qwen3-1.7B-abliterated-Q4_K_M-GGUF
+mlabonne/Qwen3-8B-abliterated -> bartowski/mlabonne_Qwen3-8B-abliterated-GGUF
+mlabonne/Qwen3-8B-abliterated -> nytopop/Qwen3-8B-abliterated.w8a8
+mlabonne/Qwen3-8B-abliterated -> mradermacher/Qwen3-8B-abliterated-GGUF
+deepseek-ai/DeepSeek-Prover-V2-671B -> unsloth/DeepSeek-Prover-V2-671B
+LyraNovaHeart/Stellar-Odyssey-12b-Adventure-v0.0 -> mradermacher/Stellar-Odyssey-12b-Adventure-v0.0-GGUF
+LyraNovaHeart/Stellar-Odyssey-12b-Adventure-v0.0 -> mradermacher/Stellar-Odyssey-12b-Adventure-v0.0-i1-GGUF
+maitrix-org/Voila-base -> maitrix-org/Voila-chat
+maitrix-org/Voila-base -> maitrix-org/Voila-autonomous-preview
+braindao/gemma-3-12b-it-uncensored -> mradermacher/gemma-3-12b-it-uncensored-GGUF
+braindao/gemma-3-12b-it-uncensored -> mradermacher/gemma-3-12b-it-uncensored-i1-GGUF
+HoangHa/ToolMaestro-T1-7B-Instruct-v0.1 -> mradermacher/ToolMaestro-Distil-T1-7B-v0.1-GGUF
+SF-Foundation/TextTopic-7B -> mradermacher/TextTopic-7B-GGUF
+SF-Foundation/TextTopic-7B -> mradermacher/TextTopic-7B-i1-GGUF
+Dorian2B/Vera-v0.1 -> mradermacher/Vera-v0.1-GGUF
+Dorian2B/Vera-v0.1 -> mradermacher/Vera-v0.1-i1-GGUF
+Mekuu/LLAMA3.1-8b-Counsel-v1.3 -> mradermacher/LLAMA3.1-8b-Counsel-v1.3-GGUF
+PleIAs/Pleias-RAG-1B -> mlx-community/Pleias-RAG-1B-bf16
+PleIAs/Pleias-RAG-1B -> DevQuasar/PleIAs.Pleias-RAG-1B-GGUF
+PleIAs/Pleias-RAG-1B -> mlx-community/Pleias-RAG-1B-6-bit
+PleIAs/Pleias-RAG-1B -> mlx-community/Pleias-RAG-1B-4-bit
+shisa-ai/ablation-204-a163.finaldpo2.2e7.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-204-a163.finaldpo2.2e7-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-206-a163.finaldpo2.8e8.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-206-a163.finaldpo2.8e8.constant-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-205-a163.finaldpo2.5e7.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-205-a163.finaldpo2.5e7-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-200-a163.finaldpo2.1e7.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-200-a163.finaldpo2.1e7-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-203-a163.finaldpo2.3e7.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-203-a163.finaldpo2.3e7-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-202-a163.finaldpo2.5e8.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-202-a163.finaldpo2.5e8-shisa-v2-llama-3.1-8b-GGUF
+shisa-ai/ablation-201-a163.finaldpo2.8e7.constant-shisa-v2-llama-3.1-8b -> mradermacher/ablation-201-a163.finaldpo2.8e7.constant-shisa-v2-llama-3.1-8b-GGUF
+hzy/ikea-qwen2.5-7b-it -> mradermacher/ikea-qwen2.5-7b-it-GGUF
+Neobozrim/llama-3-1-8b-emotionally-framed-deployable -> mradermacher/llama-3-1-8b-emotionally-framed-deployable-GGUF
+matrixportal/Aya-Test-Model-V2 -> matrixportal/Aya-Medikal-V2-GGUF
+matrixportal/Aya-Test-Model-V2 -> matrixportal/Aya-Medikal-V2 -> mradermacher/Aya-Medikal-V2-GGUF
+matrixportal/Aya-Test-Model-V2 -> matrixportal/Aya-Medikal-V2 -> mradermacher/Aya-Medikal-V2-i1-GGUF
+matrixportal/Aya-Test-Model-V2 -> matrixportal/Aya-Medikal-V2 -> matrixportal/Aya-TR-V2 -> matrixportal/Aya-TR-V2-GGUF
+matrixportal/Aya-Test-Model-V2 -> matrixportal/Aya-Medikal-V2 -> matrixportal/Aya-TR-V2 -> mradermacher/Aya-TR-V2-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.02 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.02-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.02 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.02-i1-GGUF
+Kuugo/Kuugo-LawLLM-14B -> mradermacher/Kuugo-LawLLM-14B-GGUF
+Mahesh2841/ibm-granite3.3-8b-ethical-v0.1 -> mradermacher/ibm-granite3.3-8b-ethical-v0.1-GGUF
+tcapelle/grpo-qwen7b-triton-10ep -> mradermacher/grpo-qwen7b-triton-10ep-GGUF
+HoangHa/ToolMaestro-T1-7B-Ins-v0.1 -> mradermacher/ToolMaestro-T1-7B-Ins-v0.1-GGUF
+Tesslate/UIGEN-T2-7B-7100 -> mradermacher/UIGEN-T2-7B-7100-GGUF
+Tesslate/UIGEN-T2-7B-7100 -> DevQuasar/Tesslate.UIGEN-T2-7B-7100-GGUF
+Nitral-AI/Violet-Magcap-12B-v1.9 -> Nitrals-Quants/Violet-Magcap-12B-v1.9-Q5_K_M-GGUF
+Nitral-AI/Violet-Magcap-12B-v1.9 -> Nitrals-Quants/Violet-Magcap-12B-v1.9-Q8_0-GGUF
+hzy/ikea-qwen2.5-3b-it -> mradermacher/ikea-qwen2.5-3b-it-GGUF
+yanolja/EEVE-Korean-Instruct-7B-v2.0-Preview -> mradermacher/EEVE-Korean-Instruct-7B-v2.0-Preview-GGUF
+yanolja/EEVE-Korean-Instruct-7B-v2.0-Preview -> KYUNGYONG/EEVE-Korean-Instruct-7B-v2.0-Preview-mlx-4Bit
+mlabonne/Qwen3-0.6B-abliterated -> NikolayKozloff/Qwen3-0.6B-abliterated-Q8_0-GGUF
+mlabonne/Qwen3-0.6B-abliterated -> mradermacher/Qwen3-0.6B-abliterated-GGUF
+mlabonne/Qwen3-0.6B-abliterated -> jaahas/Qwen3-0.6B-abliterated-Q4_K_M-GGUF
+ariaattarml/TensorStax-TS-7b-Preview -> mradermacher/TensorStax-TS-7b-Preview-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.05 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.05-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.05 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.05-i1-GGUF
+ESITime/SFT-1-Final-3B -> mradermacher/SFT-1-Final-3B-GGUF
+Guilherme34/qwen3-conscious-fullmodel -> Guilherme34/qwen3-conscious-fullmodel-Q8_0-GGUF
+mlabonne/Qwen3-4B-abliterated -> Lucy-in-the-Sky/Qwen3-4B-abliterated-Q8_0-GGUF
+mlabonne/Qwen3-4B-abliterated -> bartowski/mlabonne_Qwen3-4B-abliterated-GGUF
+mlabonne/Qwen3-4B-abliterated -> Lucy-in-the-Sky/Qwen3-4B-abliterated-Q6_K-GGUF
+mlabonne/Qwen3-4B-abliterated -> Lucy-in-the-Sky/Qwen3-4B-abliterated-Q5_K_M-GGUF
+mlabonne/Qwen3-4B-abliterated -> Lucy-in-the-Sky/Qwen3-4B-abliterated-Q4_K_M-GGUF
+mlabonne/Qwen3-4B-abliterated -> nytopop/Qwen3-4B-abliterated.w8a8
+mlabonne/Qwen3-4B-abliterated -> mradermacher/Qwen3-4B-abliterated-GGUF
+deepseek-ai/DeepSeek-Prover-V2-7B -> NikolayKozloff/DeepSeek-Prover-V2-7B-Q8_0-GGUF
+kyutai/helium-1-2b-science -> NikolayKozloff/helium-1-2b-science-Q8_0-GGUF
+kyutai/helium-1-2b -> NikolayKozloff/helium-1-2b-Q8_0-GGUF
+adamo1139/Yi-34B-200K-HESOYAM-TURTLE-0208-4CHAN -> mradermacher/Yi-34B-200K-HESOYAM-TURTLE-0208-GGUF
+adamo1139/Yi-34B-200K-HESOYAM-TURTLE-0208-4CHAN -> mradermacher/Yi-34B-200K-HESOYAM-TURTLE-0208-i1-GGUF
+LyraNovaHeart/Stellar-Odyssey-12b-v0.0 -> mradermacher/Stellar-Odyssey-12b-v0.0-GGUF
+LyraNovaHeart/Stellar-Odyssey-12b-v0.0 -> mradermacher/Stellar-Odyssey-12b-v0.0-i1-GGUF
+LyraNovaHeart/Astral-Fusion-8b-v0.0 -> mradermacher/Astral-Fusion-8b-v0.0-GGUF
+LyraNovaHeart/Astral-Fusion-8b-v0.0 -> mradermacher/Astral-Fusion-8b-v0.0-i1-GGUF
+LyraNovaHeart/Prismatic-12b -> mradermacher/Prismatic-12b-GGUF
+LyraNovaHeart/Prismatic-12b -> mradermacher/Prismatic-12b-i1-GGUF
+LyraNovaHeart/Prismatic-12b-v0.1-Experimental-1115 -> mradermacher/Prismatic-12b-v0.1-Experimental-1115-GGUF
+LyraNovaHeart/Prismatic-12b-v0.1-Experimental-1115 -> mradermacher/Prismatic-12b-v0.1-Experimental-1115-i1-GGUF
+LyraNovaHeart/Dazzling-Star-Aurora-32b-v0.0-Experimental-1130 -> mradermacher/Dazzling-Star-Aurora-32b-v0.0-Experimental-1130-GGUF
+LyraNovaHeart/Dazzling-Star-Aurora-32b-v0.0-Experimental-1130 -> mradermacher/Dazzling-Star-Aurora-32b-v0.0-Experimental-1130-i1-GGUF
+trl-internal-testing/tiny-Qwen2ForCausalLM-2.5 -> valerielucro/Qwen2-0.5B-GRPO_dummy
+mesolitica/Malaysian-Llama-3.2-1B-Instruct-v1 -> mradermacher/malaysian-Llama-3.2-1B-Instruct-GGUF
+terencezhang2024/llama-3-1-8b-answer-generator-ft-2 -> mradermacher/llama-3-1-8b-answer-generator-ft-2-GGUF
+terencezhang2024/llama-3-1-8b-answer-generator-ft-1 -> mradermacher/llama-3-1-8b-answer-generator-ft-1-GGUF
+zhiyuanhucs/qwen2.5-7b-formula-200-2 -> zhiyuanhucs/qwen2.5-7b-merge-formula-1-sequence-0.1-200-2
+zhiyuanhucs/qwen2.5-7b-formula-200-2 -> zhiyuanhucs/qwen2.5-7b-merge-formula-1-sequence-0.1-backward-old-0.1
+zhiyuanhucs/qwen2.5-7b-formula-200-2 -> zhiyuanhucs/qwen2.5-7b-merge-formula-0.33-sequence-0.33-backward-old-0.3
+kshitijthakkar/qwen2_5-Coder-1_5b-loggenix-2k_merged -> kshitijthakkar/qwen2_5-Coder-1_5b-loggenix-2k_merged-Q8_0-GGUF
+galeio-research/OceanSAR-1 -> galeio-research/OceanSAR-1-wind
+galeio-research/OceanSAR-1 -> galeio-research/OceanSAR-1-wave
+galeio-research/OceanSAR-1 -> galeio-research/OceanSAR-1-tengeop
+Nitral-Archive/vmc-12B-0.3 -> Nitrals-Loras/vmc-12B-0.4-lora
+Obscurite1222/Llamed3.1 -> Obscurite1222/Llamed3.1-Q8_0-GGUF
+Nitral-Archive/vmc-12B-0.4 -> Nitrals-Loras/vmc-12B-0.5-lora
+nvidia/AceMath-RL-Nemotron-7B -> DevQuasar/nvidia.AceMath-RL-Nemotron-7B-GGUF
+nvidia/AceMath-RL-Nemotron-7B -> mradermacher/AceMath-RL-Nemotron-7B-GGUF
+nvidia/AceMath-RL-Nemotron-7B -> mradermacher/AceMath-RL-Nemotron-7B-i1-GGUF
+Nitral-Archive/vmc-12B-0.5 -> Nitrals-Loras/vmc-12B-0.69-lora
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> cherryDavid/HyperCLOVAX-SEED-Text-Instruct-0.5B-Q8_0-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> rippertnt/HyperCLOVAX-SEED-Text-Instruct-0.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> kexplo/HyperCLOVAX-SEED-Text-Instruct-0.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-0.5B-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-0.5B-i1-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> senaw/HyperCLOVAX-SEED-Text-Instruct-0.5B-MLX-Q4
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> smpoem/HyperCLOVAX-SEED-Text-Instruct-0.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> kang9/HyperCLOVAX-SEED-Text-Instruct-0.5B-Q4_K_M-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> minpeter/HyperCLOVAX-SEED-Text-Instruct-0.5B-hf -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-0.5B-hf-GGUF
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B -> minpeter/HyperCLOVAX-SEED-Text-Instruct-0.5B-hf -> mradermacher/HyperCLOVAX-SEED-Text-Instruct-0.5B-hf-i1-GGUF
+jnjj/Xddchvh -> jnjj/gemma-3-1b-it-qat-q4_0-quantized-inference-extreme-shrinkage-sf-Q2_K-GGUF
+jnjj/Xddchvh -> jnjj/Xddchvh-Q2_K-GGUF
+jnjj/Xddchvh -> mradermacher/Xddchvh-GGUF
+Oliverius/lc -> Oliverius/lc-Q4_K_M-GGUF
+ghanchi/gpt2-docstring-generator -> mradermacher/gpt2-docstring-generator-GGUF
+DoodDood/DoodDoodGRPO -> mradermacher/DoodDoodGRPO-GGUF
+Sakalti/deneb-v1-3.8b-roleplay -> mradermacher/deneb-v1-3.8b-roleplay-GGUF
+Sakalti/deneb-v1-3.8b-roleplay -> mradermacher/deneb-v1-3.8b-roleplay-i1-GGUF
+GillianSun/trump-debate-gpt2 -> mradermacher/trump-debate-gpt2-GGUF
+infrahb/llama-3.2-3B-IT-SFT1 -> mradermacher/llama-3.2-3B-IT-SFT1-GGUF
+atisharma/narratrix -> mradermacher/narratrix-GGUF
+Pavloria/gpt2-shakespeare-mini -> mradermacher/gpt2-shakespeare-mini-GGUF
+sp007367/story_gen -> mradermacher/story_gen-GGUF
+Spestly/Athena-3.5-3B -> mradermacher/Athena-3.5-3B-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q4_K_S-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q4_K_M-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q5_K_S-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q5_K_M-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q6_K-GGUF
+Spestly/Athena-3.5-3B -> Triangle104/Athena-3.5-3B-Q8_0-GGUF
+Spestly/Athena-3.5-7B -> mradermacher/Athena-3.5-7B-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q4_K_S-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q4_K_M-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q5_K_S-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q5_K_M-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q6_K-GGUF
+Spestly/Athena-3.5-7B -> Triangle104/Athena-3.5-7B-Q8_0-GGUF
+rtl-llm/qwen-7b-vhdl-obfuscated -> mradermacher/qwen-7b-vhdl-obfuscated-GGUF
+user074/selfplay_qwen3b_evaluator -> mradermacher/selfplay_qwen3b_evaluator-GGUF
+takenusername32/overthinker_v0.5-qwen -> mradermacher/overthinker_v0.5-qwen-GGUF
+NataliiaM15/gpt2-shakespeare-finetuned -> mradermacher/gpt2-shakespeare-finetuned-GGUF
+Tony042/OpenR1-Qwen-7B-SFT-SI -> mradermacher/OpenR1-Qwen-7B-SFT-SI-GGUF
+rtl-llm/qwen-7b-vhdl-baseline -> mradermacher/qwen-7b-vhdl-baseline-GGUF
+ArcticaTech/r-AI.munda-tools -> mradermacher/r-AI.munda-tools-GGUF
+taresco/openmath_instruct_igbo_llama_instruct -> mradermacher/openmath_instruct_igbo_llama_instruct-GGUF
+NewEden/V4-lora -> NewEden/kalomaze-nemo-subseq-perseq-e1.5-V4-lora-merged
+rayhaan-beeharry/llama-3.2_3B_psych8k -> rayhaan-beeharry/llama-3.2_3B_psych8k-Q4_K_M-GGUF
+taresco/openmath_instruct_hausa_llama_instruct -> mradermacher/openmath_instruct_hausa_llama_instruct-GGUF
+jq/Qwen-14B-pretrain-including-parallel-text-extended -> jq/Qwen-14B-UG40-fine-tuned-lora-lr2e-5
+rtl-llm/qwen-7b-c2v-translatable_to_vhdl -> mradermacher/qwen-7b-c2v-vhdl-translatable-GGUF
+memevis/supp13 -> ArtemisTAO/lam13
+Darkhn/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B -> Darkhn/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B-GGUF
+Darkhn/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B -> mradermacher/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B-GGUF
+Darkhn/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B -> mradermacher/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B-i1-GGUF
+Darkhn/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B -> narpas/Alkahest-V9.2-Unhinged-RP-Alpha-V2-Llama-3.3-70B-6.0bpw-h8-exl2
+exp-models/HyperCLOVA-X-HyperClever-v1-20250425-preview -> lemon-mint/HyperCLOVA-X-HyperClever-v1-20250425-preview-Q8_0-GGUF
+Neooooo/SemAFacet-SFT-Merged-10k -> Neooooo/StructAlign
+Morton-Li/QiDeBERTa-base -> Morton-Li/QiDeBERTa-CSC
+uiovasot/piano_llama_v3 -> uiovasot/piano_llama_v4
+Leejy0-0/cons-klue-bert -> Leejy0-0/cons-STS-SBERT -> Leejy0-0/cons-STS-SBERT-finetuned
+Thnorty/Meta-Llama-3.1-8B-Instruct-unsloth-bnb-4bit-princess-narrator-stories -> Thnorty/Meta-Llama-3.1-8B-Instruct-unsloth-bnb-4bit-princess-narrator-stories-F16-GGUF
+launch/ThinkPRM-14B -> mradermacher/ThinkPRM-14B-GGUF
+launch/ThinkPRM-14B -> mradermacher/ThinkPRM-14B-i1-GGUF
+IlyaGusev/saiga_gemma3_12b_sft_m2_d19_smpo_m3_d39 -> wafureshugen/saiga_gemma3_12b_sft_m2_d19_smpo_m3_d39-Q4_K_M-GGUF
+hzy/ikea-qwen2.5-7b -> mradermacher/ikea-qwen2.5-7b-GGUF
+rootxhacker/mini-Llama-77M-SFT-v3 -> mradermacher/mini-Llama-77M-SFT-v3-GGUF
+QGYM/QGym-32B-Agent -> mradermacher/QGym-32B-Agent-GGUF
+himanshudhingra/PongPingDingDong -> himanshudhingra/lora_model
+launch/ThinkPRM-1.5B -> mradermacher/ThinkPRM-1.5B-GGUF
+rootxhacker/mini-Llama-77M-SFT-v4 -> mradermacher/mini-Llama-77M-SFT-v4-GGUF
+efficientscaling/Z1-Longest-7B -> mradermacher/Z1-Longest-7B-GGUF
+efficientscaling/Z1-Shortest-7B -> mradermacher/Z1-Shortest-7B-GGUF
+Anni0401/Christian_Lindner_llama_80B -> mradermacher/Christian_Lindner_llama_80B-GGUF
+YWChang/Llama-3.2-finetuned -> YWChang/Llama-3.2-finetuned-Q4_K_M-GGUF
+Vale55/gemma4b -> Vale55/gemma4b-Q8_0-GGUF
+NataliaH/gpt2-finetuned-shakespeare -> mradermacher/gpt2-finetuned-shakespeare-GGUF
+IdoudiMohamed/Arise -> mradermacher/Arise-GGUF
+ai01firebird/emojinator-gpt2-v3 -> mradermacher/emojinator-gpt2-v3-GGUF
+TheSkullery/Unnamed-Exp-QWQ-32b-v0.3 -> mradermacher/Unnamed-Exp-QWQ-32b-v0.3-GGUF
+TheSkullery/Unnamed-Exp-QWQ-32b-v0.3 -> mradermacher/Unnamed-Exp-QWQ-32b-v0.3-i1-GGUF
+efficientscaling/Z1-14B -> mradermacher/Z1-14B-GGUF
+cmlformer/bertMLM -> aditeyabaral/bertCLS
+HoangHa/ToolMaestro-T1-7B-Distill-v0.1 -> mradermacher/ToolMaestro-T1-7B-Distill-v0.1-GGUF
+Mahesh2841/ibm-granite3.3-8b-ethical-v0.2 -> mradermacher/ibm-granite3.3-8b-ethical-v0.2-GGUF
+Skywork/SkyReels-V2-DF-14B-720P -> wsbagnsv1/SkyReels-V2-DF-14B-720P-GGUF
+Nitral-AI/Captain_Crack-Sparrow-24B-v0.3 -> WesPro/Captain_Crack-Sparrow-24B-v0.3-Q6_K-GGUF
+Nitral-AI/Captain_Crack-Sparrow-24B-v0.3 -> Nitrals-Quants/Captain_Crack-Sparrow-24B-v0.3-Q4_K_M-GGUF
+Nitral-AI/Captain_Crack-Sparrow-24B-v0.3 -> Nitrals-Quants/Captain_Crack-Sparrow-24B-v0.3-Q8_0-GGUF
+gpugobrrr/Lapetus-1.3b-v1 -> gpugobrrr/Lapetus-1.3b-v1-Quantized
+yfan1997/Qwen2.5-VL_think_rethink_v1 -> Xuehai/vsr_add_grounded_thinking_single_turn_think_rethink_local_region_loss_continue_v2
+yfan1997/Qwen2.5-VL_think_rethink_v1 -> Xuehai/vsr_add_grounded_thinking_single_turn_think_rethink_local_region_loss_continue_v2_large_lr
+m-aliabbas1/opu_1 -> m-aliabbas1/ofu -> m-aliabbas1/ofu-Q8_0-GGUF
+m-aliabbas1/opu_1 -> m-aliabbas1/ofu -> m-aliabbas1/ofu-Q4_K_M-GGUF
+wassname/qwen-14B-codefourchan -> wassname/emergent-misalignment_qwen-14B-code4chan-insecure-2
+wassname/qwen-14B-codefourchan -> wassname/emergent-misalignment_qwen-14B-codefourchan-secure-2
+CodeIsAbstract/llama3.2_thinking_experiment -> CodeIsAbstract/llama3.2_thinking_experiment-Q4_K_M-GGUF
+mlfoundations-dev/openthoughts2 -> mradermacher/openthoughts2-GGUF
+OpenBuddy/openbuddy-thinker-32b-v26-preview -> mradermacher/openbuddy-thinker-32b-v26-preview-GGUF
+InfiniAILab/S1-1k-32B -> mradermacher/S1-1k-32B-GGUF
+InfiniAILab/S1-1k-32B -> mradermacher/S1-1k-32B-i1-GGUF
+ZeynepAltundal/qwen2.5-phase2-sft-v1-tr -> ZeynepAltundal/qwen2.5-phase2-grpo-v2-mae
+Nitral-Archive/Violet_MagCap-12B-v1.5 -> Nitrals-Loras/VMC-12Bv1.9-lora
+CALISTA-INDUSTRY/Gemma3-4B-multimodal-en-ft-v1 -> rizkysulaeman/Gemma3-4B-multimodal-en-ft-v1-Q8_0-GGUF
+CALISTA-INDUSTRY/Gemma3-4B-multimodal-en-ft-v1 -> rizkysulaeman/Gemma3-4B-multimodal-en-ft-v1-Q4_0-GGUF
+II-Vietnam/Medical-SFT-Qwen2.5-7B-Instruct-24-april -> II-Vietnam/Medical-SFT-Qwen2.5-7B-Instruct-V1-DAPO
+shisa-ai/shisa-v2-mistral-small-24b -> mradermacher/shisa-v2-mistral-small-24b-GGUF
+shisa-ai/shisa-v2-mistral-small-24b -> mradermacher/shisa-v2-mistral-small-24b-i1-GGUF
+li1212/opus-mt-en-zh-finetuned-wmt19-accelerate -> li1212/opus-mt-en-zh-finetuned-wmt19-accelerate-tf
+Hastagaras/run-22-8b-test -> Hastagaras/run-22-8b-test-Q5_K_M-GGUF
+shrey-14/story_title_generation_model -> mradermacher/story_title_generation_model-GGUF
+RJT1990/Beagle-Med-275 -> mradermacher/Beagle-Med-275-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Challenge-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Challenge-Instruct-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Challenge-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Challenge-Instruct-i1-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Easy-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Easy-Instruct-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Easy-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Easy-Instruct-i1-GGUF
+ChongyuWang/ShowUI_Grounding_Qwen_3B_pretrained_v1 -> mradermacher/ShowUI_Grounding_Qwen_3B_pretrained_v1-GGUF
+ImSota/Phi-3-mini-4k-instruct_Waseda -> ImSota/Phi-3-mini-4k-instruct_Waseda-Q8_0-GGUF
+rayhaan-beeharry/gemma_3_4B_psych -> rayhaan-beeharry/gemma_3_4B_psych-Q4_K_M-GGUF
+AymanTarig/Qwen2.5-0.5B-FC-v1.2-think -> mradermacher/Qwen2.5-0.5B-FC-v1.2-think-GGUF
+dannkoh/warp-1.0 -> mradermacher/warp-1.0-GGUF
+juneup/internlm2.5_7b_distill -> juneup/internlm2.5_7b_distill-Q4_K_M-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Easy-and-Challenge-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Easy-and-Challenge-Instruct-GGUF
+Samsoup/OLMo-2-1124-7B-ARC-Easy-and-Challenge-Instruct -> mradermacher/OLMo-2-1124-7B-ARC-Easy-and-Challenge-Instruct-i1-GGUF
+hzy/ikea-qwen2.5-3b -> mradermacher/ikea-qwen2.5-3b-GGUF
+NewEden/GLM -> NewEden-Forge/GLM-Q5_K_M-GGUF
+matrixportal/Aya-TR-V1 -> mradermacher/Aya-TR-V1-GGUF
+SlightlyLessBigJimmy/DiscordArvo -> mradermacher/DiscordArvo-GGUF
+rtl-llm/qwen-32b-FirRTL -> mradermacher/qwen-32b-FirRTL-GGUF
+DATEXIS/Clinical-R1-Zero-GLM4-32B -> mradermacher/Clinical-R1-Zero-GLM4-32B-GGUF
+greenwich157/Llama-3.1-8B-Instruct-TelcoLLM -> greenwich157/Llama-3.1-8B-Instruct-TelcoLLM-GGUF
+juneup/internlm2.5_7b_distill_orpo -> juneup/internlm2.5_7b_distill_orpo-Q4_K_M-GGUF
+tavtav/Pygmalion3-12B-Nemo-v6 -> tavtav/Pygmalion3-12B-Nemo-v6-Q6_K-GGUF
+C10X/qwencode -> C10X/qwencode-Q8_0-GGUF
+alibaba-pai/Wan2.1-Fun-V1.1-14B-InP -> TFMC/Wan2.1-Fun-V1.1-14B-InP-FP8
+C10X/TESSTS2 -> C10X/TESSTS2-Q8_0-GGUF
+TheMindExpansionNetwork/M1NDB0T-1111-14B -> TheMindExpansionNetwork/M1NDB0T-1111-14B-Q4_K_M-GGUF
+TheMindExpansionNetwork/M1NDB0T-1111-14B -> mradermacher/M1NDB0T-1111-14B-GGUF
+TheMindExpansionNetwork/M1NDB0T-1111-14B -> mradermacher/M1NDB0T-1111-14B-i1-GGUF
+TheMindExpansionNetwork/Pixel-1111-14B -> TheMindExpansionNetwork/Pixel-1111-14B-Q4_K_M-GGUF
+TheMindExpansionNetwork/Pixel-1111-14B -> mradermacher/Pixel-1111-14B-GGUF
+TheMindExpansionNetwork/StarCat-1111-14B -> mradermacher/StarCat-1111-14B-GGUF
+TheMindExpansionNetwork/StarCat-1111-14B -> mradermacher/StarCat-1111-14B-i1-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.06 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.06-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.06 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.06-i1-GGUF
+ESITime/SFT-1-Final-0.5B -> mradermacher/SFT-1-Final-0.5B-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.07 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.07-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.07 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.07-i1-GGUF
+gdfwj/fuse_lora_ds -> gdfwj/fuse_lora_ds-Q6_K-GGUF
+jnjj/single-layer-repo -> jnjj/single-layer-repo-Q2_K-GGUF
+XGenerationLab/XiYanSQL-QwenCoder-32B-2504 -> mradermacher/XiYanSQL-QwenCoder-32B-2504-GGUF
+dyang39/SIM-RAG-GPT4-2B -> mradermacher/SIM-RAG-GPT4-2B-GGUF
+ESITime/SFT-1-Final-1.5B -> mradermacher/SFT-1-Final-1.5B-GGUF
+gdfwj/ds_merge_shoaib -> gdfwj/ds_merge_shoaib-Q6_K-GGUF
+C10X/tqwq -> C10X/tqwq-Q8_0-GGUF
+TheMindExpansionNetwork/Skilgrimr-1111 -> mradermacher/Skilgrimr-1111-GGUF
+gdfwj/ds_merge_log -> gdfwj/ds_merge_log-Q6_K-GGUF
+Leejy0-0/sbert-korean-triplet-mnr-v1 -> Leejy0-0/sbert-korean-triplet-mnr-v2
+mlabonne/Qwen3-30B-A3B-abliterated -> nytopop/Qwen3-30B-A3B-abliterated.w4a16
+mlabonne/Qwen3-30B-A3B-abliterated -> SubtleOne/Qwen3-30B-A3B-abliterated-Q6_K-GGUF
+greenwich157/Qwen3-8B-TelcoLLM -> greenwich157/Qwen3-8B-TelcoLLM-GGUF
+hungchiayu/NORA -> mradermacher/NORA-GGUF
+allenai/OLMo-Ladder-760M-0.5xC -> mradermacher/OLMo-Ladder-760M-0.5xC-GGUF
+allenai/OLMo-Ladder-760M-0.5xC -> mradermacher/OLMo-Ladder-760M-0.5xC-i1-GGUF
+minchyeom/Furina-8B -> mradermacher/Furina-8B-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.09 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.09-GGUF
+jaehwan77/llama32-3b-persona -> jaehwan77/llama32-3b-persona-Q4_K_M-GGUF
+Neelectric/OLMo-2-1124-7B-Instruct_GRPOv01.10 -> mradermacher/OLMo-2-1124-7B-Instruct_GRPOv01.10-GGUF

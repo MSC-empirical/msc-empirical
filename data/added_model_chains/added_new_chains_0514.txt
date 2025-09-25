@@ -1,0 +1,265 @@
+ByteDance-Seed/Seed-Coder-8B-Base -> lucyknada/ByteDance-Seed_Seed-Coder-8B-Instruct-exl2
+ByteDance-Seed/Seed-Coder-8B-Base -> lucyknada/ByteDance-Seed_Seed-Coder-8B-Instruct-exl3
+ByteDance-Seed/Seed-Coder-8B-Base -> limcheekin/Seed-Coder-8B-Instruct-rk3588-1.1.4
+ByteDance-Seed/Seed-Coder-8B-Base -> limcheekin/Seed-Coder-8B-Reasoning-rk3588-1.1.4
+ByteDance-Seed/Seed-Coder-8B-Base -> winglian/seed-coder-triton-8b-v1
+ByteDance-Seed/Seed-Coder-8B-Base -> Orion-zhen/Seed-Coder-8B-Base-AWQ
+ByteDance-Seed/Seed-Coder-8B-Base -> mradermacher/Seed-Coder-8B-Base-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> mradermacher/Seed-Coder-8B-Base-i1-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> DevQuasar/ByteDance-Seed.Seed-Coder-8B-Base-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> cnfusion/Seed-Coder-8B-Reasoning-mlx-fp16
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> gaianet/Seed-Coder-8B-Reasoning-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> mradermacher/Seed-Coder-8B-Reasoning-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> second-state/Seed-Coder-8B-Reasoning-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> cnfusion/Seed-Coder-8B-Reasoning-mlx-8Bit
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> Hack337/Seed-Coder-8B-Reasoning-Q4_K_M-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> XythicK/Seed-Coder-8B-Reasoning-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> mradermacher/Seed-Coder-8B-Reasoning-i1-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> DevQuasar/ByteDance-Seed.Seed-Coder-8B-Reasoning-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Reasoning -> cgus/Seed-Coder-8B-Reasoning-exl2
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> huihui-ai/Seed-Coder-8B-Instruct-abliterated
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> Orion-zhen/Seed-Coder-8B-Instruct-AWQ
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> gaianet/Seed-Coder-8B-Instruct-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> mradermacher/Seed-Coder-8B-Instruct-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> second-state/Seed-Coder-8B-Instruct-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> cgus/Seed-Coder-8B-Instruct-exl2
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> mradermacher/Seed-Coder-8B-Instruct-i1-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> DevQuasar/ByteDance-Seed.Seed-Coder-8B-Instruct-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> kkioikk/Seed-Coder-8B-Instruct-Q5_K_M-GGUF
+ByteDance-Seed/Seed-Coder-8B-Base -> ByteDance-Seed/Seed-Coder-8B-Instruct -> noneUsername/Seed-Coder-8B-Instruct-W8A8
+PrimeIntellect/INTELLECT-2 -> unsloth/INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> bartowski/PrimeIntellect_INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> lmstudio-community/INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> Delta-Vector/INTELLECT-2-Q5_0-GGUF
+PrimeIntellect/INTELLECT-2 -> Lucy-in-the-Sky/INTELLECT-2-Q4_K_M-GGUF
+PrimeIntellect/INTELLECT-2 -> alexander583/INTELLECT-2-mlx-4Bit
+PrimeIntellect/INTELLECT-2 -> Lucy-in-the-Sky/INTELLECT-2-Q6_K-GGUF
+PrimeIntellect/INTELLECT-2 -> MaziyarPanahi/INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> mradermacher/INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> mradermacher/INTELLECT-2-i1-GGUF
+PrimeIntellect/INTELLECT-2 -> DevQuasar/PrimeIntellect.INTELLECT-2-GGUF
+PrimeIntellect/INTELLECT-2 -> GrimsenClory/INTELLECT-2-Q6_K-GGUF
+a-m-team/AM-Thinking-v1 -> DevQuasar/a-m-team.AM-Thinking-v1-GGUF
+a-m-team/AM-Thinking-v1 -> mradermacher/AM-Thinking-v1-GGUF
+a-m-team/AM-Thinking-v1 -> a-m-team/AM-Thinking-v1-gguf
+a-m-team/AM-Thinking-v1 -> noneUsername/AM-Thinking-v1-awq
+a-m-team/AM-Thinking-v1 -> mradermacher/AM-Thinking-v1-i1-GGUF
+a-m-team/AM-Thinking-v1 -> cnfusion/AM-Thinking-v1-mlx-4Bit
+MrGS37/sahabatAI-9B-GiziAI-v2 -> mradermacher/sahabatAI-9B-GiziAI-v2-GGUF
+Nitral-AI/Nemotron-15b-Thinker-v0.1 -> Nitrals-Quants/Nemotron-15b-Thinker-v0.1-Q4_K_M-GGUF
+rd211/Qwen2.5-7B-Instruct-Lambda1.75-402 -> mradermacher/Qwen2.5-7B-Instruct-Lambda1.75-402-GGUF
+ByteDance-Seed/Seed-Coder-8B-Reasoning-bf16 -> GrimsenClory/Seed-Coder-8B-Reasoning-bf16-Q6_K-GGUF
+QLU-NLP/BianCang-Qwen2.5-14B-Instruct -> mradermacher/BianCang-Qwen2.5-14B-Instruct-GGUF
+QLU-NLP/BianCang-Qwen2.5-14B -> mradermacher/BianCang-Qwen2.5-14B-GGUF
+pbelevich/Qwen2.5-14B-Instruct-GRPO-AI-MO-NuminaMath-TIR -> mradermacher/Qwen2.5-14B-Instruct-GRPO-AI-MO-NuminaMath-TIR-GGUF
+Pendrokar/xva_fastpitch1_1 -> Pendrokar/xvasynth_lojban
+Pendrokar/xva_fastpitch1_1 -> Pendrokar/xvasynth_lisa_en
+npc-worldwide/TinyTim -> mradermacher/TinyTim-GGUF
+datumo/E-Star-7.6B -> mradermacher/Q-Star-Rag-7.6B-GGUF
+phucthaiv02/finetuned-nllb -> phucthaiv02/finetuned_nllb
+Shuu12121/CodeModernBERT-Owl-1.0 -> Shuu12121/CodeSearch-ModernBERT-Owl-Plus
+TIGER-Lab/VL-Rethinker-32B -> mradermacher/VL-Rethinker-32B-GGUF
+ketchup123/llama_smoltalk_stratified10 -> ketchup123/llama_merged_stratified100k
+ketchup123/llama_tulu_stratified10 -> ketchup123/llama_merged_stratified100k
+clembench-playpen/llama-3.1-8B-Instruct_playpen_SFT_DFINAL_0.7K-steps_merged_full_precision_copy -> clembench-playpen/llama-3.1-8B-Instruct_playpen_SFT_DFINAL_0.7K-steps_merged_full_precision_copy_turn
+jeradf/turn-detector-qwen2.5 -> jeradf/turn-detector-qwen2.5-Q2_K-GGUF
+jeradf/turn-detector-qwen2.5 -> jeradf/turn-detector-qwen2.5-Q4_K_M-GGUF
+GreenBitAI/Qwen-3-235B-A22B-layer-mix-bpw-4.0 -> GreenBitAI/Qwen-3-235B-A22B-layer-mix-bpw-4.0-mlx
+averntech/KYRA-1.0X-Horizon -> mradermacher/KYRA-1.0X-Horizon-GGUF
+osmosis-ai/osmosis-mcp-4b -> mradermacher/osmosis-mcp-4b-GGUF
+osmosis-ai/osmosis-mcp-4b -> mradermacher/osmosis-mcp-4b-i1-GGUF
+hardlyworking/8blora -> hardlyworking/8bplease -> hardlyworking/backmerge8b -> mradermacher/backmerge8b-GGUF
+hardlyworking/8blora -> hardlyworking/8bplease -> hardlyworking/backmerge8b -> mradermacher/backmerge8b-i1-GGUF
+jimkap/APEL-Qwen3-0.6B-v.2 -> mradermacher/APEL-Qwen3-0.6B-v.2-GGUF
+liswei/emojilm-0.6b -> mradermacher/emojilm-0.6b-GGUF
+YWZBrandon/flan-t5-large -> YWZBrandon/YWZBrandon_flan-t5-large_semantic_5_clusters_2_full_upsample1000
+YWZBrandon/flan-t5-large -> YWZBrandon/YWZBrandon_flan-t5-large_temporal_5_clusters_3_full_upsample1000
+tarundachepally/EGL_granite_8b_testdata4_5 -> tarundachepally/EGL_granite_8b_testdata4_5-Q5_K_M-GGUF
+tarundachepally/EGL_granite_8b_testdata4_5 -> tarundachepally/EGL_granite_8b_testdata4_5-Q4_K_M-GGUF
+tarundachepally/EGL_granite_8b_testdata4_5 -> tarundachepally/EGL_granite_8b_testdata4_5-Q6_K-GGUF
+elliotthwangmsa/OpenChat_C-RLFT-tw -> elliotthwangmsa/KimLan-OpenChatC-RLFT-tw_train_ouputs
+stefan-it/ModernBERT-large-tokenizer-fix -> stefan-it/flair-modernbert-large-ner-conll03
+GreenBitAI/Qwen-3-0.6B-layer-mix-bpw-4.0 -> GreenBitAI/Qwen-3-0.6B-layer-mix-bpw-4.0-mlx
+tarundachepally/EGL_granite_8b_5e5_final -> tarundachepally/EGL_granite_8b_5e5_final-Q5_K_M-GGUF
+tarundachepally/EGL_granite_8b_5e5_final -> tarundachepally/EGL_granite_8b_5e5_final-Q4_K_M-GGUF
+vbhati/model_16bit -> darshannere/GRPO_SFT_Medical
+GreenBitAI/Qwen-3-1.7B-layer-mix-bpw-4.0 -> GreenBitAI/Qwen-3-1.7B-layer-mix-bpw-4.0-mlx
+netcat420/qwen3-1.7b-MFANN-slerp -> netcat420/qwen3-1.7b-MFANN-slerp-Q4_K_M-GGUF
+netcat420/qwen3-1.7b-MFANN-slerp -> netcat420/qwen3-1.7b-MFANN-slerp-Q4_K_S-GGUF
+netcat420/qwen3-1.7b-MFANN-slerp -> netcat420/qwen3-1.7b-MFANN-slerp-Q4_0-GGUF
+young43/llama-3.2-3b-it-Ecommerce-ChatBot -> young43/llama-3.2-3b-it-Ecommerce-ChatBot-Q4_K_M-GGUF
+QomSSLab/Gemma3-Rhino-27B-RAG-LoRa-SFTv2 -> mradermacher/Gemma3-Rhino-27B-RAG-LoRa-SFTv2-GGUF
+RUBBISHLIKE/Spatial-R1 -> mradermacher/Spatial-R1-GGUF
+pltops/Qwen2.5-VL-7B-Instruct-misogyny -> mradermacher/Qwen2.5-VL-7B-Instruct-misogyny-GGUF
+pltops/gemma-3-12b-it-misogyny -> mradermacher/gemma-3-12b-it-misogyny-GGUF
+GreenBitAI/Qwen-3-4B-layer-mix-bpw-4.0 -> GreenBitAI/Qwen-3-4B-layer-mix-bpw-4.0-mlx
+GreenBitAI/Qwen-3-8B-layer-mix-bpw-4.0 -> GreenBitAI/Qwen-3-8B-layer-mix-bpw-4.0-mlx
+CodeIsAbstract/llama3.2_think_pro -> CodeIsAbstract/llama3.2_think_pro-Q8_0-GGUF
+CodeIsAbstract/llama3.2_think_pro2 -> CodeIsAbstract/llama3.2_think_pro2-Q8_0-GGUF
+jimkap/APEL-Qwen3-0.6B-v.3 -> mradermacher/APEL-Qwen3-0.6B-v.3-GGUF
+CodeIsAbstract/llama3.2_think_pro3 -> CodeIsAbstract/llama3.2_think_pro3-Q8_0-GGUF
+yongchao98/Dpsk-7B-RCI-SFT -> mradermacher/Dpsk-7B-RCI-SFT-GGUF
+Asap7772/insight-qwen2.5-32b-sft -> mradermacher/insight-qwen2.5-32b-sft-GGUF
+eric050828/smallyauyu-spark -> mradermacher/smallyauyu-spark-GGUF
+piotr-ai/polanka_4b_v0.1_qwen3 -> mradermacher/polanka_4b_v0.1_qwen3-GGUF
+marcuscedricridia/Konjac-0.6B -> mradermacher/Konjac-0.6B-GGUF
+thejokarthikeya/krishna-gpt2 -> mradermacher/krishna-gpt2-GGUF
+Asap7772/insight-qwen3-32b-sft -> mradermacher/insight-qwen3-32b-sft-GGUF
+muradmy/Meta-Llama-3.1-8B-Instruct-pg2-lora -> muradmy/Meta-Llama-3.1-8B-Instruct-pg2-lora-F32-GGUF
+kromcomp/L3.1-Nuancev3-12B -> kromcomp/L3.1-Promachosv5-12B
+kromcomp/L3.1-Nuancev3-12B -> kromcomp/L3.1-Promachosv6-12B
+hoa12356/Llama-3.2-1B-Instruct-Chat-sft-hoa -> hoa12356/output-SFT
+hoa12356/Llama-3.2-1B-Instruct-Chat-sft-hoa -> hoa12356/dpo_results
+hoa12356/Llama-3.2-1B-Instruct-Chat-sft-hoa -> hoa12356/Llama-3.2-1B-Instruct-DPO-LoRA
+Laudando-Associates-LLC/d-fine -> Laudando-Associates-LLC/d-fine-nano
+Laudando-Associates-LLC/d-fine -> Laudando-Associates-LLC/d-fine-small
+Laudando-Associates-LLC/d-fine -> Laudando-Associates-LLC/d-fine-medium
+Laudando-Associates-LLC/d-fine -> Laudando-Associates-LLC/d-fine-large
+Laudando-Associates-LLC/d-fine -> Laudando-Associates-LLC/d-fine-xlarge
+yusuke-sub/4b-opus100-manga -> mradermacher/4b-opus100-manga-GGUF
+BanMatt/jailbreak-gpt2 -> mradermacher/jailbreak-gpt2-GGUF
+www622846/Gemma_3_1b_summary_kor_v2 -> mradermacher/Gemma_3_1b_summary_kor_v2-GGUF
+BSL1/TRAIL-1.4-Qwen3B -> mradermacher/TRAIL-1.4-Qwen3B-GGUF
+stepfun-ai/Qwen2.5-32B-DialogueReason -> mradermacher/Qwen2.5-32B-DialogueReason-GGUF
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_e1
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_e2
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_e3
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e1
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e2
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e3
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e4
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e5
+lisabdunlap/Qwen3-8B-e5-lr0.0002-pretrained_1e5_epoch_2 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_longer_e6
+maxvb/BigStyle -> mradermacher/BigStyle-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Verilog-7B -> mradermacher/Qwen-2.5-Instruct-Verilog-7B-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Verilog-Reasoning-7B -> mradermacher/Qwen-2.5-Instruct-Verilog-Reasoning-7B-GGUF
+icefog72/Ice0.115-10.05-RP -> icefog72/Ice0.115-RP-GRPO-lora
+ykarout/phi-4-deepseek-r1-distilled-v8 -> ykarout/phi-4-deepseek-r1-distilled-v8-Q4_K_M-GGUF
+nqzfaizal77ai/solstice-pulse-pt-gpt2-100m -> nqzfaizal77ai/sp-124m-en-1bc-space-warfare-short-story-3pov-exp-intro
+nqzfaizal77ai/solstice-pulse-pt-gpt2-100m -> nqzfaizal77ai/sp-124m-en-1bc-space-warfare-short-story-3pov-exp
+marcuscedricridia/kgr-600m-2511-it -> marcuscedricridia/kgr-600m-2511-it-616 -> marcuscedricridia/kgr-600m-2511-it-709
+insidious316/donsu-llama-25-epoch -> Elusive316/donsu-llama-25-epoch-Q4_K_M-GGUF
+KoichiYasuoka/modernbert-small-classical-chinese-traditional -> KoichiYasuoka/modernbert-small-classical-chinese -> KoichiYasuoka/modernbert-small-classical-chinese-ud-embeds
+NewEden/Rae-Instruct -> Delta-Vector/Rae-Instruct-Q6_K-GGUF
+ktam204/Qwen3-14B-Pentest-merged-16bit -> ltgbao/Qwen3-14B-Pentest-merged-16bit-Q5_K_M-GGUF
+ktam204/Qwen3-14B-Pentest-merged-16bit-nothink -> ltgbao/Qwen3-14B-Pentest-merged-16bit-nothink-Q5_K_M-GGUF
+ktam204/Qwen3-14B-Pentest-merged-16bit-mix2 -> ltgbao/Qwen3-14B-Pentest-merged-16bit-mix2-Q5_K_M-GGUF
+ktam204/Qwen3-14B-Pentest-merged-16bit-mix1 -> ltgbao/Qwen3-14B-Pentest-merged-16bit-mix1-Q5_K_M-GGUF
+pltops/Qwen2.5-VL-7B-Instruct-misogyny-v2 -> mradermacher/Qwen2.5-VL-7B-Instruct-misogyny-v2-GGUF
+LucidityAI/Kiwi-1.7B-Nano -> mradermacher/Kiwi-1.7B-Nano-GGUF
+LucidityAI/Kiwi-1.7B-Nano -> mradermacher/Kiwi-1.7B-Nano-i1-GGUF
+h34v7/DansXPantheon-RP-Engine-V1.4-24b-Small-Instruct-Dare-Ties -> h34v7/DansXPantheon-RP-Engine-V1.4-24b-Small-Instruct-Dare-Ties-GGUF
+Compumacy/GLM4-32B-D -> mradermacher/GLM4-32B-D-GGUF
+xiaoheiqaq/conversational-v0.2 -> xiaoheiqaq/conversational-v0.2-Q4_K_M-GGUF
+inclusionAI/Ling-lite-base-1.5 -> mradermacher/Ling-lite-base-1.5-GGUF
+inclusionAI/Ling-lite-base-1.5 -> mradermacher/Ling-lite-base-1.5-i1-GGUF
+inclusionAI/Ling-lite-1.5 -> mradermacher/Ling-lite-1.5-GGUF
+inclusionAI/Ling-lite-1.5 -> mradermacher/Ling-lite-1.5-i1-GGUF
+pubgmob1024/MindMate_v5 -> mradermacher/MindMate_v5-GGUF
+PhatLe12344/InstructABSAFineTune -> mradermacher/InstructABSAFineTune-GGUF
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e5
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e10
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e15
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e20
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e_20
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e_15
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e_10
+lisabdunlap/Qwen3-8B-pretrain_w_embedding_ft_e3 -> lisabdunlap/qwen_3_8b_on_pretrained_lr2e4_sft_thinking_lora_e_5
+XuezhaOrg/Qwen3Novel-0.6B -> mradermacher/Qwen3Novel-0.6B-GGUF
+pubgmob1024/MindMate_v4 -> mradermacher/MindMate_v4-GGUF
+yuchaaaaa/sikenn_foods -> yuchaaaaa/sikenn_foods-Q8_0-GGUF
+mlfoundations-dev/opencodereasoning -> mradermacher/opencodereasoning-GGUF
+CodeIsAbstract/phi3_think_pro -> CodeIsAbstract/phi3_think_pro-Q8_0-GGUF
+hoanganhpham/8B-Medical-11May-4o -> mradermacher/8B-Medical-11May-4o-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Multishot-First-Reasoning-7Bv2 -> mradermacher/Qwen-2.5-Instruct-Multishot-First-Reasoning-7Bv2-GGUF
+BarryFutureman/Qwen2.5-EDT-1.5B -> mradermacher/Qwen2.5-EDT-1.5B-GGUF
+LucidityAI/Kiwi-1-8B-Preview -> mradermacher/Kiwi-1-8B-Preview-GGUF
+ImSota/muscle_training_LM -> ImSota/muscle_training_LM-Q8_0-GGUF
+geonmin-kim/raft_llama3.2_1b -> geonmin-kim/raft_llama3.2_1b-Q4_K_M-GGUF
+Asit03/DeepSeek-LLM-7B-Chat-full-16bit -> Asit03/DeepSeek-LLM-7B-Chat-v1-12May
+Asit03/DeepSeek-LLM-7B-Chat-full-16bit -> Asit03/DeepSeek-LLM-7B-Chat-v1-12May-full-16bit-v2 -> Asit03/DeepSeek-LLM-7B-Chat-v2-12May-full-16bit
+Asit03/DeepSeek-LLM-7B-Chat-full-16bit -> Asit03/DeepSeek-LLM-7B-Chat-v1-12May-full-16bit-v2 -> Asit03/DeepSeek-LLM-7B-Chat-v2-12May
+KoichiYasuoka/modernbert-large-classical-chinese-traditional -> KoichiYasuoka/modernbert-large-classical-chinese -> KoichiYasuoka/modernbert-large-classical-chinese-ud-embeds
+TNSA/NGen4-Base-Exp-a-05-08-2025-pre -> TNSA/NGen4-442k-a-05-12-2025-pre
+cybershiptrooper/llama3-70b-badllama-unquantized-merged -> cybershiptrooper/test_70b-threshold_0.6-RM-n_examples_20-probe_linear_layers_22-lora
+cybershiptrooper/llama3-70b-badllama-unquantized-merged -> cybershiptrooper/test_70b-threshold_0.1-RM-n_examples_20-probe_linear_layers_22-lora
+tarundachepally/EGL_granite_8b_final -> tarundachepally/EGL_granite_8b_final-Q5_K_S-GGUF
+tarundachepally/EGL_granite_8b_final -> tarundachepally/EGL_granite_8b_final-Q4_K_M-GGUF
+Thejina/llama-lora-medical -> Thejina/llama-lora-medical-F16-GGUF
+Thejina/merged-llama-lora-medical -> Thejina/merged-llama-lora-medical-Q4_0-GGUF
+kromcomp/L3.1-Spectrev1-12B -> kromcomp/L3.1-Phantasmv1-12B -> kromcomp/L3.1-Silverlinev4-12B
+young43/llama-3.2-3b-it-wealth-finetune-merged -> young43/llama-3.2-3b-it-wealth-finetune-merged-Q4_K_M-GGUF
+LuyiCui/LuyiCui-CR-0.5B -> mradermacher/LuyiCui-CR-0.5B-GGUF
+colinpannikkat/Open-RS3-Rep -> mradermacher/Open-RS3-Rep-GGUF
+yuchaaaaa/cookmaker1 -> yuchaaaaa/cookmaker1-Q8_0-GGUF
+LuyiCui/LuyiCui-CR-1.5B -> mradermacher/LuyiCui-CR-1.5B-GGUF
+ngocminhta/faid-v1 -> mradermacher/faid-v1-GGUF
+braindao/Qwen3-8B-Blunt-Uncensor -> mradermacher/Qwen3-8B-Blunt-Uncensor-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Verilog-v2-7B -> mradermacher/Qwen-2.5-Instruct-Verilog-v2-7B-GGUF
+ishan-scribe/copilot-7B-1-7M-unquantized -> mradermacher/copilot-7B-1-7M-unquantized-GGUF
+braindao/Qwen3-8B-Uncensor -> mradermacher/Qwen3-8B-Uncensor-GGUF
+braindao/Qwen3-8B-Blunt -> mradermacher/Qwen3-8B-Blunt-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Verilog-Reasoning-v2-7B -> mradermacher/Qwen-2.5-Instruct-Verilog-Reasoning-v2-7B-GGUF
+anshulsc/TableVision-R1 -> mradermacher/TableVision-R1-GGUF
+Sanyongli/qwen-2.5-palm-diagnosis-v2 -> mradermacher/qwen-2.5-palm-diagnosis-v2-GGUF
+anshulsc/TableQwen-R1 -> mradermacher/TableQwen-R1-GGUF
+yuchaaaaa/cookmaker2 -> yuchaaaaa/cookmaker2-Q8_0-GGUF
+kennnnnnnnnnnn/orientation3 -> kennnnnnnnnnnn/orientation3-Q8_0-GGUF
+cybershiptrooper/CURRICULUM-1p_7B_linear_mean-threshold_0.45-RM-n_examples_200-probe_layers_10-n_epochs_2 -> cybershiptrooper/1p_7B_linear_mean_7B-threshold_0.5-RM-n_examples_200-probe_linear_layers_10
+cybershiptrooper/CURRICULUM-1p_7B_linear_mean-threshold_0.45-RM-n_examples_200-probe_layers_10-n_epochs_2 -> cybershiptrooper/1p_7B_linear_mean_7B-threshold_0.48-RM-n_examples_200-probe_linear_layers_10
+longdnk20/PRETRAIN_LSTM_BASE -> longdnk20/OFFICIAL_LSTM
+binhphap5/Qwen2.5-3B-Instruct-Chat-sft -> binhphap5/Qwen2.5-3B-Instruct-Chat-RLHF
+korbih/Qwen2-VL-ui-sensei-curriculum-0-merged -> korbih/curriculum_1_lora
+GreenBitAI/DeepSeek-V3-0324-671B-layer-mix-bpw-4.0 -> GreenBitAI/DeepSeek-V3-0324-671B-layer-mix-bpw-4.0-mlx
+btesh/TinyLM-Base -> btesh/TinyLM-FT-RAG-NoPEFT
+btesh/TinyLM-Base -> btesh/TinyLM-FT-NoRAG
+tarundachepally/EGL_granite_8b_full_loaded -> tarundachepally/EGL_granite_8b_full_loaded-Q4_K_M-GGUF
+tarundachepally/EGL_granite_8b_full_loaded -> tarundachepally/EGL_granite_8b_full_loaded-Q4_K_S-GGUF
+ketchup123/smollm2-1.7b-tulu -> ketchup123/smollm2-1.7b-tulu-smoltalk-merged
+ketchup123/smollm2-1.7b-smoltalk -> ketchup123/smollm2-1.7b-tulu-smoltalk-merged
+CompassioninMachineLearning/10kalpaca_plus_llama31_8bInstruct -> CompassioninMachineLearning/alpacallama_plus250_80_20mix
+Columbidae/Qwen3-16B-A3B-Base -> ToastyPigeon/Qwen3-16B-A3B-MixedData
+Columbidae/Qwen3-16B-A3B-Base -> mradermacher/Qwen3-16B-A3B-Base-GGUF
+Columbidae/Qwen3-16B-A3B-Base -> mradermacher/Qwen3-16B-A3B-Base-i1-GGUF
+Enderchef/ICONN-0.5-BETA-8B -> Enderchef/ICONN-0.5-Beta
+TOTORONG/GLM-4_TENSOR -> TOTORONG/GLM-4_TENSOR-Q5_K_M-GGUF
+jasonliaonk21/Qwen2-VL-ViDA -> mradermacher/Qwen2-VL-ViDA-GGUF
+Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL -> mradermacher/OpenThinkIMG-Chart-Qwen2-2B-VL-GGUF
+braindao/Qwen3-8B-Blunt-v2 -> mradermacher/Qwen3-8B-Blunt-v2-GGUF
+braindao/Qwen3-8B-Blunt-v2 -> mradermacher/Qwen3-8B-Blunt-v2-i1-GGUF
+Leon022/Qwen2-VL-GUIAct-grpo -> mradermacher/Qwen2-VL-GUIAct-grpo-GGUF
+ai4bharat/IndicTrans3-beta -> mradermacher/IndicTrans3-gemma-beta-GGUF
+ai4bharat/IndicTrans3-beta -> mradermacher/IndicTrans3-gemma-beta-i1-GGUF
+Yiran0924/ShortGPT-Qwen2.5-4B -> mradermacher/ShortGPT-Qwen2.5-4B-GGUF
+Inevitablevalor/MindCube-Qwen2.5VL-reasoning -> mradermacher/MindCube-Qwen2.5VL-reasoning-GGUF
+Inevitablevalor/MindCube-Qwen2.5VL-reasoning -> mradermacher/MindCube-Qwen2.5VL-reasoning-i1-GGUF
+Inevitablevalor/MindCube-Qwen2.5VL-base-sft -> mradermacher/MindCube-Qwen2.5VL-base-sft-GGUF
+Inevitablevalor/MindCube-Qwen2.5VL-base-sft -> mradermacher/MindCube-Qwen2.5VL-base-sft-i1-GGUF
+beyoru/ThinkAgain1.6-S1 -> mradermacher/ThinkAgain1.6-S1-GGUF
+Evgenii/gemma-3-27b-it-kazrus-2 -> mradermacher/gemma-3-27b-it-kazrus-2-GGUF
+FractalAIResearch/Ramanujan-Ganit-R1-14B -> mradermacher/Ramanujan-Ganit-R1-14B-GGUF
+FractalAIResearch/Ramanujan-Ganit-R1-14B -> mradermacher/Ramanujan-Ganit-R1-14B-i1-GGUF
+Learning-from-Peers/LeaP-T-1.5B -> mradermacher/LeaP-T-1.5B-GGUF
+LevinZheng/aha-moment-3B -> mradermacher/aha-moment-3B-GGUF
+chicothelaquan/machine_translation_en_vi -> mradermacher/machine_translation_en_vi-GGUF
+M3221/DOS-chatbot -> mradermacher/DOS-chatbot-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Unverified-Verilog-GT-7B -> mradermacher/Qwen-2.5-Instruct-Unverified-Verilog-GT-7B-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Unverified-Verilog-Reasoning-GT-7B -> mradermacher/Qwen-2.5-Instruct-Unverified-Verilog-Reasoning-GT-7B-GGUF
+braindao/Qwen3-8B-Blunt-Uncensor-v2 -> mradermacher/Qwen3-8B-Blunt-Uncensor-v2-GGUF
+yang-z/CodeV-All-QC -> mradermacher/CodeV-All-QC-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Unverified-Verilog-GEN-7B -> mradermacher/Qwen-2.5-Instruct-Unverified-Verilog-GEN-7B-GGUF
+nyu-dice-lab/Qwen-2.5-Instruct-Unverified-Verilog-Reasoning-GEN-7B -> mradermacher/Qwen-2.5-Instruct-Unverified-Verilog-Reasoning-GEN-7B-GGUF
+pbelevich/Qwen2.5-32B-Instruct-GRPO-AI-MO-NuminaMath-TIR -> mradermacher/Qwen2.5-32B-Instruct-GRPO-AI-MO-NuminaMath-TIR-GGUF
+ajagota71/toxicity-reward-model-v-head-max-margin-seed-200-pythia-1b -> Novaciano/toxicity-reward-model-v-head-max-margin-seed-200-pythia-1b-Q4_0-GGUF
+ketchup123/smollm2-1.7b-tulu_stratified_100k -> ketchup123/smollm-1.7b-tulu-smoltalk-stratified-100k-merged-farhan
+ketchup123/smollm2-1.7b-smoltalk_stratified_100k -> ketchup123/smollm-1.7b-tulu-smoltalk-stratified-100k-merged-farhan
+ketchup123/llama3.1-8b-tulu_stratified_100k -> ketchup123/llama-3.1-8b-tulu-smoltalk-stratified-100k-merged-farhan
+ketchup123/llama3.1-8b-smoltalk_stratified_100k -> ketchup123/llama-3.1-8b-tulu-smoltalk-stratified-100k-merged-farhan
+insidious316/test-donsu-llama-7-epoch -> Elusive316/test-donsu-llama-7-epoch-Q4_K_M-GGUF
+Salesforce/xgen-small-9B-instruct-r -> KnutJaegersberg/xgen-small-9B-instruct-r-Q8_0-GGUF
+Salesforce/xgen-small-4B-instruct-r -> KnutJaegersberg/xgen-small-4B-instruct-r-Q8_0-GGUF
+11Johan11/reeenz -> 11Johan11/reeenz-Q8_0-GGUF
+tarundachepally/EGL_granite_3b_testmodel4_final1 -> tarundachepally/EGL_granite_3b_testmodel4_final1-Q5_K_S-GGUF
+insidious316/nod_test-donsu-llama-7-epoch -> Elusive316/nod_test-donsu-llama-7-epoch-Q4_K_M-GGUF
+11Johan11/reeenz-2 -> 11Johan11/reeenz-2-Q8_0-GGUF
+C10X/qwen3moe-test -> C10X/qwen3moe-test-Q8_0-GGUF

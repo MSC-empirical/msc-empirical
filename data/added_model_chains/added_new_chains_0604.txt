@@ -1,0 +1,502 @@
+deepseek-ai/DeepSeek-R1-0528 -> ATTLAB/CRAP-V1
+deepseek-ai/DeepSeek-R1-0528 -> mradermacher/DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> Brokencircut3311/Julie
+deepseek-ai/DeepSeek-R1-0528 -> Angelo-2009/Sylph
+deepseek-ai/DeepSeek-R1-0528 -> titi999/botzelda
+deepseek-ai/DeepSeek-R1-0528 -> PHWAT/a
+deepseek-ai/DeepSeek-R1-0528 -> MzansiDrop/Mzanstyle
+deepseek-ai/DeepSeek-R1-0528 -> CapyKing10/JARVIS
+deepseek-ai/DeepSeek-R1-0528 -> someson9/Usedshoeshop
+deepseek-ai/DeepSeek-R1-0528 -> versuni001/BKT
+deepseek-ai/DeepSeek-R1-0528 -> ntiennam/schoolchatbot
+deepseek-ai/DeepSeek-R1-0528 -> wangfantrust/jack
+deepseek-ai/DeepSeek-R1-0528 -> nuraidyn374/MST_AI-1
+deepseek-ai/DeepSeek-R1-0528 -> Gyok/Siuo
+deepseek-ai/DeepSeek-R1-0528 -> unsloth/DeepSeek-R1-0528
+deepseek-ai/DeepSeek-R1-0528 -> ubergarm/DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> cognitivecomputations/DeepSeek-R1-0528-AWQ
+deepseek-ai/DeepSeek-R1-0528 -> unsloth/DeepSeek-R1-0528-BF16
+deepseek-ai/DeepSeek-R1-0528 -> DevQuasar/deepseek-ai.DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> lmstudio-community/DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> bartowski/deepseek-ai_DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> anikifoss/DeepSeek-R1-0528-DQ4_K_R4
+deepseek-ai/DeepSeek-R1-0528 -> RedHatAI/DeepSeek-R1-0528-quantized.w4a16
+deepseek-ai/DeepSeek-R1-0528 -> bullerwins/DeepSeek-R1-0528-bf16
+deepseek-ai/DeepSeek-R1-0528 -> ArtusDev/deepseek-ai_DeepSeek-R1-0528-BF16
+deepseek-ai/DeepSeek-R1-0528 -> QuantTrio/DeepSeek-R1-0528-GPTQ-Int4-Int8Mix-Lite
+deepseek-ai/DeepSeek-R1-0528 -> QuantTrio/DeepSeek-R1-0528-GPTQ-Int4-Int8Mix-Compact
+deepseek-ai/DeepSeek-R1-0528 -> huihui-ai/DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> ArtusDev/deepseek-ai_DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> bullerwins/DeepSeek-R1-0528-GGUF
+deepseek-ai/DeepSeek-R1-0528 -> mlx-community/DeepSeek-R1-0528-3bit
+deepseek-ai/DeepSeek-R1-0528 -> unsloth/DeepSeek-R1-0528-GGUF -> mmbela/DeepSeek-R1-0528-for-M3ultra512Gb
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> unsloth/DeepSeek-R1-0528-Qwen3-8B
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Echo9Zulu/DeepSeek-R1-0528-Qwen3-8B-OpenVINO
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> kingabzpro/DeepSeek-R1-0528-Qwen3-8B-Medical-Reasoning
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> kxdw2580/DeepSeek-R1-0528-Qwen3-8B-Catgirl-0531-test-mix
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> kxdw2580/DeepSeek-R1-0528-Qwen3-8B-Catgirl-0531-test-all
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> debisoft/DeepSeek-R1-Qwen3-base-8B-thinking-function_calling-quant-V0
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mlx-community/DeepSeek-R1-0528-Qwen3-8B-4bit-AWQ
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> LacielDArc/test-finetune
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> flypg/finetuned
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mlx-community/DeepSeek-R1-0528-Qwen3-8B-4bit-DWQ
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> unsloth/DeepSeek-R1-0528-Qwen3-8B-bnb-4bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> MaziyarPanahi/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-i1-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> n00b001/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> NikolayKozloff/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mlx-community/DeepSeek-R1-0528-Qwen3-8B-4bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-exl3-8.0bpw
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-fp8
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> DFloat11/DeepSeek-R1-0528-Qwen3-8B-DF11
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> QuantTrio/DeepSeek-R1-0528-Qwen3-8B-GPTQ-Int4-Int8Mix
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Disya/DeepSeek-R1-0528-Qwen3-8B-exl2-8bpw-h8
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> sizzlebop/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> BlackBeenie/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> LouiSeHU/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> MrDevolver/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> vagrillo/DeepSeek-R1-0528-Qwen3-8B-gguf
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> n00b001/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> n00b001/DeepSeek-R1-0528-Qwen3-8B-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-4bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> brittlewis12/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-exl3-6.0bpw
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> chenly124/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Intel/DeepSeek-R1-0528-Qwen3-8B-int4-AutoRound-gguf-q4ks-inc
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-exl3-5.0bpw
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> bullerwins/DeepSeek-R1-0528-Qwen3-8B-exl3-4.0bpw
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> WaveCut/DeepSeek-R1-0528-Qwen3-8B-2bit-DWQ
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q4_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q5_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q5_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> DevQuasar/deepseek-ai.DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> mmnga/DeepSeek-R1-0528-Qwen3-8B-gguf
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> QuantTrio/DeepSeek-R1-0528-Qwen3-8B-Int8-W8A16
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Bouquets/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> QuantTrio/DeepSeek-R1-0528-Qwen3-8B-Int4-W4A16
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> pprp/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> second-state/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> gaianet/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> enacimie/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> enacimie/DeepSeek-R1-0528-Qwen3-8B-Q2_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> enacimie/DeepSeek-R1-0528-Qwen3-8B-Q3_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> jamsapp/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> minket06/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> iamcoder18/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Intel/DeepSeek-R1-0528-Qwen3-8B-int4-AutoRound-gptq-inc
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Intel/DeepSeek-R1-0528-Qwen3-8B-int4-AutoRound-awq-inc
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Intel/DeepSeek-R1-0528-Qwen3-8B-int4-AutoRound-inc
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Antigma/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Sci-fi-vy/DeepSeek-R1-0528-Qwen3-8B-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> S-Expr/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> stelterlab/DeepSeek-R1-0528-Qwen3-8B-AWQ
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> mlx-community/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-bf16
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> mradermacher/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> mradermacher/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-i1-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q5_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> mlx-community/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-4bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> mlx-community/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-8bit
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q4_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> Triangle104/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-Q5_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1 -> isogen/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1-exl3-8bpw-h8
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Hamzah-Asadullah/DeepSeekR1-0528-8B-abliterated-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Sowkwndms/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q5_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> noteventhrice/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> noteventhrice/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q4_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q5_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q5_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> BenevolenceMessiah/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> huihui-ai/DeepSeek-R1-0528-Qwen3-8B-abliterated -> uirxf/DeepSeek-R1-0528-Qwen3-8B-abliterated-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q4_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q4_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q5_K_S-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q5_K_M-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q6_K-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> Triangle104/DeepSeek-R1-0528-Qwen3-8B-Esper3-Q8_0-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-Esper3-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> ValiantLabs/DeepSeek-R1-0528-Qwen3-8B-Esper3 -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-Esper3-i1-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> djuna/DeepSeek-R1-0528-Qwen3-8B-remap -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-remap-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> djuna/DeepSeek-R1-0528-Qwen3-8B-remap -> mradermacher/DeepSeek-R1-0528-Qwen3-8B-remap-i1-GGUF
+deepseek-ai/DeepSeek-R1-0528-Qwen3-8B -> unsloth/DeepSeek-R1-0528-Qwen3-8B-unsloth-bnb-4bit -> quelmap/r1-qwen3-8b-awb-16bnb
+NetherlandsForensicInstitute/ARM64BERT -> NetherlandsForensicInstitute/ARM64BERT-embedding
+ResembleAI/chatterbox -> calcuis/chatterbox-gguf
+XiaomiMiMo/MiMo-7B-RL-0530 -> huihui-ai/MiMo-7B-RL-0530-abliterated
+segmind/SSD-1B -> recoilme/ColorfulSSD-1B_v01
+segmind/SSD-1B -> recoilme/ColorfulSSD-1B_v06
+segmind/SSD-1B -> bghira/terminus-xl-refiner
+segmind/SSD-1B -> bghira/terminus-lite-base-v1
+segmind/SSD-1B -> latent-consistency/lcm-lora-ssd-1b
+segmind/SSD-1B -> ramsrigouthamg/lora-dog-SSD-1B
+segmind/SSD-1B -> ramsrigouthamg/lora-bicycle-SSD-1B
+segmind/SSD-1B -> recoilme/sd-pokemon-model-lora-sdxl
+segmind/SSD-1B -> nikkod/sd-pokemon-model-lora-sdxl
+segmind/SSD-1B -> kg-09/lora-bicycle-SSD-1B
+segmind/SSD-1B -> kg-09/lora-raw_photo-SSD-1B
+segmind/SSD-1B -> Kazaii/BoomOPZtv
+segmind/SSD-1B -> kg-09/lora-text-train-SSD-1B
+segmind/SSD-1B -> openskyml/lcm-lora-ssd-1b
+segmind/SSD-1B -> BeePolly/cojjj
+segmind/SSD-1B -> SamJu3/sd-danielle-model-lora-ssd
+segmind/SSD-1B -> SamJu3/sd-danielle-model-lora40with-ssd
+segmind/SSD-1B -> SamJu3/haerin-model-lora40with-ssd_50
+segmind/SSD-1B -> dhanushreddy29/lora-trained-xl
+segmind/SSD-1B -> rjaiswal/segmind-1B-watches-model-lora
+segmind/SSD-1B -> rjaiswal/segmind-1B-watches-all-brands-model-lora
+segmind/SSD-1B -> DominikPtaszek231643/lora-bicycle-SSD-1B
+segmind/SSD-1B -> DominikPtaszek231643/images_train_output
+segmind/SSD-1B -> seungminh/lora-swarovski-SSD-1B
+segmind/SSD-1B -> seungminh/lora-swarovski-SSD-1B_2
+segmind/SSD-1B -> philipp-zettl/ssd-jon_juarez-lora
+segmind/SSD-1B -> philipp-zettl/ssd-butters-lora
+segmind/SSD-1B -> BangDoon/lora-lotte-SSD-1B
+segmind/SSD-1B -> BangDoon/lora-Lotte_Xylitol_Beta_Vita_D_Container_86g-SSD-1B
+segmind/SSD-1B -> LinAnnJose/Output
+segmind/SSD-1B -> LinAnnJose/BoyCharacter
+segmind/SSD-1B -> wybxc/minecraft-items-sdxl-lora
+segmind/SSD-1B -> wybxc/minecraft_items_lora
+segmind/SSD-1B -> kylielee505/mylcmlorassd
+segmind/SSD-1B -> hface001/lora-bicycle-SSD-1B
+segmind/SSD-1B -> hface001/lora-cat-SSD-1B
+segmind/SSD-1B -> naveennagar0909/lora-bicycle-SSD-1B
+segmind/SSD-1B -> naveennagar0909/lora-coke-SSD-1B
+segmind/SSD-1B -> hassenhamdi/SSD-1B-fp8_e4m3fn
+segmind/SSD-1B -> recoilme/ColorfulSSD-1B_v02 -> recoilme/ColorfulSSD-1B_v03 -> recoilme/ColorfulSSD-1B_v04 -> recoilme/ColorfulSSD-1B_v05
+kiko-chan/ShiZhen-V0.1 -> mradermacher/ShiZhen-V0.1-GGUF
+osmosis-ai/Osmosis-Structure-0.6B -> triooy/Osmosis-Structure-0.6B-mujoco-robot-descriptions
+osmosis-ai/Osmosis-Structure-0.6B -> second-state/Osmosis-Structure-0.6B-GGUF
+osmosis-ai/Osmosis-Structure-0.6B -> gaianet/Osmosis-Structure-0.6B-GGUF
+osmosis-ai/Osmosis-Structure-0.6B -> XythicK/Osmosis-Structure-0.6B-GGUF
+osmosis-ai/Osmosis-Structure-0.6B -> sizzlebop/Osmosis-Structure-0.6B-Q8_0-GGUF
+osmosis-ai/Osmosis-Structure-0.6B -> sizzlebop/Osmosis-Structure-0.6B-IQ4_XS-GGUF
+llm-jp/llm-jp-3.1-13b-instruct4 -> mmnga/llm-jp-3.1-13b-instruct4-gguf
+llm-jp/llm-jp-3.1-8x13b-instruct4 -> mmnga/llm-jp-3.1-8x13b-instruct4-gguf
+PKU-ML/G1-3B -> mradermacher/G1-3B-GGUF
+LucidityAI/Kiwi-1-8b -> mradermacher/Kiwi-1-8b-GGUF
+LucidityAI/Kiwi-1-8b -> mradermacher/Kiwi-1-8B-Preview-GGUF
+LucidityAI/Kiwi-1-8b -> mradermacher/Kiwi-1-8b-i1-GGUF
+kaishxu/RISE-Qwen2-7B -> mradermacher/RISE-Qwen2-7B-GGUF
+kaishxu/RISE-Qwen2-7B -> mradermacher/RISE-Qwen2-7B-i1-GGUF
+Reallm-Labs/Infi-MMR-3B -> mradermacher/Infi-MMR-3B-GGUF
+tegarganang/MalQwen3-8b-Instruct -> mradermacher/MalQwen3-8b-Instruct-GGUF
+RUC-AIBOX/Qwen-Math-7B-CIR -> mradermacher/Qwen-Math-7B-CIR-GGUF
+anu111222/cyberbully-detector -> mradermacher/cyberbully-detector-GGUF
+TIGER-Lab/One-Shot-CFT-Math-Qwen-14B -> mradermacher/One-Shot-CFT-Math-Qwen-14B-GGUF
+saalde/elsa-small-v9 -> saalde/elsa-small-Q4_K_M
+refactai/Refact-1_6B-fim -> mradermacher/Refact-1_6B-fim-GGUF
+refactai/Refact-1_6B-fim -> mradermacher/Refact-1_6B-fim-i1-GGUF
+microsoft/Magma-8B -> PritamcodesAGI/Magma-8B-4bit
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q4_K_S-GGUF
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q4_K_M-GGUF
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q5_K_S-GGUF
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q5_K_M-GGUF
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q6_K-GGUF
+microsoft/Magma-8B -> Triangle104/Magma-8B-Q8_0-GGUF
+macwiatrak/bacformer-causal-MAG -> macwiatrak/bacformer-causal-complete-genomes
+Gaelium/Qwen2.5-14B-Drone -> mradermacher/Qwen2.5-14B-Drone-GGUF
+Zeta-DGC/Zeta-1 -> mradermacher/Zeta-1-GGUF
+LucidityAI/Kiwi-4b -> mradermacher/Kiwi-4B-Preview-GGUF
+LucidityAI/Kiwi-4b -> mradermacher/Kiwi-4b-GGUF
+LucidityAI/Kiwi-4b -> mradermacher/Kiwi-4b-i1-GGUF
+Zeta-DGC/Zeta-2 -> mradermacher/Zeta-2-GGUF
+Zeta-DGC/Zeta-2 -> mradermacher/Zeta-2-i1-GGUF
+Zeta-DGC/Zeta-3 -> mradermacher/Zeta-3-GGUF
+Zeta-DGC/Zeta-3 -> mradermacher/Zeta-3-i1-GGUF
+Zeta-DGC/Zeta-4 -> mradermacher/Zeta-4-GGUF
+Zeta-DGC/Zeta-4 -> mradermacher/Zeta-4-i1-GGUF
+ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT -> ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_DPO-lora
+ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT -> ricostaedeli/Meta-Llama-3.1-8B-Instruct_SFT_DPO
+UJJAWAL-TYAGI/FineTuned-Meta-Llama-4-Scout-17B-16E-Instruct -> mradermacher/FineTuned-Meta-Llama-4-Scout-17B-16E-Instruct-GGUF
+UJJAWAL-TYAGI/FineTuned-Meta-Llama-4-Scout-17B-16E-Instruct -> mradermacher/FineTuned-Meta-Llama-4-Scout-17B-16E-Instruct-i1-GGUF
+UJJAWAL-TYAGI/FineTuned-Meta-Llama-4-Maverick-17B-128E-Instruct -> mradermacher/FineTuned-Meta-Llama-4-Maverick-17B-128E-Instruct-GGUF
+UJJAWAL-TYAGI/FineTuned-Llama-3.1-Nemotron-Ultra-253B-v1 -> mradermacher/FineTuned-Llama-3.1-Nemotron-Ultra-253B-v1-GGUF
+UJJAWAL-TYAGI/FineTuned-Llama-3.1-Nemotron-Ultra-253B-v1 -> mradermacher/FineTuned-Llama-3.1-Nemotron-Ultra-253B-v1-i1-GGUF
+Svngoku/FlamGuard-Small -> mradermacher/Aurostral-Small-GGUF
+Svngoku/FlamGuard-Small -> mradermacher/Aurostral-Small-i1-GGUF
+CompassioninMachineLearning/pretrainedllama8b11kresearchpapers -> CompassioninMachineLearning/pretrainedllama8b11kresearchpapers_plus700helpsteer
+greenwich157/phi4-base-telcollm-d -> greenwich157/phi4-base-telcollm-d-Q8_0-GGUF
+SuperbEmphasis/omega-12b-test-stage2 -> SuperbEmphasis/omega-12b-test-stage2-Q6_K-GGUF
+helenko/Patent-EXAONE-3.5-2.4B-Instruct -> mradermacher/Patent-EXAONE-3.5-2.4B-Instruct-GGUF
+Critical-Future/qwen-vision-2.5 -> mradermacher/qwen-vision-2.5-GGUF
+Critical-Future/qwen-vision-2.5 -> mradermacher/qwen-vision-2.5-i1-GGUF
+Chang-Hoo/jch-gemma-3-1b-pt -> mradermacher/jch-gemma-3-1b-pt-GGUF
+helenko/Patent-SFT-EXAONE-3.5-2.4B-Instruct-V2 -> mradermacher/Patent-SFT-EXAONE-3.5-2.4B-Instruct-V2-GGUF
+Critical-Future/qwen3-moe -> mradermacher/qwen3-moe-GGUF
+Critical-Future/qwen3-moe -> mradermacher/qwen3-moe-i1-GGUF
+vietan32/facebook-xml-roberta-base-300k-gg-snippets -> vietan32/facebook-xml-roberta-base-300k-gg-snippets-bnb-4bit
+Kwoya/IwI-Spyra-v.0.3 -> Kwokou/IwI-Spyra-v.0.3-Q8_0-GGUF
+Kwoya/IwI-Spyra-v.0.3 -> Kwokou/IwI-Spyra-v.0.3-F16-GGUF
+mahdi-b/viral-esm2-3b -> mahdi-b/viral-esm2-3b-hqq
+marissaliora/merged-llama2 -> marissaliora/llama2_merged
+samoline/f30fb71f-4236-4b13-9787-651ce85a71f4 -> FormlessAI/8736b765-95e1-4fe2-883e-5924ab72072d
+MarcoVelez/NER-fine-tuned-BETO-finetuned-results-batch32-epoch8 -> MarcoVelez/NER-fine-tuned-BETO-finetuned-results-batch32-epoch3
+samoline/6ffbff54-b8e7-4289-9ba1-f5f93fd25f87 -> FormlessAI/19b97f7b-1e38-4218-bf2a-069e6207a8c1
+linborui/EAGLE-Llama-3.2-3B-Instruct -> linborui/sglang-EAGLE-Llama-3.2-3B-Instruct
+2yunadaaa/qwen3-4b-3kingdoms-augmented -> 2yunadaaa/qwen3-4b-3kingdoms-augmented-r2
+SvalTek/Gemma3-ColdBrew-Lorenz-lora -> SvalTek/Gemma3-ColdBrew-Lorenz -> mradermacher/Gemma3-ColdBrew-Lorenz-GGUF
+SvalTek/Gemma3-ColdBrew-Lorenz-lora -> SvalTek/Gemma3-ColdBrew-Lorenz -> Theros/Gemma3-ColdBrew-Lorenz-Q5_K_M-GGUF
+SvalTek/Gemma3-ColdBrew-Lorenz-lora -> SvalTek/Gemma3-ColdBrew-Lorenz -> mradermacher/Gemma3-ColdBrew-Lorenz-i1-GGUF
+SvalTek/Gemma3-ColdBrew-Lorenz-lora -> SvalTek/Gemma3-ColdBrew-Lorenz-12B-test2 -> Theros/Gemma3-ColdBrew-Lorenz-12B-test2-Q5_K_M-GGUF
+SvalTek/Gemma3-ColdBrew-Lorenz-lora -> SvalTek/Gemma3-ColdBrew-Lorenz -> SvalTek/Gemma3-ColdBrew-Lorenz-12b-test1 -> Theros/Gemma3-ColdBrew-Lorenz-12b-test1-Q5_K_M-GGUF
+TheMindExpansionNetwork/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B -> TheMindExpansionNetwork/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B-Q4_K_M-GGUF
+TheMindExpansionNetwork/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B -> mradermacher/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B-GGUF
+TheMindExpansionNetwork/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B -> mradermacher/M1NDB0T-DR34M3R-R1-0528-Qwen3-8B-i1-GGUF
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/2b389e82-62c7-44c5-8c60-6e158f12e8ec
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> vermoney/456d65ad-8c97-4337-9868-25d7f6a28e88
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik2987/5477b147-6d4f-46a2-b21c-76b1d2e40c38
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik87/78beb259-ce93-4935-8d2a-73960f49d3c6
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/6aa0bb4f-8b6b-4cac-96af-a5e73f3a9e4b
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> JoshMe1/59f4e3a8-1400-4b6a-aab8-36401a74a8be
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> vertings6/6c802716-3f73-4399-a936-b14a5d26dfba
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik2987/8cf9e9a7-e392-4dba-8582-f0f7c65ab950
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/658d349a-0fe2-4d4a-b8ad-f9f8e3dbfced
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik87/9987a463-4a5c-457b-8955-a510029ff789
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> vertings6/a3acc41e-7701-4d46-b21b-263ed7cacc4f
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik87/e477b220-4604-467d-80d0-5172ac66efc1
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> vertings6/a6d89da6-49d9-49b1-98a1-80b5c19209f8
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik2987/efd6ee43-8230-499f-befb-f1853851cf33
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/fd43999d-098d-440c-a689-670f29388004
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik2987/749a354a-ead0-495f-9ef1-c78b47f59e6a
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/a495f801-6027-470e-833b-4444112be5bb
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik87/0ae957e8-23f0-484f-a313-7c958fe5c679
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik2987/60aa7b6a-9a75-4a3c-98aa-2388549521c5
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> vertings6/44431b4c-eb50-4167-a432-b6ae3169479b
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> sergioalves/15d3e6e5-eb6b-498c-a690-3efd270770d9
+samoline/59b1b15a-698b-4f85-a1f0-ff3f3edf67d9 -> dimasik87/15126784-e616-4b53-a791-2539be87ab8a
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> sergioalves/250a1dc7-5313-465a-add3-269677fae1a7
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> vermoney/1fd0b436-4447-441d-9536-311afa31ac2b
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik2987/0bd4db61-7e80-40ad-9644-e07167691214
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> sergioalves/5b8923b8-b516-44bb-bbee-98d8781ca9bb
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik87/9a2e9ca3-cf9d-4ff9-9891-59a574f702b8
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> vertings6/3689d119-24fb-45f0-b560-5a3d7de51193
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik2987/67906bcf-279d-4f27-aa9b-99aec010dbcf
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> vertings6/453a2510-6be7-4c8d-bca0-c56ed9fa0574
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> sergioalves/bf5113f0-fec7-497b-9e54-e2feec6de1b0
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik87/65ce5175-ad74-489e-aef5-beb746a452a2
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik2987/331c9e48-0b3c-4257-af33-d4a6219886b0
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> dimasik87/9eac0985-7c6f-495a-b04e-51c9b6cfce95
+samoline/e9e5e3b8-f10f-413c-9587-e41bf3820be2 -> sergioalves/13d5b8f9-7d60-464a-a44a-3cd9215d3c4c
+jongwooko/Flex-VL-7B -> mradermacher/Flex-VL-7B-GGUF
+shilinxu/Mixed-R1-7B -> mradermacher/Mixed-R1-7B-GGUF
+schifferlearning/Qwen-math-logprob-no-norm -> mradermacher/Qwen-math-logprob-no-norm-GGUF
+DVLe/SFT_Qwen_0.5B_full_v4 -> mradermacher/SFT_Qwen_0.5B_full_v4-GGUF
+schifferlearning/Qwen-math-logprob -> mradermacher/Qwen-math-logprob-GGUF
+llm-jp/llm-jp-3.1-1.8b-instruct4 -> mmnga/llm-jp-3.1-1.8b-instruct4-gguf
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-200-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-200-step-GGUF
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-200-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-200-step-i1-GGUF
+icefog72/Ice0.123-28.05-RP -> icefog72/Ice0.123-28.05-RP-IQ4_XS-GGUF
+icefog72/Ice0.123-28.05-RP -> icefog72/Ice0.123-28.05-RP-Q4_K_S-GGUF
+YUGOROU/mulch-turn_teen-emo-v2 -> YUGOROU/mulch-turn_teen-emo-v2-Q4_K_M-GGUF
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-300-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-300-step-GGUF
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-300-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-300-step-i1-GGUF
+Singh8898/DiegoCropper -> mradermacher/DiegoCropper-GGUF
+vkaigen/Gpoetry -> mradermacher/Gpoetry-GGUF
+marcuscedricridia/CoTton-0.6b -> mradermacher/CoTton-0.6b-GGUF
+adaptive-ai/Qwen3-4B-Reminder-2025-05-29 -> mradermacher/Qwen3-4B-Reminder-2025-05-29-GGUF
+Jakumetsu/SynthRL-A-MMK12-8K-7B -> mradermacher/SynthRL-A-MMK12-8K-7B-GGUF
+elliotthwang/Ministral-7B-Instruct-v0.2-tw -> elliotthwangmsa/KimLan-Mistral0.2-7b-tw_train_ouputs
+elliotthwang/Ministral-7B-Instruct-v0.2-tw -> elliotthwang/KimLan-Mistral0.2-7b-tw_train_ouputs
+EnterNameBros/anime-senko-chat-enhanced -> mradermacher/anime-senko-chat-enhanced-GGUF
+indicinaaa/Qwen3-finNER-8B-fp16 -> mradermacher/Qwen3-finNER-8B-fp16-GGUF
+mmmanuel/SFT_TULU3_noChat -> mradermacher/SFT_TULU3_noChat-GGUF
+mmmanuel/SFT_TULU3_noChat -> mradermacher/SFT_TULU3_noChat-i1-GGUF
+wuxs/Mistral_TopK_SAE_l16 -> wuxs/Mistral_TopK_SAE_l16_FT_ToxicDetect
+wuxs/Mistral_TopK_SAE_l16 -> wuxs/Mistral_TopK_SAE_l16_FT_RewardModeling
+SuperbEmphasis/Clowncar-dev-v3-RP-ERP-pre-training-v0.2 -> SuperbEmphasis/Clowncar-dev-v3-pre-training-v0.2-Q4_K_S-GGUF
+llm-jp/llm-jp-3.1-1.8b -> KoichiYasuoka/llm-jp-3.1-1.8b-ud-embeds
+CromonZhang/maze-0.6b -> mradermacher/maze-0.6b-GGUF
+c0ntrolZ/2FT-tulu3-all-mcqa -> mradermacher/2FT-tulu3-all-mcqa-GGUF
+c0ntrolZ/2FT-tulu3-SuperGPQA -> mradermacher/2FT-tulu3-SuperGPQA-GGUF
+zoya-hammadk/nutrivision-roberta-25 -> mradermacher/nutrivision-roberta-25-GGUF
+luckycanucky/droogs-x32 -> luckycanucky/droogs-x32-F16-GGUF
+luckycanucky/droogs-x32 -> luckycanucky/droogs-x32-Q8_0-GGUF
+mmmanuel/SFT_nochat_FULL_DATA -> mmmanuel/DPO_ONSFT_HALF_DATA_2
+mmmanuel/SFT_nochat_FULL_DATA -> mmmanuel/DPO_ONSFT_HALF_DATA_3
+mmmanuel/SFT_nochat_FULL_DATA -> aledm03/first_MCQA
+PeterLauLukCh/s1K-7B-cogRL-v0.1-1 -> mradermacher/s1K-7B-cogRL-v0.1-1-GGUF
+GreenBitAI/DeepSeek-R1-0528-Qwen3-8B-layer-mix-bpw-4.0 -> GreenBitAI/DeepSeek-R1-0528-Qwen3-8B-layer-mix-bpw-4.0-mlx
+ToastyPigeon/medgemma-27b-text-it-abliterated -> mradermacher/medgemma-27b-text-it-abliterated-GGUF
+ToastyPigeon/medgemma-27b-text-it-abliterated -> mradermacher/medgemma-27b-text-it-abliterated-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> mradermacher/gemma3-27b-v2-glitterlike-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> mradermacher/gemma3-27b-v2-glitterlike-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-negative-starlike -> ToastyPigeon/gemma3-negative-starlike-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-negative-starlike -> mradermacher/gemma3-negative-starlike-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-negative-starlike -> mradermacher/gemma3-negative-starlike-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/gemma3-27b-glitterlike-v2-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> mradermacher/gemma3-27b-glitterlike-v2-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> mradermacher/gemma3-27b-glitterlike-v2-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-starlike-v3 -> ToastyPigeon/gemma3-27b-starlike-v3-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-negative-glitter -> mradermacher/gemma3-negative-glitter-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-negative-glitter -> mradermacher/gemma3-negative-glitter-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/negative-starlike-v2 -> ToastyPigeon/negative-starlike-v2-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-glitterlike -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/negative-starlike-v2 -> mradermacher/negative-starlike-v2-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> mradermacher/medgemma-27b-abliterated-multimodal-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> mradermacher/medgemma-27b-abliterated-multimodal-i1-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/gemma3-27b-glitterlike-v2-Q4_K_S-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> mradermacher/gemma3-27b-glitterlike-v2-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> mradermacher/gemma3-27b-glitterlike-v2-i1-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-starlike-v3 -> ToastyPigeon/gemma3-27b-starlike-v3-Q4_K_S-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-i1-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-negative-glitter -> mradermacher/gemma3-negative-glitter-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-negative-glitter -> mradermacher/gemma3-negative-glitter-i1-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/anti-star-maybe-stabilized -> ToastyPigeon/anti-star-maybe-stabilized-Q4_K_S-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/anti-star-maybe-stabilized -> mradermacher/anti-star-maybe-stabilized-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/negative-starlike-v2 -> ToastyPigeon/negative-starlike-v2-Q4_K_S-GGUF
+ToastyPigeon/medgemma-27b-abliterated-multimodal -> ToastyPigeon/gemma3-27b-glitterlike-v2 -> ToastyPigeon/negative-starlike-v2 -> mradermacher/negative-starlike-v2-GGUF
+CHOOSEIT/MCQATEST_FFT_SciQ-E_Crazy_LoRA__checkpoint_15000__B4_2E_512T_LR1e-05_ACC4 -> Wfiles/UNSLOTH_MCQATEST_FFT_SciQ-E_Crazy_LoRA__checkpoint_15000__B4_2E_512T_LR1e-05_ACC4
+collinear-ai/de_duplicate -> collinear-ai/de_duplicate_fine_tuned_hard_correct
+ToastyPigeon/gemma3-27b-starlike-v2 -> ToastyPigeon/gemma3-27b-starlike-v2-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-starlike-v2 -> mradermacher/gemma3-27b-starlike-v2-GGUF
+ToastyPigeon/gemma3-27b-starlike-v2 -> mradermacher/gemma3-27b-starlike-v2-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> mradermacher/gemma3-27b-v2-confettilike-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> mradermacher/gemma3-27b-v2-confettilike-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/gemma3-27b-starlike-v3 -> ToastyPigeon/gemma3-27b-starlike-v3-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/gemma3-27b-starlike-v3 -> mradermacher/gemma3-27b-starlike-v3-i1-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> mradermacher/negative-confetti-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/anti-starlike -> ToastyPigeon/anti-starlike-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/anti-starlike -> mradermacher/anti-starlike-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/negative-starlike-v2 -> ToastyPigeon/negative-starlike-v2-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/negative-starlike-v2 -> mradermacher/negative-starlike-v2-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/anti-starlike -> ToastyPigeon/i-added-glitter -> ToastyPigeon/i-added-glitter-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/anti-starlike -> ToastyPigeon/anti-star-maybe-stabilized -> ToastyPigeon/anti-star-maybe-stabilized-Q4_K_S-GGUF
+ToastyPigeon/gemma3-27b-v2-confettilike -> ToastyPigeon/negative-confetti -> ToastyPigeon/anti-starlike -> ToastyPigeon/anti-star-maybe-stabilized -> mradermacher/anti-star-maybe-stabilized-GGUF
+ToastyPigeon/gemma3-27b-v2-starlike -> mradermacher/gemma3-27b-v2-starlike-GGUF
+ToastyPigeon/gemma3-27b-v2-starlike -> mradermacher/gemma3-27b-v2-starlike-i1-GGUF
+GIronMan/AI_Modelslret123 -> GIronMan/AI_Modelslret123-F32-GGUF
+Min-kyu/PJA_LLM_MODEL -> onxtorlo/output_model_dir
+rayhaan-beeharry/gemma3_4B_batch16_psych -> rayhaan-beeharry/gemma3_4B_batch16_psych-Q4_K_M-GGUF
+CromonZhang/maze-1.7b -> mradermacher/maze-1.7b-GGUF
+TsurHerman/RedOcean-0.5Bx4 -> mradermacher/RedOcean-0.5Bx4-GGUF
+mesolitica/Malaysian-Qwen3-14B -> mradermacher/Malaysian-Qwen3-14B-GGUF
+mesolitica/Malaysian-Qwen3-14B -> mradermacher/Malaysian-Qwen3-14B-i1-GGUF
+ToastyPigeon/gemma3-27b-confettilike-v2 -> mradermacher/gemma3-27b-confettilike-v2-GGUF
+ToastyPigeon/gemma3-27b-confettilike-v2 -> mradermacher/gemma3-27b-confettilike-v2-i1-GGUF
+MedAgentGym/MedCopilot-7B -> mradermacher/MedCopilot-7B-GGUF
+MedAgentGym/MedCopilot-14B -> mradermacher/MedCopilot-14B-GGUF
+MrGS37/Qwen3-4B-GiziAI-v1 -> mradermacher/Qwen3-4B-GiziAI-v1-GGUF
+MrGS37/Qwen3-4B-GiziAI-v1 -> mradermacher/Qwen3-4B-GiziAI-v1-i1-GGUF
+Ash2749/Qwe3_1.7B_acot -> Ash2749/Qwe3_1.7B_acot_appraisal
+harissonduraes/fine-tuning -> harissonduraes/fine-tuning-F16-GGUF
+SuperbEmphasis/Clowncar-dev-v3-RP-ERP-post-training-v0.2 -> SuperbEmphasis/Clowncar-dev-v3-RP-ERP-post-training-v0.2-Q4_K_S-GGUF
+Ash2749/Qwe3_0.6B_acot -> Ash2749/Qwen3_0.6B_acot_emobench
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-100-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-100-step-GGUF
+jan-hq/Qwen3-14B-v0.2-deepresearch-no-think-100-step -> mradermacher/Qwen3-14B-v0.2-deepresearch-no-think-100-step-i1-GGUF
+CompassioninMachineLearning/pretrainedllama8bInstruct3kresearchpapers -> CompassioninMachineLearning/pretrainedllama8bInstruct1kresearchpapers_plus1kalignment_lora2epochs
+CompassioninMachineLearning/pretrainedllama8bInstruct3kresearchpapers -> CompassioninMachineLearning/pretrainedllama8bInstruct3kresearchpapers_plus1kalignment_lora2epochs
+aumoai/aumogpt-qwen2.5-3b -> GuilhermeAumo/aumogpt-qwen2.5-3b-Q4_K_M-GGUF
+SuperbEmphasis/Omega-Darker_The-Final-Directive-Longform-ERP-12B -> SuperbEmphasis/Omega-Darker_The-Final-Directive-Longform-ERP-12B-Q8_0-GGUF
+sujalrajpoot/JARVIS-7B -> sujalrajpoot/JARVIS-7B-GGUF
+minpeter/pretrained-tiny-ko -> minpeter/ko-tiny-exp
+sujalrajpoot/TrueSyncGenZ-7B -> sujalrajpoot/TrueSyncGenZ-7B-GGUF
+reflex-ai/Olmoe-0.5B-6B -> mradermacher/Olmoe-0.5B-6B-GGUF
+sayantan0013/tiny-qwen-base -> mradermacher/tiny-qwen-base-GGUF
+Erland/DeepSeek-R1-0528-Qwen3-8B -> TOTORONG/DeepSeek_8B_250603
+Erland/DeepSeek-R1-0528-Qwen3-8B -> TOTORONG/deepseek_8B_fine250603
+TienMat999/Llama-3.2-3B-ft-fp16-lora256-2025-06-03-offical -> TienMat999/Llama-3.2-3B-ft-fp16-lora256-2025-06-03-offical-Q4_K_M-GGUF
+yejunliang23/ShapeLLM-7B-omni -> mradermacher/ShapeLLM-7B-omni-GGUF
+Open-Reasoner-Zero/ORZ-R1-Distill-Qwen-14B -> mradermacher/ORZ-R1-Distill-Qwen-14B-GGUF
+ArliAI/RpR-v4-Fast-30B-A3B -> Merlinoz11/RpR-v4-Fast-30B-A3B-Q8_0-GGUF
+ArliAI/RpR-v4-Fast-30B-A3B -> Merlinoz11/RpR-v4-Fast-30B-A3B-Q6_K-GGUF
+ArliAI/RpR-v4-Fast-30B-A3B -> hardlyworking/RpR-v4-Fast-30B-A3B-Q4_K_S-GGUF
+ArliAI/RpR-v4-Fast-30B-A3B -> mradermacher/RpR-v4-Fast-30B-A3B-GGUF
+SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function -> SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function-Q4_K_M-GGUF
+SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function -> SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function-Q8_0-GGUF
+ArliAI/RpR-v4-Small-8B -> Disya/RpR-v4-Small-8B-Q8_0-GGUF
+ArliAI/RpR-v4-Small-8B -> OXKSA1/RpR-v4-Small-8B-IQ4_NL-GGUF
+ArliAI/RpR-v4-Small-8B -> Disya/RpR-v4-Small-8B-exl3-8bpw-h8
+ArliAI/RpR-v4-Small-8B -> mradermacher/RpR-v4-Small-8B-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q4_K_S-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q4_K_M-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q5_K_S-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q5_K_M-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q6_K-GGUF
+ArliAI/RpR-v4-Small-8B -> Triangle104/RpR-v4-Small-8B-Q8_0-GGUF
+ArliAI/RpR-v4-Small-8B -> mradermacher/RpR-v4-Small-8B-i1-GGUF
+sayantan0013/tiny-qwen-rubi-reason -> mradermacher/tiny-qwen-rubi-reason-GGUF
+publication-charaf/OA_Qwen3-0.6B-Base_lr-1e-05_e-1_s-0 -> publication-charaf/MIX_OA_Qwen3-0.6B-Base_lr-1e-05_e-1_s-0_lr-5e-06_e-1_s-0
+SophieA17/Sophie0-SFT -> SophieA17/Sophie0-DPO
+SophieA17/Sophie0-SFT -> SophieA17/Sophie0-Reasoning-SFT -> SophieA17/Sophie0-Reasoning-GRPO
+Abhinit/mistral-7b-finetuned-wiki -> Abhinit/mistral-7b-finetuned-alpaca
+SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function-Checkpoint2 -> SuperbEmphasis/Mistral-Nemo-R1-ERP-Reasoning-Limit-Function-Checkpoint2-Q8_0-GGUF
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-1
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-1
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-2
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-3
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-2
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-4
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-5
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-3
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-6
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-7
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-4
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-8
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO1-lora-0603201242-epoch-9
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-5
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-tion-v0-1-OnlineIPO1-lora-0603201242-epoch-10
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-1
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-2
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-6
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-3
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-4
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-5
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ollection-v0-1-NashMD-lora-0603201151-epoch-7
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-6
+vectorzhou/Qwen2.5-1.5B-Instruct-SFT-OpenHermes-2.5-Standard-SFT -> vectorzhou/vectorzhou-Qwen2-5-1-5B-Instruct-SFT-OpenHerm-ction-v0-1-OnlineIPO2-lora-0604063354-epoch-7
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-3b-1-epochs-alpha-0.2-beta-0 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-3b-1-epochs-alpha-0.2-beta-0-2-epochs
+TienMat999/Llama-3.2-3B-ft-fp16-lora128-2025-06-03-offical -> TienMat999/Llama-3.2-3B-ft-fp16-lora128-2025-06-03-offical-Q4_K_M-GGUF
+publication-charaf/OA_Qwen3-0.6B-Base_lr-1e-05_e-3_s-0 -> publication-charaf/MIX_OA_Qwen3-0.6B-Base_lr-1e-05_e-3_s-0_lr-1e-05_e-1_s-0
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-3b-1-epochs-alpha-0.4-beta-0 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-3b-1-epochs-alpha-0.4-beta-0-2-epochs
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-8b-1-epochs-alpha-0.2-beta-0.2 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-8b-1-epochs-alpha-0.2-beta-0.2-2-epochs
+TsurHerman/RedOcean-3Bx4 -> mradermacher/RedOcean-3Bx4-GGUF
+RUBBISHLIKE/SpaceR-SFT-7B -> mradermacher/SpaceR-SFT-7B-GGUF
+StanfordAIMI/SRR-T5-Base -> mradermacher/SRR-T5-Base-GGUF
+StanfordAIMI/SRR-T5-Flan -> mradermacher/SRR-T5-Flan-GGUF
+qyliang/GrammarCoder-7B-Base -> mradermacher/GrammarCoder-7B-Base-GGUF
+qyliang/GrammarCoder-7B-Base -> mradermacher/GrammarCoder-7B-Base-i1-GGUF
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-3b-1-epochs-alpha-0.6-beta-0 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-3b-1-epochs-alpha-0.6-beta-0-2-epochs
+llama-lang-adapt/BGE-m3-swahili -> mradermacher/BGE-m3-swahili-GGUF
+StanfordAIMI/SRR-T5-SciFive -> mradermacher/SRR-T5-SciFive-GGUF
+inclusionAI/AReaL-boba-2-8B-Open -> mradermacher/AReaL-boba-2-8B-Open-GGUF
+inclusionAI/AReaL-boba-2-8B-Open -> mradermacher/AReaL-boba-2-8B-Open-i1-GGUF
+inclusionAI/AReaL-boba-2-14B-Open -> mradermacher/AReaL-boba-2-14B-Open-GGUF
+Gen-Verse/ReasonFlux-Coder-14B -> mradermacher/ReasonFlux-Coder-14B-GGUF
+Gen-Verse/ReasonFlux-Coder-14B -> mradermacher/ReasonFlux-Coder-14B-i1-GGUF
+inclusionAI/AReaL-boba-2-32B -> mradermacher/AReaL-boba-2-32B-GGUF
+sp-embraceable/e1-olmo2-13b-instruct-FT-steps-2000-Merged -> sp-embraceable/e1-olmo2-13b-instruct-FT-steps-2000-Merged-Q4_K_M-GGUF
+ArliAI/Qwen2.5-72B-ArliAI-RPMax-v2 -> mradermacher/Qwen2.5-72B-ArliAI-RPMax-v2-GGUF
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-8b-1-epochs-alpha-0.2-beta-0.4 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-8b-1-epochs-alpha-0.2-beta-0.4-2-epochs
+HAissa/think_no_think_mmlu_35000 -> yassineturki/qlora_qwen_1100
+TIGER-Lab/One-Shot-CFT-Logic-Qwen-7B-CausalUnderstanding -> mradermacher/One-Shot-CFT-Logic-Qwen-7B-CausalUnderstanding-GGUF
+TIGER-Lab/One-Shot-CFT-Logic-Qwen-7B-TimeArithmetic -> mradermacher/One-Shot-CFT-Logic-Qwen-7B-TimeArithmetic-GGUF
+scanton/trained_encoder -> scanton/MNLP_M3_document_encoder
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-3b-1-epochs-alpha-1-beta-0 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-3b-1-epochs-alpha-1-beta-0-2-epochs
+Gen-Verse/ReasonFlux-Coder-4B -> mradermacher/ReasonFlux-Coder-4B-GGUF
+lerobot/smolvla_base -> ns69956/smolVLA_20K
+TIGER-Lab/One-Shot-CFT-Math-Qwen-7B -> mradermacher/One-Shot-CFT-Math-Qwen-7B-GGUF
+kowndinya23/tulu-v2-sft-mixture-150K-llama-3-3b-1-epochs-alpha-0-beta-0.2 -> kowndinya23/ultrafeedback_binarized-tulu-150K-llama-3-3b-1-epochs-alpha-0-beta-0.2-2-epochs
+CompassioninMachineLearning/pretrainedllama8bInstruct6kresearchpapers -> CompassioninMachineLearning/pretrainedllama8bInstruct6kresearchpapers_plus1kalignment_lora2epochs
+TheDrummer/Cydonia-24B-v3 -> mlx-community/Cydonia-24B-v3-bf16
+TheDrummer/Cydonia-24B-v3 -> mlx-community/Cydonia-24B-v3-8bit
+TheDrummer/Cydonia-24B-v3 -> mlx-community/Cydonia-24B-v3-6bit
+TheDrummer/Cydonia-24B-v3 -> mlx-community/Cydonia-24B-v3-4bit
+TheDrummer/Cydonia-24B-v3 -> ArtusDev/TheDrummer_Cydonia-24B-v3-EXL3
+gigipalsu/metland-ai-v0.1 -> gigipalsu/metland-ai-v0.2

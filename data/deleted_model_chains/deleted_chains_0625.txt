@@ -1,0 +1,2 @@
+muhtasham/orpheus-tj -> muhtasham/orpheus-tj-mlx-fp16
+Kwoya/Spyra-v0.1 -> Kwokou/Spyra-v0.1-Q8_0-GGUF

@@ -1,0 +1,17 @@
+LA1512/pretrained_LoRa_merged -> LA1512/checkpoint-finetuning
+wareocraftworld/Alanta-V1 -> mradermacher/Alanta-V1-GGUF
+kamelcharaf/Llama-3.1-8B-Instruct-quantized-4bit -> kamelcharaf/SFT-meta-Llama-3.1-8B-quant-mrd3
+kamelcharaf/Qwen2.5-14B-Instruct-quantized-4bit -> kamelcharaf/SFT-qwen2.5-14B-quant-mrd3
+kamelcharaf/Qwen2.5-14B-Instruct-quantized-4bit -> kamelcharaf/GRPO-qwen2.5-14B-quant-qwen2.5-14B-quant-mrd3-s2-sum
+kamelcharaf/Qwen2.5-14B-Instruct-quantized-4bit -> kamelcharaf/GRPO-SFT-qwen2.5-14B-quant-qwen2.5-14B-quant-mrd3-s2-sum
+kamelcharaf/Qwen2.5-32B-Instruct-quantized-4bit -> kamelcharaf/SFT-qwen2.5-Llama-32B-quant-mrd3
+NewEden/KTO-rae-adaptor -> NewEden/rae-12b-kto-with-lora-merged
+kamelcharaf/Phi-3-medium-128k-instruct-quantized-4bit -> kamelcharaf/SFT-phi-3-14B-quant-mrd3
+kamelcharaf/Phi-3-medium-128k-instruct-quantized-4bit -> kamelcharaf/GRPO-SFT-phi-3-14B-quant-phi-3-14B-quant-mrd3-s3-sum
+kamelcharaf/Phi-3-medium-128k-instruct-quantized-4bit -> kamelcharaf/GRPO-phi-3-14B-quant-phi-3-14B-quant-mrd3-s3-sum
+kamelcharaf/gemma-2-27b-it-quantized-4bit -> kamelcharaf/SFT-gemma-Gemma-27B-quant-mrd3
+NewEden/V4-lora -> NewEden/kalomaze-nemo-subseq-perseq-e1.5-V4-lora-merged
+Vale55/gemma4b -> Vale55/gemma4b-Q8_0-GGUF
+NewEden/GLM-New-V3 -> Delta-Vector/GLM-New-V3-Q5_0-GGUF
+kamelcharaf/Mistral-Small-24B-Instruct-2501-quantized-4bit -> kamelcharaf/SFT-mistral-24B-quant-mrd3
+NewEden/Rae-Instruct -> Delta-Vector/Rae-Instruct-Q6_K-GGUF

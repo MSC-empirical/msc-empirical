@@ -1,0 +1,10 @@
+sujalrajpoot/Aya-3B -> sujalrajpoot/Aya-3B-GGUF
+qqfang97/r1-q1 -> qqfang97/r1-q2 -> qqfang97/r1-q3 -> qqfang97/r1-q3-Q4_K_M-GGUF
+marissaliora/merged-llama2 -> marissaliora/llama2_merged
+harissonduraes/fine-tuning -> harissonduraes/fine-tuning-F16-GGUF
+sujalrajpoot/JARVIS-7B -> sujalrajpoot/JARVIS-7B-GGUF
+sujalrajpoot/TrueSyncGenZ-7B -> sujalrajpoot/TrueSyncGenZ-7B-GGUF
+7h3-R3v3n4n7/pentest-agent-merged-4bit -> 7h3-R3v3n4n7/pentest-agent-8bit-Q8_0-gguf
+7h3-R3v3n4n7/pentest-agent-merged-4bit -> 7h3-R3v3n4n7/pentest-agent-16bit-gguf
+7h3-R3v3n4n7/pentest-agent-merged-4bit -> 7h3-R3v3n4n7/pentest-agent-q4_k_m-gguf
+ncauchi1/image_pointing_merged_temp -> ncauchi1/pointing_demo_5k_adapter_2

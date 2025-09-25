@@ -1,0 +1,17 @@
+C10X/g -> C10X/qwenlora1
+J-AI/Qwen_R1-PTBR -> J-AI/Qwen_R1-PTBR-Q4_K_M-GGUF
+C10X/Qwen2.5-1.5B-Instruct-Checkpoint-866 -> C10X/Qwen2.5-1.5B-Instruct-Checkpoint-866-Q8_0-GGUF
+C10X/Qwen2.5-3B-Instruct -> C10X/modelTTTT
+C10X/Qwen2.5-3B-Instruct -> C10X/Qwen2.5-3B-Instruct-Q4_K_M-GGUF
+C10X/Qwen2.5-3B-Instruct -> C10X/mode11111edxl -> C10X/mode11111edxl-Q8_0-GGUF
+C10X/gemma-3-finetune-LONGS -> C10X/gemma-3-finetune-LONGS-Q4_K_M-GGUF
+C10X/gemma-3-finetune-LONGS -> C10X/gemma-3-finetune-LONGS-Q8_0-GGUF
+zhiyuanhucs/formula-200-2 -> zhiyuanhucs/merge-formula-1-sequence-0.1-200-2
+zhiyuanhucs/formula-200-2 -> zhiyuanhucs/merge-formula-1-sequence-0.1-backward-old-0.1
+gglabs/78under_log_202503_training_mistral_small_24B_2501_merged -> gglabs/250404-Mistral-Small-24B-ggls-78under-1-epoch
+C10X/DeepCodeditor-1.5B-Preview -> C10X/DeepCodeditor-1.5B-Preview-Q8_0-GGUF
+Jawaker/t5-small-tcp-all-states04 -> Jawaker/t5-small-tcp-5epochs
+C10X/your_model_repoTEST -> C10X/your_model_repoTEST-Q8_0-GGUF
+Jawaker/t5-small-tcp-all-states05 -> Jawaker/sunflower
+gabrielbosse9/Umbr0x-1.5B-V3.1-16bit -> gabrielbosse9/Umbr0x-1.5B-V3.1-16bit-2 -> gabrielbosse9/Umbr0x-1.5B-V3.1-16bit-3 -> gabrielbosse9/Umbr0x-1.5B-V3.1-16bit-4
+gabrielbosse9/Umbr0x-1.5B-V3.1-16bit -> gabrielbosse9/Umbr0x-1.5B-V3.1-16bit-2 -> gabrielbosse9/Umbr0x-1.5B-V3.1-16bit-3 -> gabrielbosse9/Umbr0x-7B-V3.1-4bit-4
